@@ -1,0 +1,351 @@
+Project_ID,Client_ID,Project_Name,Service_Type,Start_Date,Planned_End_Date,Actual_End_Date,Project_Status,Project_Value,Project_Cost,Priority,Project_Manager_ID
+P0001,C0049,Data Analytics - FinWorks Initiative 1,Data Analytics,2025-11-14,2026-03-10,2026-03-13,Completed,847000,448000,Medium,E0106
+P0002,C0099,Software Testing - BrightWorks Initiative 2,Software Testing,2026-06-24,2026-08-06,Null,In Progress,301000,256000,Medium,E0119
+P0003,C0012,Application Maintenance - NexaEnterprises Initiative 3,Application Maintenance,2025-01-19,2025-05-11,Null,In Progress,248000,190000,Critical,E0088
+P0004,C0159,Software Testing - BrightGroup Initiative 4,Software Testing,2025-08-08,2025-11-23,2025-11-26,Completed,474000,239000,Low,E0134
+P0005,C0025,IT Support - NexaSolutions Initiative 5,IT Support,2025-08-20,2025-10-14,Null,Cancelled,258000,209000,Critical,E0074
+P0006,C0175,Data Analytics - ApexDigital Initiative 6,Data Analytics,2025-10-30,2025-12-14,2025-12-14,Completed,268000,198000,Critical,E0136
+P0007,C0171,Software Development - BluePeakWorks Initiative 7,Software Development,2025-12-11,2026-02-02,2026-02-02,Completed,1029000,765000,High,E0147
+P0008,C0107,Cloud Services - BrightWorks Initiative 8,Cloud Services,2025-06-07,2025-08-07,Null,In Progress,815000,521000,Medium,E0074
+P0009,C0101,Software Testing - BrightIndustries Initiative 9,Software Testing,2026-03-25,2026-04-25,2026-04-25,Completed,585000,331000,High,E0119
+P0010,C0087,Application Maintenance - VertexLabs Initiative 10,Application Maintenance,2025-09-01,2026-01-12,2026-03-02,Delayed,473000,366000,High,E0088
+P0011,C0048,Custom Software - CloudDigital Initiative 11,Custom Software,2025-08-28,2025-11-17,Null,In Progress,384000,318000,High,E0088
+P0012,C0121,Custom Software - PrimeSolutions Initiative 12,Custom Software,2025-07-18,2025-11-09,2025-11-12,Completed,400000,266000,Medium,E0147
+P0013,C0113,Custom Software - PrimeTech Initiative 13,Custom Software,2026-04-18,2026-07-19,2026-07-19,Completed,1072000,544000,High,E0119
+P0014,C0121,Cloud Services - PrimeSolutions Initiative 14,Cloud Services,2025-06-15,2025-08-25,2025-09-19,Completed,642000,333000,Medium,E0147
+P0015,C0094,Software Testing - CoreIndustries Initiative 15,Software Testing,2025-09-14,2025-10-17,2025-10-17,Completed,626000,302000,Low,E0134
+P0016,C0109,Application Maintenance - CoreIndustries Initiative 16,Application Maintenance,2026-07-22,2026-09-06,2026-10-31,Delayed,571000,423000,Medium,E0136
+P0017,C0053,Data Analytics - GreenDigital Initiative 17,Data Analytics,2025-10-19,2025-11-29,2026-01-26,Delayed,653000,321000,Low,E0074
+P0018,C0013,Power BI Development - ApexGroup Initiative 18,Power BI Development,2026-04-06,2026-06-02,2026-06-17,Completed,829000,654000,Medium,E0119
+P0019,C0027,Data Analytics - NexaDigital Initiative 19,Data Analytics,2025-08-16,2025-12-29,2025-12-29,Completed,548000,415000,Medium,E0106
+P0020,C0012,Software Development - NexaEnterprises Initiative 20,Software Development,2026-03-01,2026-04-03,Null,In Progress,1041000,812000,Medium,E0119
+P0021,C0105,Application Maintenance - VertexEnterprises Initiative 21,Application Maintenance,2025-08-30,2025-12-26,Null,In Progress,152000,129000,Medium,E0059
+P0022,C0090,Application Maintenance - ApexSystems Initiative 22,Application Maintenance,2025-08-18,2025-09-14,Null,In Progress,319000,241000,Medium,E0106
+P0023,C0099,Data Analytics - BrightWorks Initiative 23,Data Analytics,2025-12-10,2026-02-05,Null,In Progress,532000,430000,Medium,E0074
+P0024,C0044,Software Development - BluePeakEnterprises Initiative 24,Software Development,2025-10-21,2026-03-10,2026-05-03,Delayed,1377000,970000,Medium,E0074
+P0025,C0143,Custom Software - NovaSolutions Initiative 25,Custom Software,2026-04-05,2026-04-26,2026-07-02,Delayed,2148000,1615000,Medium,E0059
+P0026,C0047,Software Development - BrightDigital Initiative 26,software development,2025-09-20,2025-12-04,2025-12-04,Completed,949000,769000,Medium,E0074
+P0027,C0107,Cloud Services - BrightWorks Initiative 27,Cloud Services,2025-04-24,2025-07-26,Null,In Progress,644000,372000,Medium,E0076
+P0028,C0016,Power BI Development - PrimeIndustries Initiative 28,Power BI Development,2025-05-05,2025-06-06,2025-07-01,Delayed,413000,251000,Medium,E0119
+P0029,C0102,Custom Software - BluePeakGroup Initiative 29,Custom Software,2025-03-06,2025-04-23,2025-04-26,Completed,1021000,555000,High,E0134
+P0030,C0136,Software Development - GreenTech Initiative 30,Software Development,2026-06-12,2026-09-01,2026-09-01,Completed,1689000,882000,Medium,E0074
+P0031,C0021,Power BI Development - BrightTech Initiative 31,Power BI Development,2026-03-16,2026-04-05,2026-04-05,Completed,405000,338000,Low,E0147
+P0032,C0072,Application Maintenance - BrightSolutions Initiative 32,Application Maintenance,2025-09-04,2026-01-08,2026-01-08,Completed,303000,245000,Medium,E0074
+P0033,C0072,Data Analytics - BrightSolutions Initiative 33,Data Analytics,2026-06-21,2026-10-11,2026-10-14,Completed,282000,210000,Critical,E0059
+P0034,C0064,Software Development - PrimeWorks Initiative 34,Software Development,2026-02-04,2026-06-24,Null,Cancelled,699000,558000,High,E0017
+P0035,C0084,Cloud Services - ApexLabs Initiative 35,Cloud Services,2026-01-18,2026-04-12,2026-06-08,Delayed,723000,355000,High,E0017
+P0036,C0061,Application Maintenance - FusionEnterprises Initiative 36,Application Maintenance,2025-03-11,2025-06-27,Null,Cancelled,141000,102000,Low,E0076
+P0037,C0143,Data Analytics - NovaSolutions Initiative 37,Data Analytics,2026-08-19,2026-12-02,Null,In Progress,1620000,1126000,High,E0074
+P0038,C0008,Software Development - GreenTech Initiative 38,Software Development,2025-12-27,2026-04-12,2026-06-13,Delayed,852000,549000,Medium,E0074
+P0039,C0099,Custom Software - BrightWorks Initiative 39,Custom Software,2026-05-06,2026-07-11,Null,In Progress,788000,496000,Medium,E0074
+P0040,C0046,Data Analytics - NovaWorks Initiative 40,Data Analytics,2026-04-14,2026-05-13,Null,In Progress,1125000,825000,Medium,E0088
+P0041,C0017,IT Support - ZenithGroup Initiative 41,IT Support,2025-02-14,2025-04-26,2025-04-26,Completed,277000,135000,Medium,E0017
+P0042,C0041,Application Maintenance - VertexTech Initiative 42,Application Maintenance,2025-11-14,2026-03-15,2026-03-15,Completed,266000,224000,Low,E0136
+P0043,C0009,Custom Software - ZenithDigital Initiative 43,Custom Software,2025-09-17,2025-10-16,2025-12-13,Delayed,1123000,564000,Medium,E0076
+P0044,C0021,Power BI Development - BrightTech Initiative 44,Power BI Development,2026-01-01,2026-02-02,2026-02-05,Completed,649000,444000,High,E0106
+P0045,C0019,Power BI Development - ZenithGroup Initiative 45,Power BI Development,2025-05-08,2025-08-30,2025-08-30,Completed,664000,490000,High,E0119
+P0046,C0009,Cloud Services - ZenithDigital Initiative 46,Cloud Services,2026-03-27,2026-07-23,2026-07-26,Completed,805000,554000,Critical,E0106
+P0047,C0023,Software Testing - BrightSolutions Initiative 47,Software Testing,2026-05-24,2026-10-18,Null,In Progress,322000,180000,Medium,E0106
+P0048,C0113,Power BI Development - PrimeTech Initiative 48,Power BI Development,2025-03-26,2025-08-01,2025-08-04,Completed,575000,455000,Low,E0059
+P0049,C0107,Cloud Services - BrightWorks Initiative 49,Cloud Services,2025-07-04,2025-10-07,2025-11-06,Delayed,973000,739000,Medium,E0059
+P0050,C0087,Data Analytics - VertexLabs Initiative 50,Data Analytics,2025-12-02,2026-03-07,Null,In Progress,298000,187000,Medium,E0088
+P0051,C0068,Custom Software - UrbanSolutions Initiative 51,Custom Software,2026-03-13,2026-05-14,Null,In Progress,969000,622000,High,E0134
+P0052,C0153,Application Maintenance - OrbitEnterprises Initiative 52,Application Maintenance,2026-04-03,2026-05-03,2026-05-18,Completed,144000,73000,Medium,E0106
+P0053,C0015,Cloud Services - VertexEnterprises Initiative 53,Cloud Services,2025-10-09,2025-11-12,2025-11-19,Completed,305000,206000,Medium,E0059
+P0054,C0160,Cloud Services - VertexEnterprises Initiative 54,Cloud Services,2026-01-08,2026-03-09,Null,Cancelled,419000,307000,High,E0017
+P0055,C0137,Software Testing - NexaTech Initiative 55,Software Testing,2026-03-25,2026-04-22,Null,Cancelled,353000,244000,Medium,E0074
+P0056,C0129,Data Analytics - ZenithEnterprises Initiative 56,Data Analytics,2025-08-30,2025-12-21,Null,In Progress,552000,337000,High,E0106
+P0057,C0114,Cloud Services - NovaSystems Initiative 57,Cloud Services,2026-08-04,2026-09-01,2026-10-19,Delayed,283000,242000,Medium,E0074
+P0058,C0153,Custom Software - OrbitEnterprises Initiative 58,Custom Software,2026-01-15,2026-05-10,2026-06-17,Delayed,387000,307000,High,E0059
+P0059,C0018,Software Testing - NexaIndustries Initiative 59,Software Testing,2026-06-27,2026-10-18,2026-11-22,Delayed,393000,201000,Medium,E0106
+P0060,C0036,Power BI Development - CoreLabs Initiative 60,Power BI Development,2025-09-13,2025-11-01,Null,Cancelled,936000,626000,High,E0017
+P0061,C0021,Software Testing - BrightTech Initiative 61,Software Testing,2026-05-27,2026-09-23,2026-11-30,Delayed,544000,339000,High,E0136
+P0062,C0081,Data Analytics - ApexLabs Initiative 62,Data Analytics,2025-09-26,2025-12-21,2026-01-15,Completed,1019000,758000,High,E0134
+P0063,C0100,IT Support - PrimeTech Initiative 63,IT Support,2025-10-20,2026-03-14,Null,In Progress,514000,341000,High,E0076
+P0064,C0033,Data Analytics - FusionLabs Initiative 64,Data Analytics,2025-05-19,2025-06-26,2025-07-21,Completed,572000,280000,Medium,E0134
+P0065,C0073,Software Testing - FusionTech Initiative 65,Software Testing,2026-04-01,2026-05-13,2026-05-16,Completed,208000,134000,Medium,E0106
+P0066,C0126,Application Maintenance - ApexDigital Initiative 66,Application Maintenance,2025-03-08,2025-06-10,Null,Cancelled,637000,319000,Low,E0088
+P0067,C0082,Software Testing - OrbitWorks Initiative 67,Software Testing,2025-06-28,2025-10-18,2025-10-18,Completed,270000,142000,High,E0136
+P0068,C0008,IT Support - GreenTech Initiative 68,IT Support,2025-05-05,2025-07-15,Null,In Progress,145000,103000,Medium,E0074
+P0069,C0098,IT Support - FusionGroup Initiative 69,IT Support,2026-05-21,2026-06-16,2026-06-23,Completed,184000,114000,High,E0106
+P0070,C0153,Application Maintenance - OrbitEnterprises Initiative 70,Application Maintenance,2026-04-24,2026-06-16,2026-06-16,Completed,162000,110000,Medium,E0147
+P0071,C0167,Data Analytics - GreenSolutions Initiative 71,Data Analytics,2025-03-09,2025-06-16,Null,In Progress,861000,449000,Medium,E0119
+P0072,C0084,Custom Software - ApexLabs Initiative 72,Custom Software,2026-06-23,2026-10-26,2026-10-26,Completed,1214000,802000,Medium,E0119
+P0073,C0132,Data Analytics - BluePeakSolutions Initiative 73,Data Analytics,2025-05-09,2025-08-18,Null,In Progress,434000,260000,Medium,E0059
+P0074,C0108,Custom Software - UrbanTech Initiative 74,Custom Software,2026-04-23,2026-08-09,2026-08-27,Delayed,1372000,1002000,High,E0136
+P0075,C0113,Software Testing - PrimeTech Initiative 75,Software Testing,2025-05-13,2025-09-20,2025-09-23,Completed,258000,196000,Low,E0136
+P0076,C0154,Software Development - ZenithDigital Initiative 76,Software Development,2025-05-08,2025-07-06,2025-07-13,Completed,288000,170000,High,E0088
+P0077,C0079,Software Testing - FusionWorks Initiative 77,Software Testing,2025-06-15,2025-09-25,2025-09-25,Completed,320000,246000,Low,E0076
+P0078,C0177,Application Maintenance - UrbanDigital Initiative 78,Application Maintenance,2026-06-16,2026-09-16,Null,In Progress,150000,78000,High,E0059
+P0079,C0011,Power BI Development - BrightLabs Initiative 79,Power BI Development,2025-07-21,2025-10-19,2025-11-13,Completed,490000,383000,High,E0074
+P0080,C0020,Power BI Development - GreenLabs Initiative 80,Power BI Development,2026-07-01,2026-08-13,2026-08-13,Completed,578000,481000,Medium,E0136
+P0081,C0111,Software Testing - NovaLabs Initiative 81,Software Testing,2026-08-18,2026-10-16,2026-10-31,Completed,276000,145000,High,E0074
+P0082,C0082,Application Maintenance - OrbitWorks Initiative 82,Application Maintenance,2026-08-01,2026-08-31,2026-09-07,Completed,266000,203000,High,E0017
+P0083,C0021,Data Analytics - BrightTech Initiative 83,Data Analytics,2025-02-16,2025-05-14,2025-07-04,Delayed,774000,661000,Low,E0076
+P0084,C0107,Cloud Services - BrightWorks Initiative 84,Cloud Services,2025-02-01,2025-06-28,Null,In Progress,638000,510000,Medium,E0136
+P0085,C0157,Power BI Development - VertexDigital Initiative 85,Power BI Development,2025-11-06,2026-03-29,2026-04-23,Delayed,660000,489000,High,E0119
+P0086,C0090,Power BI Development - ApexSystems Initiative 86,Power BI Development,2026-04-10,2026-05-18,2026-05-18,Completed,493000,422000,High,E0017
+P0087,C0048,Software Testing - CloudDigital Initiative 87,Software Testing,2026-03-27,2026-07-31,2026-08-07,Completed,191000,105000,Medium,E0134
+P0088,C0153,Custom Software - OrbitEnterprises Initiative 88,Custom Software,2025-07-28,2025-11-12,2025-11-27,Completed,569000,305000,Critical,E0147
+P0089,C0164,Software Testing - CoreWorks Initiative 89,Software Testing,2025-11-17,2026-02-26,2026-02-26,Completed,224000,157000,High,E0106
+P0090,C0081,Cloud Services - ApexLabs Initiative 90,Cloud Services,2025-05-14,2025-09-05,Null,In Progress,949000,628000,Low,E0136
+P0091,C0014,Data Analytics - NexaLabs Initiative 91,Data Analytics,2025-11-23,2026-02-12,2026-03-23,Delayed,560000,412000,Medium,E0059
+P0092,C0092,Power BI Development - OrbitSystems Initiative 92,Power BI Development,2026-04-06,2026-06-28,2026-07-17,Delayed,275000,205000,Medium,E0059
+P0093,C0076,Software Development - PrimeSystems Initiative 93,Software Development,2025-10-25,2026-02-20,2026-02-23,Completed,454000,233000,High,E0147
+P0094,C0168,Cloud Services - NovaEnterprises Initiative 94,Cloud Services,2025-09-12,2025-11-11,2025-11-18,Completed,1373000,720000,Medium,E0106
+P0095,C0155,Application Maintenance - BluePeakSystems Initiative 95,Application Maintenance,2025-07-14,2025-09-12,2025-09-12,Completed,730000,443000,High,E0134
+P0096,C0091,Custom Software - FusionEnterprises Initiative 96,Custom Software,2026-05-26,2026-09-01,2026-10-12,Delayed,1687000,1369000,Medium,E0017
+P0097,C0144,Data Analytics - CloudWorks Initiative 97,Data Analytics,2026-02-07,2026-07-06,Null,In Progress,151000,77000,Medium,E0134
+P0098,C0053,IT Support - GreenDigital Initiative 98,IT Support,2025-08-09,2025-11-27,Null,In Progress,335000,256000,Critical,E0017
+P0099,C0082,Software Development - OrbitWorks Initiative 99,Software Development,2025-10-16,2026-03-11,2026-04-28,Delayed,580000,332000,Medium,E0134
+P0100,C0010,Power BI Development - ZenithWorks Initiative 100,Power BI Development,2026-07-04,2026-07-26,2026-08-10,Completed,630000,310000,Medium,E0059
+P0101,C0169,Cloud Services - FinGroup Initiative 101,Cloud Services,2025-05-18,2025-08-13,Null,In Progress,1227000,599000,Critical,E0106
+P0102,C0146,Cloud Services - UrbanWorks Initiative 102,Cloud Services,2026-01-10,2026-02-10,2026-02-13,Completed,1789000,1525000,Medium,E0119
+P0103,C0116,Software Development - CloudEnterprises Initiative 103,Software Development,2026-08-07,2026-10-15,2026-10-15,Completed,706000,432000,Medium,E0106
+P0104,C0071,Power BI Development - UrbanLabs Initiative 104,Power BI Development,2025-03-17,2025-07-13,Null,In Progress,268000,200000,Low,E0136
+P0105,C0006,Custom Software - PrimeWorks Initiative 105,Custom Software,2026-07-18,2026-10-17,Null,In Progress,989000,794000,Medium,E0147
+P0106,C0141,Data Analytics - CloudEnterprises Initiative 106,Data Analytics,2025-05-12,2025-06-25,2025-07-02,Completed,539000,352000,Medium,E0119
+P0107,C0173,Application Maintenance - NovaIndustries Initiative 107,Application Maintenance,2025-12-14,2026-04-06,2026-04-21,Completed,283000,191000,High,E0074
+P0108,C0125,IT Support - ApexWorks Initiative 108,IT Support,2026-06-06,2026-10-06,Null,In Progress,151000,124000,Medium,E0136
+P0109,C0073,Software Development - FusionTech Initiative 109,Software Development,2025-02-16,2025-03-17,Null,Cancelled,680000,526000,Medium,E0074
+P0110,C0010,Application Maintenance - ZenithWorks Initiative 110,Application Maintenance,2026-05-01,2026-09-14,2026-10-03,Delayed,389000,245000,Medium,E0147
+P0111,C0172,Software Testing - BrightEnterprises Initiative 111,Software Testing,2025-12-02,2026-03-13,2026-04-02,Delayed,346000,278000,Medium,E0119
+P0112,C0093,Power BI Development - ZenithEnterprises Initiative 112,Power BI Development,2025-12-11,2026-05-09,2026-05-12,Completed,269000,144000,Low,E0136
+P0113,C0044,Custom Software - BluePeakEnterprises Initiative 113,Custom Software,2026-07-31,2026-11-04,Null,Cancelled,3369000,2151000,High,E0134
+P0114,C0066,Software Development - NovaSystems Initiative 114,Software Development,2026-01-13,2026-04-27,2026-06-19,Delayed,1058000,797000,Low,E0059
+P0115,C0068,Cloud Services - UrbanSolutions Initiative 115,Cloud Services,2026-08-21,2026-11-27,Null,In Progress,1013000,694000,Medium,E0017
+P0116,C0152,Custom Software - NovaDigital Initiative 116,Custom Software,2025-09-29,2025-12-16,2025-12-19,Completed,2060000,1251000,High,E0017
+P0117,C0019,Custom Software - ZenithGroup Initiative 117,Custom Software,2025-06-24,2025-10-19,Null,In Progress,1588000,1033000,High,E0074
+P0118,C0157,IT Support - VertexDigital Initiative 118,IT Support,2025-02-02,2025-03-22,Null,In Progress,495000,261000,Medium,E0076
+P0119,C0020,Software Development - GreenLabs Initiative 119,Software Development,2026-03-28,2026-07-06,2026-08-11,Delayed,793000,449000,Medium,E0074
+P0120,C0101,Cloud Services - BrightIndustries Initiative 120,Cloud Services,2025-07-28,2025-11-30,2026-01-11,Delayed,1943000,1625000,High,E0147
+P0121,C0112,Custom Software - CoreSystems Initiative 121,Custom Software,2025-03-05,2025-04-29,Null,In Progress,1939000,1424000,Low,E0136
+P0122,C0071,IT Support - UrbanLabs Initiative 122,IT Support,2026-07-29,2026-11-09,2026-11-09,Completed,151000,78000,High,E0134
+P0123,C0170,Cloud Services - CoreTech Initiative 123,Cloud Services,2025-11-18,2026-01-21,Null,In Progress,1847000,1525000,High,E0134
+P0124,C0008,Application Maintenance - GreenTech Initiative 124,Application Maintenance,2026-07-14,2026-11-01,2026-11-04,Completed,224000,181000,Medium,E0088
+P0125,C0037,Custom Software - FusionLabs Initiative 125,Custom Software,2025-07-16,2025-10-07,Null,In Progress,787000,467000,Medium,E0088
+P0126,C0096,Power BI Development - CloudEnterprises Initiative 126,Power BI Development,2025-08-19,2025-11-23,2026-01-21,Delayed,686000,483000,Medium,E0088
+P0127,C0082,IT Support - OrbitWorks Initiative 127,IT Support,2026-05-16,2026-08-25,Null,Cancelled,233000,163000,High,E0134
+P0128,C0038,Application Maintenance - NexaDigital Initiative 128,Application Maintenance,2026-07-28,2026-10-26,2026-11-23,Delayed,270000,214000,Medium,E0059
+P0129,C0107,Cloud Services - BrightWorks Initiative 129,Cloud Services,2026-02-09,2026-05-28,Null,In Progress,914000,707000,High,E0074
+P0130,C0087,Power BI Development - VertexLabs Initiative 130,Power BI Development,2025-02-13,2025-05-17,2025-05-17,Completed,449000,302000,Medium,E0059
+P0131,C0126,Application Maintenance - ApexDigital Initiative 131,Application Maintenance,2026-03-29,2026-06-22,Null,In Progress,801000,538000,Low,E0134
+P0132,C0080,IT Support - BrightWorks Initiative 132,IT Support,2025-07-26,2025-10-23,2025-10-23,Completed,217000,184000,Medium,E0136
+P0133,C0076,Power BI Development - PrimeSystems Initiative 133,Power BI Development,2025-05-21,2025-07-07,2025-07-07,Completed,241000,116000,Low,E0147
+P0134,C0102,IT Support - BluePeakGroup Initiative 134,IT Support,2025-09-06,2025-10-08,2025-10-08,Completed,138000,115000,High,E0136
+P0135,C0152,IT Support - NovaDigital Initiative 135,IT Support,2025-08-27,2025-09-29,Null,In Progress,242000,161000,Critical,E0059
+P0136,C0010,Cloud Services - ZenithWorks Initiative 136,Cloud Services,2025-12-05,2026-04-24,Null,In Progress,844000,634000,Medium,E0059
+P0137,C0096,Software Testing - CloudEnterprises Initiative 137,Software Testing,2025-01-06,2025-03-07,2025-03-07,Completed,525000,378000,Low,E0119
+P0138,C0120,Custom Software - ZenithWorks Initiative 138,Custom Software,2026-05-04,2026-07-14,2026-07-21,Completed,297000,156000,Low,E0088
+P0139,C0008,Application Maintenance - GreenTech Initiative 139,Application Maintenance,2025-10-20,2025-11-24,2025-11-27,Completed,244000,180000,Low,E0059
+P0140,C0056,IT Support - CloudIndustries Initiative 140,IT Support,2026-07-02,2026-07-31,2026-07-31,Completed,291000,239000,Medium,E0074
+P0141,C0077,Cloud Services - FinIndustries Initiative 141,Cloud Services,2025-06-30,2025-07-29,2025-07-29,Completed,462000,323000,Medium,E0119
+P0142,C0070,Custom Software - OrbitGroup Initiative 142,Custom Software,2025-07-10,2025-10-12,2025-10-12,Completed,1305000,960000,High,E0017
+P0143,C0115,Software Development - ApexGroup Initiative 143,Software Development,2025-11-02,2025-12-19,2025-12-19,Completed,1800000,1490000,Medium,E0106
+P0144,C0097,Power BI Development - BluePeakSolutions Initiative 144,Power BI Development,2026-04-11,2026-09-04,2026-09-19,Completed,286000,184000,Medium,E0074
+P0145,C0177,Custom Software - UrbanDigital Initiative 145,Custom Software,2025-10-07,2025-12-15,2025-12-15,Completed,700000,426000,Medium,E0059
+P0146,C0131,Application Maintenance - BluePeakDigital Initiative 146,Application Maintenance,2025-06-16,2025-10-31,2025-10-31,Completed,383000,284000,Low,E0088
+P0147,C0063,Software Testing - CloudDigital Initiative 147,Software Testing,2025-01-15,2025-05-01,2025-05-01,Completed,583000,286000,Low,E0088
+P0148,C0041,IT Support - VertexTech Initiative 148,IT Support,2025-06-29,2025-10-30,2025-12-31,Delayed,154000,109000,Critical,E0119
+P0149,C0079,Application Maintenance - FusionWorks Initiative 149,Application Maintenance,2025-03-30,2025-07-30,Null,In Progress,156000,95000,Medium,E0059
+P0150,C0108,Software Testing - UrbanTech Initiative 150,Software Testing,2025-05-24,2025-10-13,2025-10-13,Completed,170000,98000,Medium,E0106
+P0151,C0050,IT Support - VertexLabs Initiative 151,IT Support,2025-01-07,2025-04-03,2025-04-03,Completed,330000,231000,High,E0119
+P0152,C0118,IT Support - GreenLabs Initiative 152,IT Support,2026-04-03,2026-06-30,2026-06-30,Completed,272000,194000,Low,E0106
+P0153,C0083,Power BI Development - BluePeakLabs Initiative 153,Power BI Development,2026-08-20,2026-09-11,Null,In Progress,370000,305000,Medium,E0088
+P0154,C0140,Application Maintenance - NovaSolutions Initiative 154,Application Maintenance,2025-08-30,2025-10-04,Null,Cancelled,231000,187000,Medium,E0059
+P0155,C0119,Custom Software - CloudDigital Initiative 155,Custom Software,2025-11-11,2026-01-10,2026-01-10,Completed,2614000,1839000,Medium,E0119
+P0156,C0168,Power BI Development - NovaEnterprises Initiative 156,Power BI Development,2025-05-01,2025-08-04,2025-08-11,Completed,615000,524000,High,E0106
+P0157,C0113,IT Support - PrimeTech Initiative 157,IT Support,2025-08-13,2025-10-06,2025-10-13,Completed,361000,290000,High,E0134
+P0158,C0092,Software Testing - OrbitSystems Initiative 158,Software Testing,2026-04-11,2026-08-04,2026-08-07,Completed,278000,135000,High,E0119
+P0159,C0107,Custom Software - BrightWorks Initiative 159,Custom Software,2026-07-05,2026-09-18,2026-09-18,Completed,1041000,817000,Critical,E0076
+P0160,C0159,Data Analytics - BrightGroup Initiative 160,Data Analytics,2026-06-23,2026-11-04,2026-11-11,Completed,1019000,775000,High,E0136
+P0161,C0058,Application Maintenance - BluePeakGroup Initiative 161,Application Maintenance,2025-03-21,2025-05-08,2025-05-08,Completed,472000,242000,Medium,E0017
+P0162,C0044,IT Support - BluePeakEnterprises Initiative 162,IT Support,2026-08-10,2026-10-07,2026-10-14,Completed,245000,124000,High,E0074
+P0163,C0040,Application Maintenance - ZenithEnterprises Initiative 163,Application Maintenance,2026-06-17,2026-10-28,2026-11-04,Completed,431000,244000,Critical,E0059
+P0164,C0067,IT Support - CloudLabs Initiative 164,IT Support,2026-08-21,2027-01-13,Null,In Progress,382000,325000,Medium,E0059
+P0165,C0159,Custom Software - BrightGroup Initiative 165,Custom Software,2025-02-26,2025-07-12,Null,In Progress,718000,467000,High,E0074
+P0166,C0050,Cloud Services - VertexLabs Initiative 166,Cloud Services,2026-04-13,2026-05-17,Null,In Progress,1088000,750000,Medium,E0136
+P0167,C0146,Custom Software - UrbanWorks Initiative 167,Custom Software,2025-11-12,2025-12-07,Null,In Progress,3010000,1597000,Low,E0119
+P0168,C0169,Power BI Development - FinGroup Initiative 168,Power BI Development,2025-01-04,2025-03-20,2025-03-20,Completed,1011000,807000,High,E0147
+P0169,C0092,Data Analytics - OrbitSystems Initiative 169,Data Analytics,2025-02-16,2025-06-24,2025-07-01,Completed,368000,294000,High,E0106
+P0170,C0172,Data Analytics - BrightEnterprises Initiative 170,Data Analytics,2026-07-09,2026-08-13,2026-08-16,Completed,382000,255000,High,E0059
+P0171,C0033,Custom Software - FusionLabs Initiative 171,Custom Software,2025-02-02,2025-05-06,Null,In Progress,895000,758000,Critical,E0119
+P0172,C0095,Software Testing - CoreDigital Initiative 172,Software Testing,2025-05-19,2025-09-23,Null,Cancelled,328000,202000,Medium,E0106
+P0173,C0155,Cloud Services - BluePeakSystems Initiative 173,Cloud Services,2026-04-05,2026-07-30,2026-08-06,Completed,1406000,872000,Medium,E0119
+P0174,C0055,Data Analytics - NexaGroup Initiative 174,Data Analytics,2026-07-07,2026-08-30,Null,In Progress,480000,269000,High,E0106
+P0175,C0122,Data Analytics - FinGroup Initiative 175,Data Analytics,2025-07-02,2025-10-30,Null,In Progress,491000,294000,Medium,E0136
+P0176,C0122,Software Testing - FinGroup Initiative 176,Software Testing,2025-08-17,2025-09-06,2025-09-06,Completed,295000,154000,High,E0017
+P0177,C0097,Power BI Development - BluePeakSolutions Initiative 177,Power BI Development,2026-04-20,2026-08-26,2026-08-26,Completed,275000,144000,Medium,E0136
+P0178,C0150,Cloud Services - PrimeDigital Initiative 178,Cloud Services,2025-08-24,2025-11-15,2025-11-22,Completed,1474000,1087000,High,E0134
+P0179,C0138,Application Maintenance - FusionEnterprises Initiative 179,Application Maintenance,2025-06-08,2025-09-06,2025-09-28,Delayed,699000,540000,Medium,E0059
+P0180,C0179,Software Development - PrimeEnterprises Initiative 180,Software Development,2026-03-06,2026-03-30,2026-03-30,Completed,288000,178000,High,E0076
+P0181,C0143,IT Support - NovaSolutions Initiative 181,IT Support,2025-03-10,2025-04-24,2025-06-11,Delayed,641000,498000,Medium,E0017
+P0182,C0007,Custom Software - BluePeakLabs Initiative 182,Custom Software,2025-02-19,2025-05-12,2025-05-12,Completed,2039000,1557000,Critical,E0017
+P0183,C0115,Cloud Services - ApexGroup Initiative 183,Cloud Services,2026-03-26,2026-06-13,2026-06-13,Completed,638000,539000,Medium,E0136
+P0184,C0030,IT Support - BrightSystems Initiative 184,IT Support,2025-02-27,2025-04-23,Null,In Progress,264000,208000,Medium,E0136
+P0185,C0090,Power BI Development - ApexSystems Initiative 185,Power BI Development,2025-08-28,2025-12-07,2025-12-22,Completed,478000,282000,High,E0147
+P0186,C0126,Application Maintenance - ApexDigital Initiative 186,Application Maintenance,2025-08-31,2025-12-06,Null,In Progress,317000,267000,Medium,E0074
+P0187,C0054,IT Support - CloudSolutions Initiative 187,IT Support,2026-02-28,2026-06-04,2026-06-04,Completed,104000,81000,Medium,E0088
+P0188,C0158,Software Development - ApexLabs Initiative 188,Software Development,2026-07-25,2026-09-27,2026-10-22,Completed,1113000,940000,Critical,E0119
+P0189,C0159,Custom Software - BrightGroup Initiative 189,Custom Software,2025-02-18,2025-06-06,Null,In Progress,1969000,1272000,Low,E0119
+P0190,C0032,Application Maintenance - ZenithLabs Initiative 190,Application Maintenance,2026-03-03,2026-07-05,Null,In Progress,673000,572000,Medium,E0074
+P0191,C0007,Power BI Development - BluePeakLabs Initiative 191,Power BI Development,2026-01-21,2026-03-29,2026-04-01,Completed,1021000,748000,High,E0136
+P0192,C0079,Custom Software - FusionWorks Initiative 192,Custom Software,2025-09-04,2025-11-20,2025-12-19,Delayed,435000,261000,High,E0074
+P0193,C0057,Custom Software - VertexGroup Initiative 193,Custom Software,2025-03-01,2025-07-04,2025-07-04,Completed,1424000,1041000,Medium,E0119
+P0194,C0137,Software Testing - NexaTech Initiative 194,Software Testing,2026-02-02,2026-04-25,2026-05-21,Delayed,393000,301000,Critical,E0076
+P0195,C0035,Application Maintenance - FusionLabs Initiative 195,Application Maintenance,2025-03-22,2025-08-04,2025-08-07,Completed,171000,118000,Medium,E0106
+P0196,C0131,Data Analytics - BluePeakDigital Initiative 196,Data Analytics,2026-07-03,2026-09-09,Null,In Progress,768000,646000,Medium,E0017
+P0197,C0035,Power BI Development - FusionLabs Initiative 197,Power BI Development,2026-01-22,2026-02-21,2026-04-27,Delayed,449000,275000,Critical,E0059
+P0198,C0126,IT Support - ApexDigital Initiative 198,IT Support,2026-07-27,2026-10-10,2026-10-10,Completed,395000,278000,High,E0134
+P0199,C0083,IT Support - BluePeakLabs Initiative 199,IT Support,2025-12-07,2026-03-14,2026-03-21,Completed,107000,71000,High,E0017
+P0200,C0137,IT Support - NexaTech Initiative 200,IT Support,2025-07-14,2025-09-02,2025-09-02,Completed,181000,116000,High,E0134
+P0201,C0114,IT Support - NovaSystems Initiative 201,IT Support,2025-07-29,2025-11-27,2025-11-27,Completed,89000,75000,Medium,E0076
+P0202,C0159,Application Maintenance - BrightGroup Initiative 202,Application Maintenance,2025-10-17,2026-02-11,2026-03-22,Delayed,276000,210000,Medium,E0136
+P0203,C0087,Application Maintenance - VertexLabs Initiative 203,Application Maintenance,2025-11-12,2026-02-06,2026-02-21,Completed,237000,130000,High,E0106
+P0204,C0108,Custom Software - UrbanTech Initiative 204,Custom Software,2026-04-23,2026-06-07,Null,In Progress,644000,442000,Medium,E0134
+P0205,C0058,Application Maintenance - BluePeakGroup Initiative 205,Application Maintenance,2025-07-28,2025-11-19,Null,In Progress,399000,231000,Medium,E0106
+P0206,C0104,Cloud Services - NexaTech Initiative 206,Cloud Services,2025-02-16,2025-05-03,2025-06-29,Delayed,174000,145000,High,E0074
+P0207,C0029,Software Development - UrbanSolutions Initiative 207,Software Development,2025-09-25,2026-01-29,2026-02-26,Delayed,681000,515000,Medium,E0074
+P0208,C0028,IT Support - FinSolutions Initiative 208,IT Support,2025-12-04,2026-02-20,Null,Cancelled,173000,119000,Medium,E0119
+P0209,C0020,IT Support - GreenLabs Initiative 209,IT Support,2026-05-27,2026-09-10,2026-09-17,Completed,246000,154000,Low,E0088
+P0210,C0133,Custom Software - UrbanWorks Initiative 210,Custom Software,2026-05-18,2026-10-02,Null,Cancelled,630000,433000,Low,E0074
+P0211,C0006,Application Maintenance - PrimeWorks Initiative 211,Application Maintenance,2025-06-23,2025-08-17,Null,In Progress,151000,118000,Medium,E0136
+P0212,C0088,Custom Software - UrbanTech Initiative 212,Custom Software,2025-07-08,2025-08-12,2025-09-24,Delayed,659000,484000,Medium,E0017
+P0213,C0158,Data Analytics - ApexLabs Initiative 213,Data Analytics,2025-02-19,2025-03-12,Null,In Progress,1124000,544000,Low,E0119
+P0214,C0028,Software Testing - FinSolutions Initiative 214,Software Testing,2025-08-25,2025-10-01,2025-10-01,Completed,144000,109000,High,E0074
+P0215,C0075,Software Development - GreenDigital Initiative 215,Software Development,2025-08-12,2026-01-08,2026-01-23,Completed,1936000,970000,High,E0134
+P0216,C0062,Application Maintenance - ApexIndustries Initiative 216,Application Maintenance,2025-03-03,2025-07-24,2025-07-24,Completed,629000,368000,Critical,E0134
+P0217,C0133,Software Development - UrbanWorks Initiative 217,Software Development,2025-01-07,2025-05-12,2025-05-15,Completed,841000,439000,High,E0017
+P0218,C0097,Software Development - BluePeakSolutions Initiative 218,Software Development,2026-06-27,2026-09-25,2026-09-28,Completed,590000,343000,Critical,E0136
+P0219,C0037,Power BI Development - FusionLabs Initiative 219,Power BI Development,2025-01-18,2025-06-15,2025-06-18,Completed,267000,158000,High,E0119
+P0220,C0047,Software Testing - BrightDigital Initiative 220,Software Testing,2025-04-20,2025-06-03,Null,In Progress,937000,701000,Medium,E0136
+P0221,C0123,Software Testing - NexaWorks Initiative 221,Software Testing,2025-09-04,2025-11-12,2025-11-27,Completed,242000,125000,High,E0147
+P0222,C0101,Power BI Development - BrightIndustries Initiative 222,Power BI Development,2025-12-29,2026-03-27,Null,In Progress,956000,464000,Medium,E0119
+P0223,C0024,Data Analytics - UrbanTech Initiative 223,Data Analytics,2026-01-18,2026-05-21,Null,In Progress,613000,338000,Critical,E0134
+P0224,C0139,IT Support - FinDigital Initiative 224,IT Support,2025-08-20,2025-11-24,2025-11-24,Completed,341000,219000,High,E0059
+P0225,C0174,Software Development - FinSystems Initiative 225,Software Development,2025-04-06,2025-08-07,Null,In Progress,738000,422000,Low,E0119
+P0226,C0097,Cloud Services - BluePeakSolutions Initiative 226,Cloud Services,2026-07-20,2026-12-08,2026-12-08,Completed,496000,289000,Medium,E0017
+P0227,C0166,Software Development - CloudLabs Initiative 227,Software Development,2025-06-25,2025-08-05,2025-09-15,Delayed,981000,825000,High,E0119
+P0228,C0031,Application Maintenance - FinWorks Initiative 228,Application Maintenance,2026-08-03,2026-09-16,Null,In Progress,608000,462000,Low,E0136
+P0229,C0137,Software Development - NexaTech Initiative 229,Software Development,2025-08-24,2025-11-06,2025-11-21,Completed,1590000,925000,High,E0147
+P0230,C0043,Custom Software - ApexWorks Initiative 230,Custom Software,2025-10-05,2025-11-05,Null,In Progress,759000,491000,Critical,E0059
+P0231,C0094,Power BI Development - CoreIndustries Initiative 231,power bi development,2026-07-11,2026-08-08,2026-08-08,Completed,865000,422000,Low,E0074
+P0232,C0051,Application Maintenance - CloudWorks Initiative 232,Application Maintenance,2025-01-17,2025-03-31,2025-03-31,Completed,320000,185000,Low,E0147
+P0233,C0099,Software Testing - BrightWorks Initiative 233,Software Testing,2026-02-12,2026-03-23,2026-03-23,Completed,253000,187000,Medium,E0088
+P0234,C0158,Software Testing - ApexLabs Initiative 234,Software Testing,2026-08-01,2026-10-21,2026-11-05,Completed,721000,562000,Critical,E0147
+P0235,C0137,Cloud Services - NexaTech Initiative 235,Cloud Services,2026-07-08,2026-10-20,2026-10-20,Completed,680000,552000,Medium,E0119
+P0236,C0060,Software Testing - BluePeakEnterprises Initiative 236,Software Testing,2025-03-22,2025-08-17,2025-08-20,Completed,347000,265000,Medium,E0106
+P0237,C0124,Software Development - CoreSolutions Initiative 237,Software Development,2025-04-11,2025-08-20,2025-08-20,Completed,775000,406000,High,E0076
+P0238,C0007,Data Analytics - BluePeakLabs Initiative 238,Data Analytics,2025-12-15,2026-04-15,2026-04-15,Completed,1237000,760000,Medium,E0106
+P0239,C0018,Software Development - NexaIndustries Initiative 239,Software Development,2025-10-07,2026-02-19,2026-03-16,Completed,980000,557000,High,E0134
+P0240,C0151,IT Support - GreenEnterprises Initiative 240,IT Support,2025-12-31,2026-04-26,2026-04-26,Completed,581000,316000,High,E0119
+P0241,C0094,Software Testing - CoreIndustries Initiative 241,Software Testing,2026-08-23,2026-12-18,2026-12-18,Completed,969000,508000,High,E0059
+P0242,C0050,Power BI Development - VertexLabs Initiative 242,Power BI Development,2025-09-10,2025-10-18,2025-11-02,Delayed,296000,144000,Low,E0088
+P0243,C0088,Software Testing - UrbanTech Initiative 243,Software Testing,2026-01-25,2026-03-25,2026-03-28,Completed,269000,155000,Medium,E0119
+P0244,C0142,Application Maintenance - BluePeakSolutions Initiative 244,application maintenance,2026-01-05,2026-02-21,2026-02-28,Completed,229000,149000,High,E0059
+P0245,C0127,Software Development - UrbanLabs Initiative 245,Software Development,2025-11-12,2026-03-25,2026-03-25,Completed,1551000,1275000,High,E0106
+P0246,C0110,Power BI Development - VertexIndustries Initiative 246,Power BI Development,2025-04-15,2025-06-07,2025-06-22,Delayed,150000,93000,Medium,E0074
+P0247,C0180,Cloud Services - ApexSystems Initiative 247,Cloud Services,2026-04-05,2026-08-07,2026-08-07,Completed,459000,281000,Medium,E0059
+P0248,C0016,Software Development - PrimeIndustries Initiative 248,Software Development,2025-04-02,2025-07-21,2025-09-04,Delayed,1183000,570000,High,E0059
+P0249,C0001,Application Maintenance - FusionWorks Initiative 249,Application Maintenance,2026-01-30,2026-02-22,Null,In Progress,382000,296000,High,E0088
+P0250,C0030,Cloud Services - BrightSystems Initiative 250,Cloud Services,2026-02-02,2026-03-15,2026-05-10,Delayed,1223000,677000,High,E0136
+P0251,C0138,IT Support - FusionEnterprises Initiative 251,IT Support,2026-08-09,2026-10-11,Null,In Progress,653000,534000,High,E0119
+P0252,C0035,Software Testing - FusionLabs Initiative 252,Software Testing,2025-05-23,2025-08-19,2025-08-19,Completed,254000,145000,High,E0088
+P0253,C0120,Power BI Development - ZenithWorks Initiative 253,Power BI Development,2026-05-20,2026-07-16,2026-07-30,Delayed,172000,107000,High,E0074
+P0254,C0175,Cloud Services - ApexDigital Initiative 254,Cloud Services,2025-10-10,2026-02-14,2026-02-14,Completed,359000,216000,High,E0088
+P0255,C0003,Custom Software - CloudDigital Initiative 255,Custom Software,2025-03-20,2025-07-10,2025-08-05,Delayed,2008000,1585000,High,E0076
+P0256,C0091,Custom Software - FusionEnterprises Initiative 256,Custom Software,2025-07-20,2025-12-04,2025-12-19,Completed,1563000,904000,Medium,E0059
+P0257,C0070,Software Testing - OrbitGroup Initiative 257,Software Testing,2025-11-08,2025-11-29,2026-02-07,Delayed,286000,234000,Medium,E0119
+P0258,C0108,Application Maintenance - UrbanTech Initiative 258,Application Maintenance,2026-01-25,2026-05-09,2026-06-03,Completed,269000,135000,Medium,E0134
+P0259,C0019,Application Maintenance - ZenithGroup Initiative 259,Application Maintenance,2026-03-17,2026-05-10,2026-05-10,Completed,481000,275000,Medium,E0088
+P0260,C0096,Application Maintenance - CloudEnterprises Initiative 260,Application Maintenance,2025-07-25,2025-12-14,2025-12-21,Completed,404000,229000,High,E0106
+P0261,C0121,Software Testing - PrimeSolutions Initiative 261,Software Testing,2026-02-12,2026-05-24,Null,In Progress,226000,156000,High,E0088
+P0262,C0100,Custom Software - PrimeTech Initiative 262,Custom Software,2026-08-13,2026-11-03,2026-11-06,Completed,3331000,2091000,Critical,E0106
+P0263,C0074,Cloud Services - NexaEnterprises Initiative 263,Cloud Services,2025-10-15,2026-02-12,Null,Cancelled,462000,396000,High,E0106
+P0264,C0051,Data Analytics - CloudWorks Initiative 264,Data Analytics,2026-08-01,2026-10-11,2026-10-26,Completed,298000,219000,Medium,E0147
+P0265,C0072,Software Testing - BrightSolutions Initiative 265,Software Testing,2026-07-18,2026-08-13,2026-08-16,Completed,259000,151000,Medium,E0134
+P0266,C0155,IT Support - BluePeakSystems Initiative 266,IT Support,2026-03-25,2026-06-27,2026-08-29,Delayed,319000,155000,High,E0059
+P0267,C0180,Cloud Services - ApexSystems Initiative 267,cloud services,2026-05-27,2026-07-21,2026-07-21,Completed,671000,458000,Medium,E0088
+P0268,C0042,IT Support - CloudGroup Initiative 268,it support,2025-09-16,2025-11-14,2025-11-14,Completed,293000,146000,Low,E0119
+P0269,C0046,Cloud Services - NovaWorks Initiative 269,Cloud Services,2025-03-17,2025-07-29,2025-09-15,Delayed,1926000,1079000,High,E0134
+P0270,C0168,Cloud Services - NovaEnterprises Initiative 270,Cloud Services,2026-07-02,2026-11-28,2026-12-05,Completed,1027000,872000,Low,E0119
+P0271,C0010,Software Development - ZenithWorks Initiative 271,Software Development,2026-01-04,2026-02-14,2026-03-02,Delayed,906000,728000,Low,E0076
+P0272,C0089,Application Maintenance - BluePeakSystems Initiative 272,Application Maintenance,2025-06-20,2025-07-21,2025-07-21,Completed,349000,180000,Critical,E0147
+P0273,C0165,Cloud Services - BluePeakEnterprises Initiative 273,Cloud Services,2025-12-06,2026-04-15,2026-04-15,Completed,459000,359000,Medium,E0059
+P0274,C0160,Software Development - VertexEnterprises Initiative 274,Software Development,2025-04-11,2025-07-06,2025-07-30,Delayed,532000,324000,Medium,E0136
+P0275,C0062,IT Support - ApexIndustries Initiative 275,IT Support,2026-04-02,2026-07-26,2026-07-29,Completed,336000,263000,Medium,E0119
+P0276,C0024,Custom Software - UrbanTech Initiative 276,Custom Software,2026-05-28,2026-07-25,2026-08-26,Delayed,668000,398000,Low,E0017
+P0277,C0005,Custom Software - FinDigital Initiative 277,Custom Software,2025-04-18,2025-07-22,2025-08-27,Delayed,762000,558000,High,E0059
+P0278,C0080,Data Analytics - BrightWorks Initiative 278,Data Analytics,2025-05-26,2025-09-12,2025-09-15,Completed,635000,351000,Medium,E0088
+P0279,C0099,Application Maintenance - BrightWorks Initiative 279,Application Maintenance,2026-04-12,2026-06-23,2026-06-23,Completed,230000,145000,High,E0136
+P0280,C0054,Custom Software - CloudSolutions Initiative 280,Custom Software,2025-12-23,2026-05-13,Null,In Progress,1519000,1011000,Medium,E0059
+P0281,C0092,Custom Software - OrbitSystems Initiative 281,Custom Software,2026-04-09,2026-07-19,2026-07-19,Completed,1215000,846000,Medium,E0059
+P0282,C0086,Power BI Development - CoreIndustries Initiative 282,Power BI Development,2025-02-15,2025-04-05,2025-04-12,Completed,667000,356000,Medium,E0017
+P0283,C0048,Application Maintenance - CloudDigital Initiative 283,Application Maintenance,2025-04-22,2025-06-23,Null,In Progress,259000,141000,Medium,E0076
+P0284,C0031,Software Testing - FinWorks Initiative 284,Software Testing,2026-07-20,2026-09-18,2026-09-18,Completed,586000,448000,Medium,E0106
+P0285,C0093,Cloud Services - ZenithEnterprises Initiative 285,Cloud Services,2026-04-19,2026-07-07,2026-07-07,Completed,850000,502000,High,E0119
+P0286,C0031,Software Testing - FinWorks Initiative 286,Software Testing,2025-07-10,2025-11-17,Null,Cancelled,162000,114000,High,E0119
+P0287,C0051,Software Development - CloudWorks Initiative 287,Software Development,2025-07-22,2025-12-04,2025-12-04,Completed,293000,163000,High,E0147
+P0288,C0152,Cloud Services - NovaDigital Initiative 288,Cloud Services,2026-02-03,2026-02-24,2026-04-20,Delayed,855000,552000,Medium,E0076
+P0289,C0007,IT Support - BluePeakLabs Initiative 289,IT Support,2025-10-13,2025-11-18,2025-11-21,Completed,261000,197000,Medium,E0147
+P0290,C0014,Data Analytics - NexaLabs Initiative 290,Data Analytics,2026-07-04,2026-09-09,2026-09-12,Completed,535000,413000,Medium,E0106
+P0291,C0072,Application Maintenance - BrightSolutions Initiative 291,Application Maintenance,2025-07-21,2025-12-05,Null,In Progress,157000,124000,High,E0059
+P0292,C0010,Power BI Development - ZenithWorks Initiative 292,Power BI Development,2026-05-17,2026-08-25,Null,In Progress,538000,312000,High,E0147
+P0293,C0009,Cloud Services - ZenithDigital Initiative 293,Cloud Services,2026-02-06,2026-03-27,2026-03-27,Completed,610000,464000,Critical,E0106
+P0294,C0153,Application Maintenance - OrbitEnterprises Initiative 294,Application Maintenance,2026-04-14,2026-06-17,2026-06-17,Completed,180000,116000,High,E0088
+P0295,C0026,Data Analytics - FinIndustries Initiative 295,Data Analytics,2025-05-18,2025-08-26,2025-08-26,Completed,449000,226000,Medium,E0059
+P0296,C0149,IT Support - BrightTech Initiative 296,IT Support,2025-11-09,2025-12-28,Null,In Progress,332000,242000,High,E0074
+P0297,C0021,Application Maintenance - BrightTech Initiative 297,Application Maintenance,2025-05-25,2025-10-22,2025-10-22,Completed,293000,146000,High,E0119
+P0298,C0138,Cloud Services - FusionEnterprises Initiative 298,Cloud Services,2025-05-22,2025-09-17,2025-09-17,Completed,1262000,937000,Medium,E0119
+P0299,C0020,Software Testing - GreenLabs Initiative 299,Software Testing,2026-05-14,2026-07-17,Null,In Progress,452000,343000,Medium,E0136
+P0300,C0049,Software Testing - FinWorks Initiative 300,Software Testing,2026-05-17,2026-08-18,Null,In Progress,436000,266000,High,E0074
+P0301,C0047,Software Testing - BrightDigital Initiative 301,Software Testing,2025-11-19,2026-04-03,2026-04-03,Completed,966000,793000,Low,E0147
+P0302,C0119,Software Development - CloudDigital Initiative 302,Software Development,2026-01-03,2026-01-25,2026-01-25,Completed,1768000,1507000,Medium,E0134
+P0303,C0069,Software Testing - ApexEnterprises Initiative 303,Software Testing,2025-07-19,2025-11-14,2025-11-17,Completed,282000,146000,Medium,E0136
+P0304,C0045,Custom Software - ZenithWorks Initiative 304,Custom Software,2026-02-23,2026-07-18,2026-07-18,Completed,2934000,1795000,High,E0119
+P0305,C0047,Custom Software - BrightDigital Initiative 305,Custom Software,2026-05-16,2026-07-17,2026-07-24,Completed,2402000,1680000,High,E0059
+P0306,C0118,Software Development - GreenLabs Initiative 306,Software Development,2025-08-14,2025-11-16,2025-11-16,Completed,445000,227000,High,E0017
+P0307,C0092,Power BI Development - OrbitSystems Initiative 307,Power BI Development,2025-08-19,2025-11-20,2025-11-20,Completed,346000,216000,Critical,E0074
+P0308,C0022,Custom Software - CloudEnterprises Initiative 308,Custom Software,2026-08-03,2026-12-27,2026-12-30,Completed,903000,573000,Critical,E0136
+P0309,C0146,Data Analytics - UrbanWorks Initiative 309,Data Analytics,2026-08-10,2026-09-28,Null,In Progress,1045000,547000,Critical,E0088
+P0310,C0156,Application Maintenance - FusionEnterprises Initiative 310,Application Maintenance,2026-07-10,2026-08-09,Null,In Progress,242000,191000,Medium,E0134
+P0311,C0055,IT Support - NexaGroup Initiative 311,IT Support,2026-03-12,2026-04-27,Null,In Progress,117000,86000,Low,E0076
+P0312,C0036,Power BI Development - CoreLabs Initiative 312,Power BI Development,2025-02-03,2025-06-18,2025-07-14,Delayed,834000,453000,Medium,E0106
+P0313,C0022,Data Analytics - CloudEnterprises Initiative 313,Data Analytics,2026-03-26,2026-05-15,2026-07-13,Delayed,414000,233000,Critical,E0076
+P0314,C0133,IT Support - UrbanWorks Initiative 314,IT Support,2025-12-26,2026-05-04,2026-05-07,Completed,131000,96000,High,E0074
+P0315,C0011,Software Testing - BrightLabs Initiative 315,Software Testing,2025-07-31,2025-10-11,2025-10-26,Completed,697000,448000,Medium,E0017
+P0316,C0076,Application Maintenance - PrimeSystems Initiative 316,Application Maintenance,2026-06-30,2026-09-29,2026-09-29,Completed,93000,46000,Critical,E0147
+P0317,C0074,Software Testing - NexaEnterprises Initiative 317,Software Testing,2025-11-28,2026-03-02,2026-03-30,Delayed,347000,255000,Critical,E0147
+P0318,C0157,Power BI Development - VertexDigital Initiative 318,Power BI Development,2026-06-11,2026-07-25,Null,In Progress,868000,634000,Medium,E0074
+P0319,C0080,Cloud Services - BrightWorks Initiative 319,Cloud Services,2025-03-02,2025-05-31,Null,In Progress,612000,365000,Medium,E0074
+P0320,C0179,Software Testing - PrimeEnterprises Initiative 320,Software Testing,2025-09-13,2025-11-09,Null,In Progress,193000,93000,High,E0106
+P0321,C0115,IT Support - ApexGroup Initiative 321,IT Support,2026-02-07,2026-07-02,2026-07-02,Completed,206000,175000,High,E0074
+P0322,C0167,Power BI Development - GreenSolutions Initiative 322,Power BI Development,2026-03-01,2026-06-25,Null,In Progress,296000,145000,Low,E0134
+P0323,C0056,Data Analytics - CloudIndustries Initiative 323,Data Analytics,2025-04-06,2025-08-07,Null,Cancelled,741000,467000,Medium,E0136
+P0324,C0098,Power BI Development - FusionGroup Initiative 324,Power BI Development,2026-01-13,2026-05-29,2026-06-05,Completed,319000,159000,High,E0134
+P0325,C0137,Application Maintenance - NexaTech Initiative 325,Application Maintenance,2026-08-19,2026-09-08,2026-09-08,Completed,156000,80000,High,E0059
+P0326,C0047,Custom Software - BrightDigital Initiative 326,Custom Software,2026-01-02,2026-02-07,2026-02-07,Completed,565000,342000,Medium,E0136
+P0327,C0180,Cloud Services - ApexSystems Initiative 327,Cloud Services,2025-08-12,2025-12-19,2025-12-19,Completed,557000,298000,Medium,E0076
+P0328,C0151,Custom Software - GreenEnterprises Initiative 328,Custom Software,2025-10-02,2026-01-12,2026-01-27,Completed,2020000,1462000,High,E0088
+P0329,C0062,Application Maintenance - ApexIndustries Initiative 329,Application Maintenance,2026-07-15,2026-09-06,2026-10-22,Delayed,593000,436000,High,E0134
+P0330,C0167,Application Maintenance - GreenSolutions Initiative 330,Application Maintenance,2025-02-19,2025-03-22,2025-04-16,Completed,438000,255000,Medium,E0059
+P0331,C0056,Custom Software - CloudIndustries Initiative 331,Custom Software,2025-01-17,2025-03-09,2025-05-17,Delayed,1302000,910000,Medium,E0074
+P0332,C0072,Custom Software - BrightSolutions Initiative 332,Custom Software,2026-04-13,2026-05-03,2026-05-18,Completed,860000,690000,High,E0119
+P0333,C0140,IT Support - NovaSolutions Initiative 333,IT Support,2025-05-16,2025-08-21,2025-09-05,Completed,160000,126000,Critical,E0074
+P0334,C0162,Power BI Development - VertexSystems Initiative 334,Power BI Development,2025-04-06,2025-07-27,Null,In Progress,938000,565000,Medium,E0088
+P0335,C0042,Data Analytics - CloudGroup Initiative 335,Data Analytics,2026-01-16,2026-03-19,Null,In Progress,1332000,779000,Medium,E0017
+P0336,C0090,Cloud Services - ApexSystems Initiative 336,Cloud Services,2025-11-09,2026-01-27,2026-01-30,Completed,733000,588000,Medium,E0119
+P0337,C0055,Data Analytics - NexaGroup Initiative 337,Data Analytics,2025-04-08,2025-04-28,2025-04-28,Completed,260000,126000,Low,E0076
+P0338,C0167,Custom Software - GreenSolutions Initiative 338,Custom Software,2025-03-21,2025-05-13,2025-05-28,Completed,1533000,1298000,Medium,E0147
+P0339,C0115,IT Support - ApexGroup Initiative 339,IT Support,2026-06-16,2026-10-27,2026-11-11,Completed,191000,135000,Medium,E0017
+P0340,C0074,Software Development - NexaEnterprises Initiative 340,Software Development,2025-12-18,2026-02-06,Null,In Progress,623000,486000,High,E0119
+P0341,C0006,Software Testing - PrimeWorks Initiative 341,Software Testing,2026-05-05,2026-06-12,Null,In Progress,186000,104000,High,E0076
+P0342,C0022,Cloud Services - CloudEnterprises Initiative 342,Cloud Services,2025-04-02,2025-05-18,2025-05-18,Completed,682000,416000,High,E0059
+P0343,C0079,Application Maintenance - FusionWorks Initiative 343,Application Maintenance,2026-01-12,2026-04-18,2026-05-06,Delayed,244000,184000,Low,E0119
+P0344,C0005,Software Testing - FinDigital Initiative 344,Software Testing,2025-05-27,2025-07-03,Null,Cancelled,227000,182000,Medium,E0136
+P0345,C0143,Software Development - NovaSolutions Initiative 345,Software Development,2025-06-18,2025-10-28,2025-10-28,Completed,1741000,1237000,Low,E0106
+P0346,C0114,IT Support - NovaSystems Initiative 346,IT Support,2025-06-05,2025-10-08,Null,Cancelled,257000,208000,Medium,E0147
+P0347,C0054,Custom Software - CloudSolutions Initiative 347,Custom Software,2025-08-11,2025-09-22,Null,In Progress,307000,225000,Medium,E0059
+P0348,C0161,Software Testing - OrbitSystems Initiative 348,Software Testing,2025-05-07,2025-09-02,2025-10-04,Delayed,290000,222000,Medium,E0119
+P0349,C0053,Application Maintenance - GreenDigital Initiative 349,Application Maintenance,2025-05-24,2025-08-15,2025-08-18,Completed,886000,521000,High,E0088
+P0350,C0066,Data Analytics - NovaSystems Initiative 350,Data Analytics,2025-09-12,2025-12-13,2025-12-13,Completed,773000,530000,Low,E0017

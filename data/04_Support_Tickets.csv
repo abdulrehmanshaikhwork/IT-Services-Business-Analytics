@@ -1,0 +1,1801 @@
+Ticket_ID,Client_ID,Assigned_Employee_ID,Issue_Type,Priority,Created_Date,Resolved_Date,Ticket_Status,Resolution_Hours,Customer_Rating,SLA_Status
+T00001,C0115,E0080,Performance Issue,Medium,2026-02-27 07:00,2026-03-01 00:24,Closed,41.4,4,Breached
+T00002,C0094,E0042,Network Issue,Low,2025-07-29 02:00,2025-07-29 15:30,Resolved,13.5,4,Met
+T00003,C0055,E0045,Database Issue,High,2026-03-26 19:00,2026-03-27 09:12,Resolved,14.2,3,Breached
+T00004,C0159,E0046,Data Issue,Low,2025-11-29 14:00,Null,Escalated,Null,Null,Pending
+T00005,C0043,E0042,Network Issue,Low,2026-03-14 12:00,2026-03-15 03:18,Resolved,15.3,4,Met
+T00006,C0164,E0099,Login Issue,Low,2026-01-25 23:00,2026-01-26 04:48,Closed,5.8,2,Met
+T00007,C0025,E0141,Security Issue,Medium,2026-02-08 19:00,2026-02-09 01:06,Closed,6.1,4,Met
+T00008,C0031,E0122,Access/Permission,Low,2026-07-04 16:00,2026-07-05 19:00,Closed,27,4,Breached
+T00009,C0077,E0122,Login Issue,Low,2026-06-18 03:00,Null,Escalated,Null,Null,Pending
+T00010,C0147,E0141,Data Issue,Medium,2026-04-13 01:00,Null,Open,Null,Null,Pending
+T00011,C0122,E0006,Network Issue,Low,2026-06-16 17:00,2026-06-17 07:30,Resolved,14.5,3,Met
+T00012,C0116,E0041,Software Installation,Medium,2025-02-10 17:00,Null,Escalated,Null,Null,Pending
+T00013,C0047,E0150,Software Installation,Medium,2026-06-13 20:00,2026-06-14 09:36,Resolved,13.6,3,Breached
+T00014,C0030,E0097,Login Issue,High,2025-07-14 09:00,2025-07-14 18:36,Closed,9.6,3,Breached
+T00015,C0126,E0006,Data Issue,Low,2026-02-12 09:00,2026-02-13 01:54,Closed,16.9,3,Met
+T00016,C0059,E0011,Performance Issue,High,2026-04-18 05:00,2026-04-19 03:24,Closed,22.4,5,Breached
+T00017,C0100,E0002,Software Installation,Medium,2025-10-29 19:00,2025-10-30 19:18,Resolved,24.3,4,Breached
+T00018,C0145,E0131,Login Issue,High,2026-06-14 04:00,2026-06-14 10:24,Closed,6.4,5,Met
+T00019,C0038,E0050,Data Issue,Low,2026-04-08 02:00,2026-04-08 15:30,Resolved,13.5,4,Met
+T00020,C0022,E0041,Feature Request,Medium,2025-04-26 05:00,Null,In Progress,Null,Null,Pending
+T00021,C0034,E0062,Access/Permission,High,2026-07-14 04:00,Null,Open,Null,Null,Pending
+T00022,C0110,E0122,Software Installation,Medium,2026-02-28 10:00,2026-02-28 21:54,Resolved,11.9,4,Met
+T00023,C0171,E0141,Data Issue,Medium,2025-01-26 05:00,2025-01-26 15:48,Closed,10.8,4,Met
+T00024,C0019,E0055,Data Issue,Medium,2025-07-26 14:00,Null,Escalated,Null,Null,Pending
+T00025,C0180,E0050,Application Error,High,2025-09-14 10:00,2025-09-14 17:48,Closed,7.8,4,Met
+T00026,C0115,E0006,Database Issue,High,2025-05-07 02:00,2025-05-07 12:48,Resolved,10.8,4,Breached
+T00027,C0069,E0050,Application Error,Low,2026-04-06 20:00,2026-04-07 14:00,Closed,18,4,Met
+T00028,C0082,E0045,Security Issue,Medium,2025-03-29 16:00,2025-03-30 11:30,Resolved,19.5,3,Breached
+T00029,C0072,E0083,Software Installation,Low,2026-06-08 19:00,2026-06-11 02:18,Resolved,55.3,5,Breached
+T00030,C0067,E0055,Database Issue,Medium,2026-01-23 17:00,2026-01-24 04:42,Closed,11.7,4,Met
+T00031,C0066,E0112,Software Installation,High,2025-02-14 05:00,2025-02-14 12:36,Closed,7.6,3,Met
+T00032,C0060,E0148,Security Issue,Medium,2026-08-03 21:00,2026-08-04 09:06,Resolved,12.1,4,Breached
+T00033,C0144,E0050,Database Issue,High,2025-06-16 04:00,2025-06-16 13:42,Closed,9.7,5,Breached
+T00034,C0115,E0002,Database Issue,Critical,2025-02-22 13:00,2025-02-23 01:48,Resolved,12.8,4,Breached
+T00035,C0053,E0122,Performance Issue,Critical,2025-11-13 23:00,2025-11-14 07:36,Resolved,8.6,4,Breached
+T00036,C0163,E0112,Data Issue,Medium,2025-10-23 20:00,2025-10-24 10:30,Closed,14.5,4,Breached
+T00037,C0133,E0055,Database Issue,Low,2025-05-01 04:00,2025-05-01 21:00,Closed,17,3,Met
+T00038,C0071,E0046,Network Issue,Medium,2025-01-04 19:00,Null,Open,Null,Null,Pending
+T00039,C0110,E0041,Performance Issue,Medium,2025-01-13 14:00,2025-01-13 21:48,Resolved,7.8,5,Met
+T00040,C0074,E0150,Data Issue,Medium,2026-05-26 17:00,2026-05-27 11:00,Resolved,18,3,Breached
+T00041,C0053,E0067,Login Issue,Medium,2026-05-21 07:00,Null,Escalated,Null,Null,Pending
+T00042,C0016,E0050,Network Issue,Medium,2026-05-03 14:00,2026-05-03 23:36,Resolved,9.6,5,Met
+T00043,C0126,E0050,Software Installation,Medium,2026-03-29 02:00,2026-03-30 06:24,Resolved,28.4,5,Breached
+T00044,C0105,E0083,Access/Permission,Medium,2025-01-07 07:00,2025-01-08 04:36,Resolved,21.6,5,Breached
+T00045,C0133,E0011,Feature Request,Medium,2025-10-12 19:00,2025-10-13 08:36,Closed,13.6,4,Breached
+T00046,C0087,E0122,Feature Request,Medium,2025-08-01 01:00,Null,Open,Null,Null,Pending
+T00047,C0116,E0045,Database Issue,Low,2025-06-01 01:00,2025-06-02 05:06,Resolved,28.1,4,Breached
+T00048,C0108,E0002,Security Issue,High,2025-02-07 04:00,Null,In Progress,Null,Null,Pending
+T00049,C0070,E0002,Login Issue,Medium,2026-08-15 19:00,Null,Open,Null,Null,Pending
+T00050,C0112,E0080,Performance Issue,Medium,2025-12-06 02:00,2025-12-06 09:30,Resolved,7.5,5,Met
+T00051,C0021,E0073,Login Issue,Medium,2025-04-22 13:00,2025-04-24 05:18,Closed,40.3,5,Breached
+T00052,C0117,E0129,Database Issue,High,2025-06-15 21:00,2025-06-16 10:12,Closed,13.2,4,Breached
+T00053,C0057,E0068,Performance Issue,Low,2026-08-10 17:00,2026-08-11 00:24,Resolved,7.4,4,Met
+T00054,C0100,E0011,Database Issue,Medium,2026-04-12 23:00,Null,In Progress,Null,Null,Pending
+T00055,C0052,E0099,Access/Permission,High,2026-01-04 01:00,Null,Escalated,Null,Null,Pending
+T00056,C0177,E0080,Application Error,Medium,2025-11-03 10:00,Null,In Progress,Null,Null,Pending
+T00057,C0091,E0045,Security Issue,Medium,2026-01-24 02:00,2026-01-24 22:36,Resolved,20.6,5,Breached
+T00058,C0023,E0042,Software Installation,High,2026-07-18 02:00,Null,Escalated,Null,Null,Pending
+T00059,C0047,E0099,Performance Issue,High,2026-04-28 04:00,Null,Escalated,Null,Null,Pending
+T00060,C0006,E0002,Application Error,Medium,2025-10-09 10:00,2025-10-09 20:30,Resolved,10.5,3,Met
+T00061,C0117,E0083,Feature Request,Critical,2026-02-28 16:00,Null,In Progress,Null,Null,Pending
+T00062,C0017,E0002,Network Issue,Medium,2025-08-03 19:00,2025-08-04 02:06,Resolved,7.1,4,Met
+T00063,C0034,E0045,Login Issue,Medium,2025-04-22 18:00,2025-04-23 05:06,Closed,11.1,4,Met
+T00064,C0032,E0112,Feature Request,High,2025-03-31 15:00,2025-03-31 21:18,Resolved,6.3,4,Met
+T00065,C0012,E0042,Access/Permission,Medium,2025-10-22 13:00,2025-10-23 01:54,Resolved,12.9,4,Breached
+T00066,C0053,E0068,Access/Permission,Low,2025-11-21 08:00,2025-11-23 09:18,Closed,49.3,4,Breached
+T00067,C0065,E0006,Feature Request,Medium,2026-08-12 19:00,2026-08-13 06:36,Resolved,11.6,4,Met
+T00068,C0147,E0031,Security Issue,Low,2025-05-13 19:00,2025-05-14 23:30,Closed,28.5,4,Breached
+T00069,C0061,E0042,Access/Permission,High,2026-05-24 16:00,Null,Escalated,Null,Null,Pending
+T00070,C0018,E0122,Data Issue,High,2026-05-20 05:00,2026-05-20 09:12,Resolved,4.2,4,Met
+T00071,C0009,E0122,Access/Permission,Medium,2025-08-27 22:00,2025-08-28 16:24,Resolved,18.4,3,Breached
+T00072,C0078,E0045,Performance Issue,Low,2025-07-18 00:00,2025-07-18 08:30,Closed,8.5,4,Met
+T00073,C0059,E0046,Application Error,High,2025-01-25 14:00,Null,Escalated,Null,Null,Pending
+T00074,C0142,E0041,Application Error,Critical,2025-08-01 19:00,2025-08-01 20:30,Closed,1.5,4,Met
+T00075,C0139,E0148,Software Installation,Low,2026-02-28 01:00,2026-03-01 02:36,Closed,25.6,5,Breached
+T00076,C0155,E0068,Security Issue,High,2025-12-25 17:00,2025-12-25 22:00,Resolved,5,4,Met
+T00077,C0146,E0068,Network Issue,Medium,2025-01-12 20:00,2025-01-13 14:36,Closed,18.6,3,Breached
+T00078,C0033,E0041,Network Issue,Low,2025-10-16 08:00,2025-10-16 17:12,Resolved,9.2,3,Met
+T00079,C0164,E0112,Application Error,Medium,2025-11-12 09:00,2025-11-12 22:06,Closed,13.1,5,Breached
+T00080,C0126,E0105,Feature Request,Medium,2026-07-18 10:00,2026-07-18 14:42,Resolved,4.7,4,Met
+T00081,C0164,E0011,Login Issue,Medium,2025-04-27 21:00,2025-04-28 05:18,Closed,8.3,5,Met
+T00082,C0013,E0011,Security Issue,Low,2025-12-16 12:00,Null,Escalated,Null,Null,Pending
+T00083,C0076,E0055,Access/Permission,Low,2025-01-30 05:00,2025-01-31 21:00,Resolved,40,5,Breached
+T00084,C0061,E0042,Network Issue,High,2025-12-05 10:00,2025-12-05 14:54,Closed,4.9,4,Met
+T00085,C0094,E0045,Data Issue,High,2026-05-01 01:00,2026-05-01 10:54,Resolved,9.9,4,Breached
+T00086,C0167,E0055,Database Issue,Low,2026-05-09 04:00,2026-05-10 01:06,Closed,21.1,3,Met
+T00087,C0083,E0097,Data Issue,Low,2026-07-04 10:00,Null,Open,Null,Null,Pending
+T00088,C0078,E0042,Data Issue,Medium,2026-02-28 23:00,2026-03-02 11:18,Resolved,36.3,3,Breached
+T00089,C0144,E0099,Login Issue,High,2026-06-18 09:00,Null,Escalated,Null,Null,Pending
+T00090,C0180,E0099,Access/Permission,High,2025-11-20 17:00,Null,In Progress,Null,Null,Pending
+T00091,C0065,E0122,Feature Request,High,2025-01-20 06:00,2025-01-20 14:00,Resolved,8,4,Met
+T00092,C0025,E0046,Access/Permission,High,2025-12-06 11:00,2025-12-06 19:42,Resolved,8.7,5,Breached
+T00093,C0053,E0067,Application Error,Medium,2025-06-02 08:00,2025-06-02 12:06,Resolved,4.1,3,Met
+T00094,C0138,E0083,Login Issue,High,2025-12-14 12:00,2025-12-14 17:42,Resolved,5.7,3,Met
+T00095,C0130,E0011,Feature Request,Medium,2025-06-19 18:00,2025-06-20 03:18,Resolved,9.3,3,Met
+T00096,C0067,E0150,Access/Permission,Medium,2026-02-03 05:00,2026-02-03 15:12,Resolved,10.2,3,Met
+T00097,C0152,E0112,Access/Permission,Low,2025-04-30 09:00,Null,In Progress,Null,Null,Pending
+T00098,C0162,E0006,Security Issue,Medium,2025-02-02 08:00,2025-02-03 08:30,Resolved,24.5,5,Breached
+T00099,C0145,E0045,Software Installation,High,2025-03-30 15:00,2025-03-30 22:48,Closed,7.8,5,Met
+T00100,C0146,E0097,Network Issue,Medium,2026-01-16 14:00,2026-01-16 22:54,Resolved,8.9,4,Met
+T00101,C0146,E0062,Performance Issue,Medium,2025-08-10 16:00,2025-08-11 00:36,Resolved,8.6,5,Met
+T00102,C0096,E0041,Performance Issue,Medium,2025-06-29 03:00,2025-06-29 17:24,Resolved,14.4,4,Breached
+T00103,C0119,E0083,Security Issue,High,2025-02-08 06:00,2025-02-08 08:48,Resolved,2.8,4,Met
+T00104,C0105,E0150,Application Error,Medium,2026-03-31 16:00,Null,In Progress,Null,Null,Pending
+T00105,C0070,E0141,Login Issue,High,2026-05-10 16:00,2026-05-11 01:06,Closed,9.1,3,Breached
+T00106,C0046,E0042,Database Issue,Low,2025-07-14 10:00,2025-07-14 20:42,Closed,10.7,5,Met
+T00107,C0003,E0041,Data Issue,Medium,2026-06-21 09:00,Null,Open,Null,Null,Pending
+T00108,C0134,E0080,Security Issue,High,2025-05-27 03:00,2025-05-27 08:30,Resolved,5.5,3,Met
+T00109,C0048,E0011,Feature Request,Low,2025-05-16 06:00,2025-05-18 02:00,Resolved,44,4,Breached
+T00110,C0061,E0083,Login Issue,High,2026-04-16 12:00,2026-04-17 01:06,Resolved,13.1,4,Breached
+T00111,C0105,E0046,Feature Request,High,2025-04-29 00:00,2025-04-29 07:06,Closed,7.1,4,Met
+T00112,C0112,E0112,Performance Issue,Low,2025-02-15 21:00,2025-02-16 18:54,Closed,21.9,5,Met
+T00113,C0146,E0112,Access/Permission,Medium,2025-03-31 10:00,2025-03-31 16:12,Resolved,6.2,4,Met
+T00114,C0048,E0141,Data Issue,High,2025-02-17 03:00,2025-02-17 08:48,Resolved,5.8,4,Met
+T00115,C0124,E0112,Feature Request,High,2025-11-16 00:00,2025-11-16 10:30,Closed,10.5,4,Breached
+T00116,C0128,E0099,Access/Permission,Medium,2025-11-16 20:00,2025-11-17 23:00,Resolved,27,5,Breached
+T00117,C0161,E0131,Network Issue,Medium,2025-11-25 06:00,2025-11-25 11:12,Closed,5.2,5,Met
+T00118,C0008,E0122,Network Issue,Medium,2025-10-21 08:00,Null,Escalated,Null,Null,Pending
+T00119,C0058,E0067,Feature Request,Medium,2025-11-23 14:00,2025-11-23 23:48,Closed,9.8,4,Met
+T00120,C0036,E0099,Application Error,Medium,2025-10-07 04:00,2025-10-07 08:54,Closed,4.9,4,Met
+T00121,C0089,E0073,Database Issue,Medium,2025-10-08 03:00,2025-10-08 23:00,Resolved,20,5,Breached
+T00122,C0178,E0122,Login Issue,Medium,2026-07-28 16:00,2026-07-29 14:42,Closed,22.7,4,Breached
+T00123,C0033,E0055,Application Error,Medium,2025-07-31 17:00,2025-08-01 00:24,Resolved,7.4,4,Met
+T00124,C0126,E0042,Security Issue,Medium,2026-07-17 10:00,2026-07-17 20:18,Resolved,10.3,3,Met
+T00125,C0088,E0073,Performance Issue,High,2025-05-25 22:00,2025-05-26 03:42,Resolved,5.7,4,Met
+T00126,C0060,E0042,Performance Issue,Medium,2026-08-11 07:00,2026-08-12 10:30,Closed,27.5,5,Breached
+T00127,C0174,E0099,Database Issue,Low,2025-03-14 09:00,Null,Escalated,Null,Null,Pending
+T00128,C0069,E0129,Access/Permission,Low,2025-12-13 17:00,2025-12-14 05:48,Resolved,12.8,4,Met
+T00129,C0087,E0141,Data Issue,Medium,2025-02-21 04:00,2025-02-21 17:30,Resolved,13.5,5,Breached
+T00130,C0121,E0046,Login Issue,Medium,2026-04-28 21:00,2026-04-29 04:42,Resolved,7.7,4,Met
+T00131,C0056,E0067,Login Issue,Critical,2025-04-19 12:00,2025-04-19 19:30,Closed,7.5,5,Breached
+T00132,C0142,E0141,Login Issue,High,2025-03-30 13:00,2025-03-30 23:30,Closed,10.5,4,Breached
+T00133,C0041,E0141,Software Installation,High,2025-07-03 22:00,2025-07-04 06:48,Resolved,8.8,3,Breached
+T00134,C0152,E0112,Access/Permission,Low,2026-04-02 19:00,Null,In Progress,Null,Null,Pending
+T00135,C0168,E0105,Security Issue,High,2025-11-16 10:00,2025-11-16 20:42,Resolved,10.7,4,Breached
+T00136,C0060,E0067,Network Issue,Medium,2026-07-01 02:00,Null,In Progress,Null,Null,Pending
+T00137,C0062,E0097,Data Issue,Low,2026-08-05 04:00,2026-08-06 02:48,Closed,22.8,4,Met
+T00138,C0006,E0002,Application Error,Medium,2026-04-25 03:00,2026-04-25 18:30,Resolved,15.5,4,Breached
+T00139,C0156,E0122,Data Issue,High,2025-11-14 21:00,Null,Escalated,Null,Null,Pending
+T00140,C0132,E0011,Data Issue,Medium,2026-04-27 07:00,2026-04-28 12:24,Closed,29.4,5,Breached
+T00141,C0045,E0011,Network Issue,High,2025-05-28 19:00,2025-05-29 17:00,Closed,22,3,Breached
+T00142,C0144,E0112,Performance Issue,High,2026-01-08 12:00,2026-01-08 13:54,Closed,1.9,4,Met
+T00143,C0094,E0148,Database Issue,High,2025-12-05 10:00,2025-12-05 14:54,Resolved,4.9,4,Met
+T00144,C0006,E0150,Data Issue,Medium,2026-05-15 00:00,Null,In Progress,Null,Null,Pending
+T00145,C0013,E0046,Application Error,Medium,2026-05-02 03:00,2026-05-02 13:18,Closed,10.3,4,Met
+T00146,C0045,E0122,Security Issue,Low,2026-05-06 14:00,2026-05-07 02:42,Resolved,12.7,4,Met
+T00147,C0041,E0067,Database Issue,Critical,2025-10-17 11:00,2025-10-17 14:00,Resolved,3,4,Met
+T00148,C0091,E0148,Access/Permission,Medium,2026-08-12 04:00,2026-08-12 11:00,Resolved,7,4,Met
+T00149,C0030,E0067,Feature Request,Medium,2025-04-16 12:00,2025-04-17 07:42,Resolved,19.7,5,Breached
+T00150,C0035,E0011,Application Error,Medium,2025-11-30 17:00,2025-12-01 19:18,Resolved,26.3,4,Breached
+T00151,C0067,E0148,Application Error,High,2025-11-06 17:00,2025-11-07 00:12,Resolved,7.2,5,Met
+T00152,C0031,E0041,Data Issue,Low,2026-02-15 18:00,2026-02-17 17:00,Closed,47,5,Breached
+T00153,C0079,E0055,Software Installation,Medium,2025-09-02 19:00,2025-09-03 02:42,Resolved,7.7,3,Met
+T00154,C0118,E0067,Network Issue,Low,2026-07-16 05:00,2026-07-16 17:42,Closed,12.7,4,Met
+T00155,C0086,E0099,Data Issue,Medium,2026-01-29 02:00,Null,In Progress,Null,Null,Pending
+T00156,C0156,E0062,Security Issue,Medium,2025-08-02 22:00,2025-08-03 05:00,Closed,7,4,Met
+T00157,C0131,E0105,Access/Permission,Medium,2026-03-18 13:00,2026-03-18 19:48,Closed,6.8,4,Met
+T00158,C0086,E0062,Access/Permission,Low,2025-12-17 17:00,2025-12-19 01:30,Resolved,32.5,4,Breached
+T00159,C0109,E0031,Network Issue,High,2025-06-27 21:00,2025-06-28 10:18,Resolved,13.3,3,Breached
+T00160,C0153,E0031,Application Error,Medium,2026-08-11 15:00,2026-08-11 19:24,Resolved,4.4,3,Met
+T00161,C0062,E0006,Application Error,Medium,2026-04-20 10:00,Null,Escalated,Null,Null,Pending
+T00162,C0126,E0105,Feature Request,Low,2025-04-10 14:00,2025-04-11 19:06,Closed,29.1,4,Breached
+T00163,C0174,E0080,Database Issue,Medium,2025-11-12 12:00,Null,Open,Null,Null,Pending
+T00164,C0055,E0045,Application Error,Medium,2025-04-22 21:00,Null,Escalated,Null,Null,Pending
+T00165,C0023,E0122,Access/Permission,High,2026-01-24 10:00,2026-01-24 17:24,Resolved,7.4,4,Met
+T00166,C0012,E0002,Data Issue,High,2025-03-04 02:00,2025-03-04 11:48,Resolved,9.8,5,Breached
+T00167,C0057,E0097,Network Issue,High,2025-05-23 18:00,2025-05-24 04:18,Closed,10.3,4,Breached
+T00168,C0154,E0141,Login Issue,Medium,2025-05-31 21:00,2025-06-01 05:24,Closed,8.4,5,Met
+T00169,C0143,E0141,Database Issue,Medium,2026-04-09 17:00,Null,Open,Null,Null,Pending
+T00170,C0132,E0050,Performance Issue,Medium,2026-02-04 19:00,2026-02-05 02:30,Closed,7.5,4,Met
+T00171,C0032,E0099,Access/Permission,Medium,2026-04-03 06:00,2026-04-03 15:54,Closed,9.9,3,Met
+T00172,C0152,E0031,Network Issue,Critical,2025-11-21 09:00,Null,In Progress,Null,Null,Pending
+T00173,C0136,E0068,Access/Permission,High,2025-11-08 13:00,2025-11-08 17:30,Closed,4.5,5,Met
+T00174,C0025,E0080,Security Issue,Medium,2025-04-02 18:00,Null,Open,Null,Null,Pending
+T00175,C0173,E0050,Login Issue,Medium,2026-06-07 12:00,2026-06-08 05:18,Closed,17.3,3,Breached
+T00176,C0014,E0073,Database Issue,Medium,2025-10-29 01:00,2025-10-30 07:24,Resolved,30.4,4,Breached
+T00177,C0063,E0055,Security Issue,High,2026-07-17 01:00,2026-07-17 07:06,Closed,6.1,4,Met
+T00178,C0019,E0097,Login Issue,High,2026-07-28 11:00,2026-07-28 19:24,Resolved,8.4,3,Breached
+T00179,C0160,E0073,Application Error,Medium,2025-10-16 00:00,2025-10-16 05:24,Resolved,5.4,4,Met
+T00180,C0111,E0099,Network Issue,Medium,2026-03-19 22:00,Null,Open,Null,Null,Pending
+T00181,C0092,E0050,Access/Permission,High,2026-02-08 20:00,Null,Escalated,Null,Null,Pending
+T00182,C0023,E0067,Security Issue,Low,2026-01-27 12:00,2026-01-29 16:36,Closed,52.6,3,Breached
+T00183,C0028,E0150,Software Installation,Low,2026-03-22 17:00,2026-03-24 22:48,Closed,53.8,5,Breached
+T00184,C0029,E0105,Network Issue,High,2025-06-27 15:00,2025-06-27 18:24,Resolved,3.4,4,Met
+T00185,C0131,E0122,Database Issue,High,2025-07-12 17:00,2025-07-12 21:36,Resolved,4.6,3,Met
+T00186,C0067,E0105,Software Installation,Low,2026-01-04 13:00,2026-01-05 13:12,Resolved,24.2,5,Breached
+T00187,C0093,E0112,Database Issue,Medium,2025-10-23 21:00,2025-10-24 05:54,Resolved,8.9,5,Met
+T00188,C0103,E0062,Database Issue,Medium,2025-05-18 00:00,2025-05-18 04:54,Resolved,4.9,4,Met
+T00189,C0060,E0122,Application Error,Medium,2025-01-17 04:00,2025-01-17 15:54,Closed,11.9,5,Met
+T00190,C0048,E0067,Data Issue,High,2026-03-24 04:00,2026-03-24 16:36,Closed,12.6,4,Breached
+T00191,C0131,E0131,Application Error,High,2025-05-21 20:00,2025-05-21 23:06,Closed,3.1,3,Met
+T00192,C0121,E0073,Software Installation,High,2026-04-12 22:00,2026-04-13 08:36,Closed,10.6,4,Breached
+T00193,C0121,E0099,Access/Permission,High,2026-03-12 19:00,Null,In Progress,Null,Null,Pending
+T00194,C0166,E0062,Database Issue,Medium,2026-04-11 16:00,Null,In Progress,Null,Null,Pending
+T00195,C0136,E0080,Software Installation,Critical,2026-07-20 14:00,2026-07-20 17:36,Resolved,3.6,3,Met
+T00196,C0130,E0062,Software Installation,Low,2025-12-30 07:00,Null,Open,Null,Null,Pending
+T00197,C0144,E0041,Database Issue,Medium,2026-03-11 19:00,2026-03-11 22:12,Closed,3.2,4,Met
+T00198,C0133,E0129,Login Issue,Medium,2026-08-15 15:00,Null,In Progress,Null,Null,Pending
+T00199,C0001,E0046,Network Issue,Medium,2026-05-29 08:00,2026-05-30 07:06,Closed,23.1,5,Breached
+T00200,C0081,E0067,Software Installation,Low,2026-07-14 18:00,2026-07-18 00:48,Closed,78.8,4,Breached
+T00201,C0092,E0042,Security Issue,Medium,2025-02-04 01:00,2025-02-04 12:30,Resolved,11.5,3,Met
+T00202,C0096,E0150,Access/Permission,Critical,2026-05-10 22:00,2026-05-11 01:06,Resolved,3.1,5,Met
+T00203,C0068,E0073,Security Issue,Low,2025-04-26 18:00,2025-04-27 01:18,Resolved,7.3,4,Met
+T00204,C0083,E0068,Data Issue,Medium,2025-03-23 04:00,2025-03-23 17:48,Resolved,13.8,4,Breached
+T00205,C0020,E0046,Feature Request,High,2025-10-14 14:00,2025-10-14 23:54,Resolved,9.9,4,Breached
+T00206,C0136,E0006,Feature Request,Medium,2025-03-22 16:00,2025-03-23 09:24,Resolved,17.4,4,Breached
+T00207,C0001,E0055,Access/Permission,High,2025-04-01 07:00,2025-04-01 13:54,Closed,6.9,4,Met
+T00208,C0066,E0073,Data Issue,High,2025-03-21 21:00,Null,Escalated,Null,Null,Pending
+T00209,C0174,E0150,Feature Request,Medium,2026-08-17 09:00,Null,Escalated,Null,Null,Pending
+T00210,C0096,E0062,Access/Permission,Low,2025-02-24 10:00,2025-02-25 21:12,Resolved,35.2,4,Breached
+T00211,C0028,E0031,Feature Request,Low,2025-01-12 15:00,2025-01-13 16:12,Closed,25.2,5,Breached
+T00212,C0180,E0031,Data Issue,Medium,2026-06-09 15:00,Null,Escalated,Null,Null,Pending
+T00213,C0155,E0150,Access/Permission,High,2025-12-06 13:00,2025-12-06 19:30,Closed,6.5,4,Met
+T00214,C0153,E0002,Security Issue,Medium,2025-10-29 09:00,2025-10-30 00:54,Resolved,15.9,4,Breached
+T00215,C0105,E0062,Database Issue,Low,2025-02-06 22:00,Null,Escalated,Null,Null,Pending
+T00216,C0119,E0148,Access/Permission,Medium,2025-11-08 23:00,2025-11-09 12:18,Resolved,13.3,4,Breached
+T00217,C0056,E0067,Access/Permission,Low,2025-09-24 01:00,2025-09-24 12:42,Closed,11.7,3,Met
+T00218,C0104,E0002,Data Issue,High,2026-08-16 05:00,Null,Escalated,Null,Null,Pending
+T00219,C0070,E0041,Access/Permission,Medium,2025-02-22 21:00,2025-02-23 04:18,Closed,7.3,4,Met
+T00220,C0066,E0112,Performance Issue,Low,2025-01-28 09:00,Null,In Progress,Null,Null,Pending
+T00221,C0076,E0050,Data Issue,Medium,2025-03-26 04:00,Null,Open,Null,Null,Pending
+T00222,C0163,E0129,Feature Request,Medium,2025-03-20 08:00,Null,In Progress,Null,Null,Pending
+T00223,C0050,E0097,Performance Issue,Medium,2025-05-16 19:00,2025-05-17 18:00,Resolved,23,3,Breached
+T00224,C0136,E0083,Performance Issue,Low,2025-10-09 08:00,2025-10-10 06:30,Closed,22.5,4,Met
+T00225,C0116,E0045,Login Issue,Medium,2025-04-25 19:00,Null,Open,Null,Null,Pending
+T00226,C0016,E0083,Database Issue,Medium,2025-06-04 21:00,2025-06-06 01:48,Closed,28.8,4,Breached
+T00227,C0011,E0031,Data Issue,High,2026-01-14 05:00,2026-01-14 14:12,Closed,9.2,5,Breached
+T00228,C0063,E0062,Performance Issue,Low,2025-08-30 15:00,Null,Escalated,Null,Null,Pending
+T00229,C0054,E0141,Database Issue,Medium,2026-06-25 01:00,2026-06-25 14:06,Resolved,13.1,4,Breached
+T00230,C0115,E0046,Security Issue,Critical,2025-03-28 04:00,2025-03-28 06:48,Closed,2.8,4,Met
+T00231,C0011,E0062,Access/Permission,High,2025-06-07 15:00,2025-06-07 20:00,Resolved,5,4,Met
+T00232,C0129,E0031,Software Installation,Medium,2026-01-28 07:00,2026-01-28 23:12,Resolved,16.2,4,Breached
+T00233,C0090,E0080,Data Issue,Medium,2025-06-21 06:00,2025-06-21 19:54,Closed,13.9,3,Breached
+T00234,C0086,E0068,Access/Permission,Medium,2025-12-20 01:00,Null,In Progress,Null,Null,Pending
+T00235,C0073,E0131,Performance Issue,High,2025-04-29 01:00,Null,Open,Null,Null,Pending
+T00236,C0130,E0002,Database Issue,Low,2026-04-21 12:00,Null,Escalated,Null,Null,Pending
+T00237,C0033,E0041,Data Issue,Low,2025-11-05 15:00,Null,Escalated,Null,Null,Pending
+T00238,C0020,E0031,Feature Request,Low,2025-08-28 12:00,2025-08-29 20:48,Resolved,32.8,5,Breached
+T00239,C0039,E0141,Software Installation,High,2026-05-01 08:00,2026-05-01 18:00,Closed,10,3,Breached
+T00240,C0143,E0099,Database Issue,High,2026-06-28 13:00,2026-06-29 03:00,Closed,14,5,Breached
+T00241,C0005,E0131,Login Issue,Medium,2025-10-23 14:00,2025-10-24 18:36,Closed,28.6,2,Breached
+T00242,C0072,E0141,Software Installation,High,2025-11-20 16:00,2025-11-21 00:18,Resolved,8.3,4,Breached
+T00243,C0146,E0097,Login Issue,Medium,2025-04-10 17:00,2025-04-12 09:48,Resolved,40.8,5,Breached
+T00244,C0175,E0055,Security Issue,Medium,2026-03-19 19:00,2026-03-20 02:30,Closed,7.5,5,Met
+T00245,C0039,E0031,Performance Issue,High,2025-12-10 08:00,Null,Escalated,Null,Null,Pending
+T00246,C0018,E0045,Performance Issue,High,2025-04-11 08:00,2025-04-11 12:48,Resolved,4.8,5,Met
+T00247,C0038,E0042,Access/Permission,Low,2026-02-05 14:00,Null,In Progress,Null,Null,Pending
+T00248,C0136,E0006,Network Issue,Medium,2025-07-19 16:00,2025-07-20 02:54,Resolved,10.9,4,Met
+T00249,C0037,E0112,Security Issue,High,2025-07-04 10:00,2025-07-04 12:54,Closed,2.9,5,Met
+T00250,C0132,E0097,Feature Request,High,2025-01-11 21:00,2025-01-12 04:48,Resolved,7.8,4,Met
+T00251,C0035,E0002,Login Issue,Medium,2025-03-11 00:00,Null,Escalated,Null,Null,Pending
+T00252,C0095,E0131,Software Installation,Medium,2025-04-11 16:00,Null,In Progress,Null,Null,Pending
+T00253,C0009,E0006,Application Error,Low,2026-04-02 11:00,2026-04-04 13:48,Closed,50.8,4,Breached
+T00254,C0141,E0099,Network Issue,High,2025-10-18 08:00,Null,Open,Null,Null,Pending
+T00255,C0130,E0112,Network Issue,Medium,2025-02-04 00:00,2025-02-04 04:06,Resolved,4.1,3,Met
+T00256,C0146,E0042,Access/Permission,High,2025-04-05 01:00,2025-04-05 12:12,Closed,11.2,3,Breached
+T00257,C0155,E0099,Access/Permission,Medium,2025-08-11 19:00,2025-08-13 03:18,Closed,32.3,4,Breached
+T00258,C0070,E0097,Application Error,High,2025-05-03 02:00,2025-05-03 07:24,Closed,5.4,4,Met
+T00259,C0105,E0073,Access/Permission,Low,2025-05-14 12:00,2025-05-15 21:42,Resolved,33.7,3,Breached
+T00260,C0111,E0129,Access/Permission,High,2025-07-09 03:00,2025-07-09 20:12,Closed,17.2,5,Breached
+T00261,C0089,E0105,Database Issue,Medium,2025-09-17 09:00,Null,Open,Null,Null,Pending
+T00262,C0067,E0050,Data Issue,Low,2025-03-19 20:00,2025-03-21 06:12,Resolved,34.2,5,Breached
+T00263,C0066,E0112,Data Issue,High,2025-10-11 13:00,2025-10-11 21:54,Resolved,8.9,4,Breached
+T00264,C0161,E0042,Security Issue,High,2025-09-21 05:00,2025-09-21 11:36,Closed,6.6,5,Met
+T00265,C0052,E0042,Application Error,High,2025-10-11 01:00,Null,Open,Null,Null,Pending
+T00266,C0159,E0129,Software Installation,High,2026-02-02 10:00,Null,In Progress,Null,Null,Pending
+T00267,C0171,E0041,Login Issue,Medium,2025-09-22 08:00,2025-09-22 14:48,Closed,6.8,4,Met
+T00268,C0131,E0006,Database Issue,Critical,2026-03-28 02:00,2026-03-28 11:42,Closed,9.7,3,Breached
+T00269,C0098,E0041,Data Issue,High,2025-07-25 19:00,2025-07-26 01:54,Resolved,6.9,3,Met
+T00270,C0014,E0062,Software Installation,Medium,2025-07-02 20:00,2025-07-03 11:42,Resolved,15.7,3,Breached
+T00271,C0131,E0045,Data Issue,Low,2025-04-22 04:00,2025-04-23 14:06,Resolved,34.1,4,Breached
+T00272,C0067,E0131,Feature Request,Medium,2026-03-18 06:00,2026-03-18 13:48,Resolved,7.8,4,Met
+T00273,C0073,E0042,Access/Permission,High,2025-04-19 14:00,2025-04-20 07:36,Resolved,17.6,4,Breached
+T00274,C0037,E0105,Performance Issue,Medium,2025-04-16 01:00,2025-04-17 13:12,Closed,36.2,4,Breached
+T00275,C0051,E0031,Application Error,Low,2025-03-14 18:00,Null,Open,Null,Null,Pending
+T00276,C0156,E0148,Performance Issue,Low,2026-04-02 00:00,Null,In Progress,Null,Null,Pending
+T00277,C0032,E0050,Data Issue,High,2025-06-02 20:00,2025-06-03 10:42,Resolved,14.7,Null,Breached
+T00278,C0116,E0062,Login Issue,Low,2025-02-08 21:00,2025-02-10 16:12,Resolved,43.2,5,Breached
+T00279,C0126,E0055,Software Installation,Medium,2025-09-30 04:00,2025-10-01 13:06,Resolved,33.1,3,Breached
+T00280,C0055,E0141,Security Issue,Medium,2026-02-05 18:00,2026-02-06 11:36,Closed,17.6,4,Breached
+T00281,C0128,E0046,Login Issue,High,2026-06-12 22:00,2026-06-13 06:00,Resolved,8,4,Met
+T00282,C0039,E0042,Data Issue,Medium,2026-05-05 13:00,Null,In Progress,Null,Null,Pending
+T00283,C0110,E0006,Software Installation,High,2025-03-13 17:00,2025-03-14 06:24,Resolved,13.4,4,Breached
+T00284,C0040,E0080,Network Issue,High,2025-01-04 12:00,2025-01-04 19:00,Resolved,7,4,Met
+T00285,C0032,E0105,Data Issue,Low,2025-05-05 18:00,Null,In Progress,Null,Null,Pending
+T00286,C0047,E0080,Feature Request,High,2026-01-03 10:00,2026-01-03 13:42,Resolved,3.7,5,Met
+T00287,C0112,E0148,Performance Issue,High,2026-02-15 01:00,2026-02-15 07:54,Closed,6.9,4,Met
+T00288,C0081,E0055,Application Error,Low,2026-01-10 17:00,2026-01-11 15:06,Closed,22.1,4,Met
+T00289,C0145,E0067,Security Issue,High,2025-03-24 14:00,Null,Escalated,Null,Null,Pending
+T00290,C0156,E0105,Performance Issue,Medium,2025-07-27 05:00,2025-07-28 15:48,Resolved,34.8,5,Breached
+T00291,C0137,E0112,Feature Request,Medium,2025-02-10 12:00,Null,Escalated,Null,Null,Pending
+T00292,C0080,E0105,Network Issue,High,2025-11-03 22:00,2025-11-04 09:12,Resolved,11.2,4,Breached
+T00293,C0152,E0042,Software Installation,Low,2025-04-20 20:00,2025-04-23 05:48,Resolved,57.8,4,Breached
+T00294,C0081,E0002,Security Issue,High,2026-05-14 02:00,2026-05-14 18:24,Resolved,16.4,5,Breached
+T00295,C0093,E0055,Data Issue,Low,2025-07-14 04:00,2025-07-14 20:36,Resolved,16.6,3,Met
+T00296,C0062,E0046,Login Issue,High,2025-07-17 00:00,2025-07-17 04:54,Closed,4.9,5,Met
+T00297,C0053,E0045,Access/Permission,Medium,2025-09-02 15:00,2025-09-02 23:00,Resolved,8,4,Met
+T00298,C0028,E0080,Software Installation,Medium,2025-03-06 17:00,2025-03-07 01:30,Closed,8.5,4,Met
+T00299,C0132,E0011,Performance Issue,Medium,2026-05-27 17:00,Null,In Progress,Null,Null,Pending
+T00300,C0070,E0006,Data Issue,Medium,2025-01-17 01:00,Null,Open,Null,Null,Pending
+T00301,C0027,E0150,Security Issue,Medium,2025-02-27 10:00,Null,In Progress,Null,Null,Pending
+T00302,C0003,E0068,Login Issue,Low,2026-02-20 03:00,2026-02-21 12:00,Resolved,33,3,Breached
+T00303,C0053,E0080,Network Issue,Medium,2026-06-20 14:00,2026-06-20 17:54,Resolved,3.9,4,Met
+T00304,C0090,E0041,Feature Request,High,2025-06-02 23:00,Null,Open,Null,Null,Pending
+T00305,C0028,E0122,Access/Permission,Low,2025-08-27 02:00,Null,Open,Null,Null,Pending
+T00306,C0002,E0041,Login Issue,Low,2025-05-25 15:00,Null,Open,Null,Null,Pending
+T00307,C0073,E0099,Login Issue,Medium,2026-04-28 19:00,2026-04-29 05:00,Resolved,10,3,Met
+T00308,C0163,E0112,Login Issue,Medium,2025-09-06 22:00,2025-09-08 11:06,Resolved,37.1,4,Breached
+T00309,C0103,E0041,Database Issue,High,2025-01-15 05:00,2025-01-15 11:48,Resolved,6.8,4,Met
+T00310,C0164,E0050,Login Issue,Medium,2025-11-11 03:00,2025-11-11 19:06,Resolved,16.1,4,Breached
+T00311,C0001,E0041,Data Issue,High,2025-06-24 18:00,Null,Escalated,Null,Null,Pending
+T00312,C0172,E0062,Application Error,Medium,2025-04-19 03:00,Null,Open,Null,Null,Pending
+T00313,C0118,E0122,Data Issue,Low,2025-08-14 02:00,2025-08-16 01:06,Resolved,47.1,4,Breached
+T00314,C0178,E0031,Network Issue,High,2026-03-13 10:00,2026-03-13 14:42,Resolved,4.7,4,Met
+T00315,C0026,E0150,Software Installation,High,2025-11-29 03:00,2025-11-29 09:48,Resolved,6.8,3,Met
+T00316,C0092,E0042,Access/Permission,Medium,2026-07-13 04:00,2026-07-13 18:24,Closed,14.4,4,Breached
+T00317,C0153,E0055,Security Issue,Medium,2025-08-07 01:00,Null,Escalated,Null,Null,Pending
+T00318,C0030,E0041,Access/Permission,High,2025-06-27 10:00,Null,Open,Null,Null,Pending
+T00319,C0006,E0068,Application Error,Medium,2025-05-04 08:00,2025-05-04 15:42,Closed,7.7,4,Met
+T00320,C0020,E0055,Database Issue,Medium,2026-03-02 05:00,2026-03-02 22:06,Closed,17.1,4,Breached
+T00321,C0109,E0050,Security Issue,High,2026-07-21 05:00,2026-07-21 08:42,Resolved,3.7,3,Met
+T00322,C0067,E0011,Data Issue,Medium,2025-09-07 18:00,2025-09-08 00:54,Closed,6.9,4,Met
+T00323,C0168,E0083,Login Issue,High,2025-05-17 03:00,2025-05-17 08:12,Resolved,5.2,4,Met
+T00324,C0066,E0122,Access/Permission,Medium,2026-01-21 05:00,2026-01-21 23:18,Closed,18.3,4,Breached
+T00325,C0042,E0031,Login Issue,High,2026-05-14 02:00,2026-05-14 08:48,Resolved,6.8,5,Met
+T00326,C0135,E0112,Login Issue,High,2025-01-08 05:00,2025-01-08 07:00,Closed,2,5,Met
+T00327,C0175,E0097,Application Error,High,2025-10-18 13:00,2025-10-18 19:12,Resolved,6.2,3,Met
+T00328,C0080,E0031,Data Issue,Medium,2025-05-10 06:00,2025-05-10 18:30,Closed,12.5,3,Breached
+T00329,C0133,E0097,Database Issue,Critical,2025-10-05 16:00,2025-10-05 20:48,Resolved,4.8,5,Breached
+T00330,C0128,E0150,Data Issue,Medium,2026-02-26 07:00,Null,In Progress,Null,Null,Pending
+T00331,C0081,E0041,Database Issue,Medium,2025-02-08 19:00,Null,Open,Null,Null,Pending
+T00332,C0093,E0050,Database Issue,Low,2026-05-27 19:00,Null,Escalated,Null,Null,Pending
+T00333,C0078,E0068,Application Error,High,2025-11-05 11:00,Null,Open,Null,Null,Pending
+T00334,C0171,E0150,Software Installation,Medium,2025-01-05 17:00,2025-01-06 11:12,Resolved,18.2,3,Breached
+T00335,C0020,E0141,Network Issue,Medium,2025-07-16 03:00,2025-07-16 13:24,Resolved,10.4,5,Met
+T00336,C0119,E0083,Feature Request,High,2025-04-08 19:00,2025-04-09 03:36,Closed,8.6,4,Breached
+T00337,C0048,E0045,Security Issue,Medium,2026-07-07 16:00,2026-07-07 23:42,Closed,7.7,4,Met
+T00338,C0157,E0042,Network Issue,Medium,2026-04-21 20:00,Null,Escalated,Null,Null,Pending
+T00339,C0089,E0041,Network Issue,Medium,2025-10-11 01:00,Null,Escalated,Null,Null,Pending
+T00340,C0048,E0099,Network Issue,High,2025-04-26 04:00,2025-04-26 11:18,Closed,7.3,3,Met
+T00341,C0080,E0042,Data Issue,Low,2026-05-25 05:00,2026-05-26 15:06,Resolved,34.1,4,Breached
+T00342,C0108,E0055,Database Issue,Low,2025-02-14 01:00,2025-02-14 13:24,Closed,12.4,4,Met
+T00343,C0029,E0067,Security Issue,High,2025-10-19 06:00,Null,Open,Null,Null,Pending
+T00344,C0153,E0105,Software Installation,High,2025-09-15 10:00,2025-09-15 22:54,Resolved,12.9,4,Breached
+T00345,C0158,E0002,Access/Permission,Medium,2026-04-10 01:00,Null,Escalated,Null,Null,Pending
+T00346,C0162,E0041,Application Error,Medium,2025-02-23 17:00,2025-02-24 01:18,Resolved,8.3,4,Met
+T00347,C0118,E0083,Database Issue,Medium,2025-06-11 00:00,2025-06-11 12:00,Closed,12,4,Met
+T00348,C0075,E0099,Data Issue,High,2026-06-12 03:00,2026-06-12 12:36,Resolved,9.6,4,Breached
+T00349,C0017,E0046,Application Error,Medium,2025-08-29 23:00,Null,Open,Null,Null,Pending
+T00350,C0121,E0067,Data Issue,High,2026-08-17 10:00,Null,In Progress,Null,Null,Pending
+T00351,C0057,E0112,Software Installation,Low,2025-07-23 23:00,Null,In Progress,Null,Null,Pending
+T00352,C0116,E0041,Security Issue,High,2025-08-24 03:00,2025-08-24 11:24,Closed,8.4,4,Breached
+T00353,C0113,E0083,Security Issue,High,2025-08-22 03:00,2025-08-22 14:18,Closed,11.3,5,Breached
+T00354,C0036,E0122,Network Issue,Medium,2026-02-27 06:00,2026-02-27 13:18,Resolved,7.3,4,Met
+T00355,C0090,E0050,Software Installation,Medium,2025-08-14 02:00,2025-08-14 09:42,Closed,7.7,Null,Met
+T00356,C0007,E0080,Data Issue,Medium,2026-08-23 15:00,2026-08-23 20:48,Resolved,5.8,4,Met
+T00357,C0118,E0062,Login Issue,Medium,2026-03-23 04:00,Null,Escalated,Null,Null,Pending
+T00358,C0007,E0002,Network Issue,Low,2026-04-11 05:00,2026-04-12 00:12,Closed,19.2,4,Met
+T00359,C0163,E0131,Software Installation,High,2026-01-18 04:00,2026-01-18 09:42,Resolved,5.7,4,Met
+T00360,C0055,E0083,Data Issue,Medium,2025-07-18 20:00,2025-07-19 13:48,Closed,17.8,4,Breached
+T00361,C0060,E0068,Security Issue,Medium,2025-10-04 06:00,2025-10-05 05:48,Resolved,23.8,5,Breached
+T00362,C0157,E0002,Security Issue,Medium,2025-05-11 01:00,2025-05-12 03:18,Closed,26.3,4,Breached
+T00363,C0159,E0105,Access/Permission,High,2025-03-03 08:00,2025-03-03 16:42,Resolved,8.7,4,Breached
+T00364,C0025,E0055,Database Issue,High,2025-04-24 14:00,2025-04-24 23:54,Resolved,9.9,4,Breached
+T00365,C0107,E0042,Data Issue,Medium,2026-03-05 05:00,2026-03-05 12:48,Resolved,7.8,4,Met
+T00366,C0153,E0129,Security Issue,High,2025-08-14 09:00,2025-08-15 20:48,Resolved,35.8,5,Breached
+T00367,C0096,E0068,Access/Permission,Medium,2025-06-10 20:00,2025-06-11 07:54,Resolved,11.9,5,Met
+T00368,C0066,E0041,Access/Permission,Critical,2025-06-24 18:00,Null,Escalated,Null,Null,Pending
+T00369,C0133,E0046,Feature Request,Medium,2025-08-24 02:00,Null,In Progress,Null,Null,Pending
+T00370,C0108,E0050,Software Installation,Medium,2026-06-19 15:00,Null,In Progress,Null,Null,Pending
+T00371,C0013,E0031,Network Issue,Medium,2026-04-30 14:00,2026-04-30 22:30,Resolved,8.5,4,Met
+T00372,C0135,E0148,Performance Issue,Low,2025-01-15 23:00,Null,In Progress,Null,Null,Pending
+T00373,C0044,E0046,Software Installation,Medium,2025-09-10 07:00,2025-09-10 17:42,Resolved,10.7,4,Met
+T00374,C0014,E0068,Security Issue,Medium,2026-03-21 18:00,Null,Open,Null,Null,Pending
+T00375,C0021,E0042,Network Issue,Medium,2025-06-02 18:00,Null,Escalated,Null,Null,Pending
+T00376,C0114,E0055,Login Issue,Medium,2026-03-04 01:00,Null,Open,Null,Null,Pending
+T00377,C0021,E0148,Login Issue,Medium,2026-04-27 23:00,2026-04-28 09:12,Resolved,10.2,5,Met
+T00378,C0007,E0067,Feature Request,Low,2025-02-04 13:00,Null,Open,Null,Null,Pending
+T00379,C0132,E0080,Feature Request,Low,2026-02-08 15:00,Null,Open,Null,Null,Pending
+T00380,C0002,E0050,Application Error,Medium,2026-04-09 15:00,Null,Escalated,Null,Null,Pending
+T00381,C0136,E0055,Network Issue,Medium,2025-03-27 17:00,2025-03-28 23:48,Closed,30.8,3,Breached
+T00382,C0081,E0055,Login Issue,Medium,2026-02-21 06:00,2026-02-21 14:00,Resolved,8,4,Met
+T00383,C0062,E0062,Database Issue,Medium,2026-01-03 09:00,2026-01-03 12:24,Closed,3.4,5,Met
+T00384,C0043,E0141,Network Issue,High,2025-04-03 00:00,2025-04-03 10:54,Resolved,10.9,3,Breached
+T00385,C0145,E0068,Data Issue,High,2025-11-09 05:00,2025-11-09 09:24,Resolved,4.4,5,Met
+T00386,C0172,E0006,Data Issue,Low,2026-08-08 23:00,Null,In Progress,Null,Null,Pending
+T00387,C0064,E0045,Access/Permission,Low,2025-01-25 14:00,2025-01-26 06:12,Closed,16.2,4,Met
+T00388,C0002,E0122,Data Issue,Low,2025-05-22 22:00,2025-05-24 15:48,Resolved,41.8,5,Breached
+T00389,C0113,E0050,Software Installation,Medium,2025-07-09 11:00,Null,Open,Null,Null,Pending
+T00390,C0006,E0062,Data Issue,High,2025-01-02 20:00,2025-01-03 00:06,Closed,4.1,4,Met
+T00391,C0068,E0097,Application Error,Critical,2026-01-30 22:00,2026-01-31 03:54,Resolved,5.9,4,Breached
+T00392,C0145,E0002,Security Issue,Medium,2026-06-28 01:00,2026-06-28 08:48,Resolved,7.8,4,Met
+T00393,C0083,E0080,Performance Issue,Medium,2026-03-13 08:00,2026-03-13 17:36,Resolved,9.6,3,Met
+T00394,C0132,E0073,Access/Permission,Medium,2026-07-10 18:00,Null,Open,Null,Null,Pending
+T00395,C0070,E0045,Network Issue,Medium,2025-03-24 19:00,2025-03-25 07:00,Closed,12,3,Met
+T00396,C0079,E0105,Security Issue,High,2025-02-26 16:00,2025-02-26 19:30,Closed,3.5,4,Met
+T00397,C0147,E0148,Security Issue,High,2025-02-22 03:00,2025-02-22 12:18,Resolved,9.3,5,Breached
+T00398,C0158,E0073,Software Installation,Low,2026-01-10 14:00,2026-01-12 00:36,Resolved,34.6,3,Breached
+T00399,C0082,E0150,Access/Permission,Medium,2025-02-11 11:00,2025-02-12 00:06,Resolved,13.1,5,Breached
+T00400,C0176,E0062,Security Issue,High,2025-06-29 20:00,2025-06-30 08:42,Closed,12.7,4,Breached
+T00401,C0057,E0148,Feature Request,Medium,2025-03-10 17:00,Null,In Progress,Null,Null,Pending
+T00402,C0120,E0062,Network Issue,Critical,2025-05-22 10:00,Null,Escalated,Null,Null,Pending
+T00403,C0061,E0080,Network Issue,Medium,2026-07-07 03:00,2026-07-07 14:00,Resolved,11,5,Met
+T00404,C0063,E0129,Data Issue,Medium,2026-08-18 22:00,2026-08-19 04:42,Resolved,6.7,4,Met
+T00405,C0138,E0006,Network Issue,Medium,2025-08-19 10:00,2025-08-20 00:18,Closed,14.3,4,Breached
+T00406,C0111,E0002,Security Issue,Medium,2025-10-01 16:00,2025-10-02 07:06,Closed,15.1,4,Breached
+T00407,C0162,E0042,Software Installation,Medium,2025-10-11 01:00,Null,Open,Null,Null,Pending
+T00408,C0058,E0122,Application Error,Medium,2026-01-17 11:00,2026-01-17 20:42,Resolved,9.7,4,Met
+T00409,C0152,E0055,Data Issue,High,2026-05-13 16:00,Null,Open,Null,Null,Pending
+T00410,C0056,E0067,Feature Request,Medium,2025-05-06 15:00,2025-05-07 04:18,Resolved,13.3,4,Breached
+T00411,C0091,E0068,Feature Request,Medium,2026-06-30 09:00,2026-06-30 15:12,Closed,6.2,5,Met
+T00412,C0059,E0050,Data Issue,High,2026-01-12 21:00,2026-01-13 10:00,Resolved,13,4,Breached
+T00413,C0176,E0068,Application Error,Medium,2025-07-12 14:00,2025-07-12 21:18,Resolved,7.3,4,Met
+T00414,C0101,E0002,Application Error,Low,2025-03-24 12:00,2025-03-25 00:24,Resolved,12.4,4,Met
+T00415,C0032,E0105,Database Issue,Low,2025-10-23 02:00,Null,Escalated,Null,Null,Pending
+T00416,C0148,E0148,Application Error,High,2025-06-18 08:00,Null,Escalated,Null,Null,Pending
+T00417,C0144,E0055,Application Error,Critical,2025-06-01 15:00,2025-06-01 18:12,Closed,3.2,3,Met
+T00418,C0148,E0083,Database Issue,High,2025-07-29 16:00,Null,In Progress,Null,Null,Pending
+T00419,C0146,E0031,Login Issue,High,2025-10-28 13:00,2025-10-28 18:54,Closed,5.9,2,Met
+T00420,C0106,E0002,Feature Request,Medium,2025-05-16 15:00,Null,Escalated,Null,Null,Pending
+T00421,C0135,E0042,Security Issue,Medium,2026-03-07 14:00,2026-03-07 20:18,Closed,6.3,5,Met
+T00422,C0090,E0129,Login Issue,High,2025-10-26 06:00,2025-10-26 10:54,Closed,4.9,4,Met
+T00423,C0055,E0122,Application Error,Medium,2025-01-23 07:00,2025-01-23 22:00,Resolved,15,3,Breached
+T00424,C0060,E0062,Feature Request,Medium,2025-12-10 13:00,2025-12-10 22:36,Closed,9.6,5,Met
+T00425,C0116,E0122,Access/Permission,Medium,2025-12-18 20:00,2025-12-19 06:24,Resolved,10.4,5,Met
+T00426,C0013,E0073,Security Issue,Critical,2026-05-13 18:00,2026-05-13 22:24,Closed,4.4,4,Breached
+T00427,C0035,E0122,Feature Request,Medium,2026-07-16 14:00,2026-07-17 08:18,Resolved,18.3,4,Breached
+T00428,C0007,E0055,Data Issue,Medium,2025-11-08 18:00,2025-11-09 02:24,Resolved,8.4,4,Met
+T00429,C0158,E0002,Database Issue,Medium,2025-11-10 05:00,2025-11-10 13:18,Resolved,8.3,Null,Met
+T00430,C0149,E0045,Performance Issue,Critical,2025-08-21 15:00,2025-08-21 17:30,Closed,2.5,5,Met
+T00431,C0026,E0097,Security Issue,Medium,2025-10-23 01:00,2025-10-23 10:24,Resolved,9.4,3,Met
+T00432,C0090,E0068,Database Issue,Medium,2025-12-28 09:00,2025-12-28 16:12,Resolved,7.2,Null,Met
+T00433,C0046,E0112,Data Issue,Low,2025-06-20 19:00,Null,In Progress,Null,Null,Pending
+T00434,C0031,E0122,Database Issue,Medium,2026-07-03 09:00,2026-07-04 04:06,Closed,19.1,4,Breached
+T00435,C0001,E0050,Database Issue,Medium,2025-06-29 22:00,Null,In Progress,Null,Null,Pending
+T00436,C0120,E0131,Database Issue,Low,2025-06-15 07:00,2025-06-16 01:48,Resolved,18.8,3,Met
+T00437,C0054,E0045,Application Error,Medium,2025-02-12 10:00,2025-02-13 08:42,Resolved,22.7,4,Breached
+T00438,C0052,E0041,Access/Permission,Medium,2025-05-10 14:00,2025-05-11 00:36,Closed,10.6,4,Met
+T00439,C0091,E0041,Performance Issue,Medium,2026-01-14 05:00,2026-01-14 14:00,Closed,9,3,Met
+T00440,C0126,E0097,Network Issue,Medium,2026-07-30 22:00,2026-07-31 21:42,Closed,23.7,4,Breached
+T00441,C0039,E0148,Login Issue,Medium,2025-11-21 11:00,2025-11-21 22:12,Resolved,11.2,4,Met
+T00442,C0096,E0050,Database Issue,Medium,2026-01-17 14:00,2026-01-18 17:54,Resolved,27.9,5,Breached
+T00443,C0040,E0073,Feature Request,Medium,2025-06-16 17:00,2025-06-17 00:00,Closed,7,3,Met
+T00444,C0051,E0045,Performance Issue,Low,2025-05-05 00:00,2025-05-05 18:42,Resolved,18.7,5,Met
+T00445,C0162,E0080,Software Installation,Low,2026-05-27 04:00,Null,In Progress,Null,Null,Pending
+T00446,C0057,E0083,Data Issue,Low,2025-11-24 04:00,2025-11-24 16:54,Closed,12.9,5,Met
+T00447,C0073,E0097,Login Issue,Medium,2026-07-14 16:00,2026-07-15 16:30,Closed,24.5,5,Breached
+T00448,C0140,E0122,Security Issue,Medium,2025-10-30 15:00,2025-10-30 20:36,Closed,5.6,5,Met
+T00449,C0094,E0062,Performance Issue,Medium,2026-08-11 21:00,Null,In Progress,Null,Null,Pending
+T00450,C0167,E0080,Database Issue,High,2026-08-02 23:00,2026-08-03 14:00,Resolved,15,3,Breached
+T00451,C0144,E0042,Data Issue,Low,2025-12-13 22:00,2025-12-14 03:00,Resolved,5,3,Met
+T00452,C0099,E0002,Application Error,High,2026-05-06 01:00,2026-05-06 05:54,Resolved,4.9,4,Met
+T00453,C0157,E0002,Database Issue,Medium,2026-07-19 03:00,2026-07-19 04:42,Resolved,1.7,4,Met
+T00454,C0106,E0046,Performance Issue,Low,2025-01-26 12:00,Null,Open,Null,Null,Pending
+T00455,C0041,E0011,Access/Permission,Medium,2025-08-14 14:00,2025-08-15 03:30,Resolved,13.5,4,Breached
+T00456,C0152,E0122,Security Issue,Medium,2025-04-05 10:00,2025-04-05 13:42,Resolved,3.7,3,Met
+T00457,C0166,E0055,Login Issue,Low,2025-07-19 18:00,Null,Open,Null,Null,Pending
+T00458,C0046,E0002,Feature Request,Critical,2025-08-16 08:00,2025-08-16 11:24,Resolved,3.4,4,Met
+T00459,C0156,E0148,Network Issue,Low,2025-01-24 02:00,Null,Open,Null,Null,Pending
+T00460,C0098,E0006,Feature Request,High,2026-04-02 21:00,2026-04-03 05:00,Resolved,8,3,Met
+T00461,C0152,E0050,Application Error,Medium,2026-06-09 12:00,2026-06-10 01:18,Closed,13.3,3,Breached
+T00462,C0074,E0006,Network Issue,Low,2026-05-18 10:00,Null,In Progress,Null,Null,Pending
+T00463,C0178,E0067,Access/Permission,Medium,2026-06-08 01:00,Null,Escalated,Null,Null,Pending
+T00464,C0024,E0055,Security Issue,Medium,2026-02-12 04:00,2026-02-12 13:06,Resolved,9.1,4,Met
+T00465,C0004,E0073,Software Installation,Medium,2026-01-14 12:00,2026-01-15 05:00,Closed,17,5,Breached
+T00466,C0001,E0148,Security Issue,High,2025-01-13 09:00,2025-01-13 12:12,Resolved,3.2,5,Met
+T00467,C0068,E0080,Security Issue,Low,2025-12-26 09:00,2025-12-26 20:36,Resolved,11.6,3,Met
+T00468,C0173,E0002,Data Issue,High,2026-07-29 02:00,2026-07-29 16:36,Resolved,14.6,4,Breached
+T00469,C0034,E0042,Network Issue,High,2026-03-31 23:00,Null,Open,Null,Null,Pending
+T00470,C0139,E0050,Software Installation,Critical,2026-03-30 09:00,2026-03-30 14:24,Resolved,5.4,5,Breached
+T00471,C0160,E0067,Database Issue,Critical,2026-03-11 23:00,Null,Open,Null,Null,Pending
+T00472,C0027,E0067,Software Installation,Low,2025-05-23 18:00,Null,In Progress,Null,Null,Pending
+T00473,C0055,E0042,Access/Permission,Critical,2025-03-30 04:00,Null,In Progress,Null,Null,Pending
+T00474,C0070,E0099,Network Issue,High,2025-11-07 15:00,2025-11-07 19:48,Resolved,4.8,5,Met
+T00475,C0112,E0080,Feature Request,High,2025-12-10 02:00,2025-12-10 07:06,Resolved,5.1,3,Met
+T00476,C0017,E0050,Access/Permission,Medium,2026-01-20 02:00,2026-01-20 21:42,Resolved,19.7,4,Breached
+T00477,C0142,E0112,Login Issue,High,2026-02-24 20:00,2026-02-25 10:24,Closed,14.4,4,Breached
+T00478,C0148,E0046,Performance Issue,Medium,2026-03-01 05:00,2026-03-01 13:06,Resolved,8.1,4,Met
+T00479,C0090,E0068,Feature Request,High,2026-04-19 22:00,2026-04-20 08:36,Resolved,10.6,4,Breached
+T00480,C0166,E0141,Access/Permission,Medium,2025-05-21 06:00,2025-05-21 18:18,Resolved,12.3,4,Breached
+T00481,C0119,E0148,Database Issue,Medium,2026-01-26 09:00,2026-01-27 01:18,Resolved,16.3,5,Breached
+T00482,C0121,E0046,Feature Request,High,2026-05-18 01:00,2026-05-18 07:48,Closed,6.8,3,Met
+T00483,C0114,E0122,Performance Issue,Critical,2026-08-23 09:00,Null,Open,Null,Null,Pending
+T00484,C0164,E0031,Data Issue,Medium,2026-07-27 23:00,2026-07-28 07:24,Closed,8.4,5,Met
+T00485,C0043,E0099,Data Issue,Medium,2025-08-18 00:00,2025-08-18 13:30,Resolved,13.5,4,Breached
+T00486,C0005,E0055,Login Issue,High,2025-06-07 08:00,2025-06-07 10:24,Resolved,2.4,4,Met
+T00487,C0143,E0041,Performance Issue,High,2026-04-29 03:00,2026-04-29 14:30,Resolved,11.5,4,Breached
+T00488,C0127,E0083,Performance Issue,Medium,2026-03-04 05:00,2026-03-04 14:00,Resolved,9,3,Met
+T00489,C0144,E0041,Data Issue,High,2025-09-08 00:00,2025-09-08 04:42,Resolved,4.7,5,Met
+T00490,C0082,E0031,Application Error,Medium,2025-10-11 15:00,Null,Open,Null,Null,Pending
+T00491,C0177,E0112,Application Error,Medium,2026-01-06 18:00,2026-01-07 07:54,Closed,13.9,5,Breached
+T00492,C0020,E0122,Data Issue,Low,2026-08-03 13:00,Null,In Progress,Null,Null,Pending
+T00493,C0180,E0055,Performance Issue,Medium,2026-05-03 22:00,2026-05-04 07:00,Closed,9,Null,Met
+T00494,C0149,E0073,Application Error,Medium,2026-01-18 16:00,Null,In Progress,Null,Null,Pending
+T00495,C0096,E0083,Access/Permission,Medium,2025-01-18 08:00,2025-01-18 18:18,Closed,10.3,3,Met
+T00496,C0173,E0073,Database Issue,Critical,2026-08-19 01:00,Null,Escalated,Null,Null,Pending
+T00497,C0002,E0150,Database Issue,Critical,2025-11-24 14:00,2025-11-24 19:30,Closed,5.5,5,Breached
+T00498,C0052,E0002,Database Issue,Medium,2026-01-01 05:00,2026-01-01 18:36,Resolved,13.6,4,Breached
+T00499,C0145,E0141,Login Issue,Critical,2025-10-07 11:00,2025-10-07 12:12,Closed,1.2,3,Met
+T00500,C0020,E0050,Software Installation,Low,2025-12-31 01:00,2026-01-01 02:18,Closed,25.3,4,Breached
+T00501,C0156,E0112,Performance Issue,High,2025-10-26 16:00,Null,In Progress,Null,Null,Pending
+T00502,C0099,E0099,Application Error,Medium,2026-06-11 06:00,2026-06-11 12:24,Closed,6.4,5,Met
+T00503,C0171,E0042,Database Issue,Medium,2025-04-07 19:00,Null,In Progress,Null,Null,Pending
+T00504,C0083,E0046,Database Issue,Low,2026-07-11 10:00,2026-07-13 14:18,Closed,52.3,3,Breached
+T00505,C0106,E0067,Security Issue,Medium,2025-11-05 08:00,Null,Open,Null,Null,Pending
+T00506,C0035,E0055,Security Issue,Medium,2025-04-09 17:00,2025-04-11 01:06,Resolved,32.1,5,Breached
+T00507,C0175,E0011,Access/Permission,Low,2025-12-27 04:00,2025-12-28 05:36,Closed,25.6,5,Breached
+T00508,C0143,E0062,Login Issue,High,2025-05-21 16:00,Null,In Progress,Null,Null,Pending
+T00509,C0129,E0055,Performance Issue,High,2026-01-17 15:00,2026-01-17 21:06,Resolved,6.1,4,Met
+T00510,C0025,E0011,Software Installation,Medium,2025-12-15 05:00,2025-12-15 09:54,Resolved,4.9,5,Met
+T00511,C0159,E0045,Application Error,Medium,2025-08-12 04:00,2025-08-12 13:42,Closed,9.7,4,Met
+T00512,C0068,E0045,Feature Request,Low,2025-08-15 06:00,2025-08-15 22:30,Resolved,16.5,4,Met
+T00513,C0131,E0122,Feature Request,Medium,2026-06-23 17:00,2026-06-24 00:18,Closed,7.3,4,Met
+T00514,C0163,E0112,Feature Request,Medium,2025-04-27 13:00,2025-04-28 12:18,Closed,23.3,4,Breached
+T00515,C0081,E0046,Data Issue,High,2025-03-20 03:00,2025-03-20 10:48,Resolved,7.8,5,Met
+T00516,C0171,E0041,Database Issue,Medium,2025-01-18 15:00,2025-01-18 21:24,Closed,6.4,4,Met
+T00517,C0009,E0046,Security Issue,High,2025-11-16 22:00,2025-11-17 04:42,Closed,6.7,5,Met
+T00518,C0052,E0050,Security Issue,Medium,2025-05-23 14:00,2025-05-24 06:42,Closed,16.7,4,Breached
+T00519,C0009,E0097,Access/Permission,Medium,2026-06-20 10:00,2026-06-20 18:48,Closed,8.8,3,Met
+T00520,C0113,E0122,Database Issue,High,2025-11-08 00:00,Null,Open,Null,Null,Pending
+T00521,C0100,E0080,Application Error,Medium,2025-08-16 04:00,2025-08-17 07:54,Resolved,27.9,3,Breached
+T00522,C0012,E0150,Database Issue,Medium,2025-08-21 09:00,2025-08-21 17:18,Resolved,8.3,5,Met
+T00523,C0082,E0129,Database Issue,High,2025-08-03 04:00,2025-08-03 13:12,Resolved,9.2,4,Breached
+T00524,C0043,E0068,Application Error,Medium,2026-03-12 22:00,Null,In Progress,Null,Null,Pending
+T00525,C0099,E0083,Application Error,Low,2025-03-21 00:00,Null,Escalated,Null,Null,Pending
+T00526,C0137,E0050,Data Issue,Low,2026-03-18 01:00,Null,Open,Null,Null,Pending
+T00527,C0140,E0055,Network Issue,Critical,2025-04-21 01:00,Null,Escalated,Null,Null,Pending
+T00528,C0068,E0068,Feature Request,High,2025-03-02 15:00,Null,Escalated,Null,Null,Pending
+T00529,C0178,E0045,Application Error,High,2025-09-17 01:00,2025-09-17 11:48,Resolved,10.8,5,Breached
+T00530,C0048,E0083,Application Error,Medium,2025-11-05 21:00,2025-11-06 07:48,Closed,10.8,3,Met
+T00531,C0108,E0002,Login Issue,Medium,2025-04-09 03:00,Null,Escalated,Null,Null,Pending
+T00532,C0096,E0002,Access/Permission,Medium,2025-07-30 18:00,2025-08-01 00:30,Resolved,30.5,4,Breached
+T00533,C0038,E0105,Network Issue,High,2025-07-09 21:00,2025-07-10 02:36,Resolved,5.6,5,Met
+T00534,C0175,E0050,Security Issue,High,2025-01-30 02:00,2025-01-30 13:42,Resolved,11.7,3,Breached
+T00535,C0047,E0041,Database Issue,Medium,2025-10-12 18:00,2025-10-12 23:36,Resolved,5.6,4,Met
+T00536,C0041,E0080,Security Issue,Low,2025-12-27 05:00,Null,Escalated,Null,Null,Pending
+T00537,C0084,E0080,Feature Request,Medium,2025-09-05 16:00,Null,Escalated,Null,Null,Pending
+T00538,C0004,E0002,Access/Permission,Medium,2025-03-11 03:00,2025-03-11 18:48,Closed,15.8,4,Breached
+T00539,C0137,E0083,Access/Permission,Medium,2025-01-15 16:00,2025-01-16 05:12,Resolved,13.2,4,Breached
+T00540,C0038,E0006,Network Issue,Medium,2025-07-16 09:00,2025-07-16 13:36,Closed,4.6,4,Met
+T00541,C0119,E0141,Database Issue,High,2026-07-05 00:00,2026-07-05 07:36,Closed,7.6,4,Met
+T00542,C0111,E0031,Application Error,Medium,2025-08-08 16:00,2025-08-09 07:06,Resolved,15.1,5,Breached
+T00543,C0068,E0067,Data Issue,High,2026-01-11 22:00,2026-01-12 17:18,Resolved,19.3,4,Breached
+T00544,C0176,E0046,Access/Permission,Low,2025-07-09 14:00,2025-07-11 02:54,Closed,36.9,5,Breached
+T00545,C0098,E0067,Application Error,High,2025-07-05 11:00,2025-07-05 23:48,Resolved,12.8,5,Breached
+T00546,C0165,E0062,Software Installation,High,2026-03-11 06:00,2026-03-11 19:48,Resolved,13.8,4,Breached
+T00547,C0140,E0031,Feature Request,Medium,2025-08-22 13:00,Null,Escalated,Null,Null,Pending
+T00548,C0037,E0006,Application Error,High,2025-11-18 03:00,Null,Escalated,Null,Null,Pending
+T00549,C0050,E0031,Data Issue,Low,2025-04-23 16:00,2025-04-24 21:18,Resolved,29.3,5,Breached
+T00550,C0047,E0097,Database Issue,High,2026-05-23 11:00,Null,Open,Null,Null,Pending
+T00551,C0157,E0148,Performance Issue,High,2026-07-25 23:00,2026-07-26 03:36,Resolved,4.6,4,Met
+T00552,C0105,E0129,Login Issue,Medium,2025-03-26 10:00,Null,Open,Null,Null,Pending
+T00553,C0138,E0041,Data Issue,Medium,2025-04-29 12:00,2025-04-29 19:42,Resolved,7.7,5,Met
+T00554,C0061,E0099,Performance Issue,High,2026-04-13 19:00,2026-04-13 21:36,Resolved,2.6,5,Met
+T00555,C0126,E0002,Performance Issue,Low,2026-03-31 07:00,2026-04-03 00:48,Closed,65.8,5,Breached
+T00556,C0130,E0011,Feature Request,Medium,2026-02-22 09:00,2026-02-22 16:12,Resolved,7.2,5,Met
+T00557,C0036,E0129,Software Installation,Medium,2025-07-13 02:00,2025-07-14 11:06,Resolved,33.1,5,Breached
+T00558,C0027,E0122,Data Issue,High,2026-01-12 05:00,2026-01-12 22:30,Resolved,17.5,3,Breached
+T00559,C0146,E0129,Login Issue,High,2026-05-19 21:00,2026-05-20 12:24,Resolved,15.4,5,Breached
+T00560,C0087,E0083,Application Error,High,2026-02-10 14:00,2026-02-10 22:24,Closed,8.4,3,Breached
+T00561,C0067,E0097,Feature Request,High,2025-03-29 03:00,2025-03-29 10:48,Closed,7.8,3,Met
+T00562,C0133,E0006,Database Issue,High,2026-02-09 12:00,2026-02-09 21:48,Resolved,9.8,3,Breached
+T00563,C0003,E0131,Access/Permission,High,2025-04-15 23:00,2025-04-17 02:36,Resolved,27.6,4,Breached
+T00564,C0148,E0031,Database Issue,Medium,2025-03-08 11:00,2025-03-08 22:42,Closed,11.7,3,Met
+T00565,C0034,E0112,Network Issue,Low,2025-12-13 06:00,2025-12-14 01:12,Resolved,19.2,5,Met
+T00566,C0043,E0073,Access/Permission,High,2026-02-18 03:00,2026-02-18 17:18,Resolved,14.3,5,Breached
+T00567,C0094,E0131,Network Issue,Low,2026-03-11 23:00,2026-03-13 05:30,Resolved,30.5,5,Breached
+T00568,C0079,E0006,Data Issue,Medium,2025-10-13 22:00,Null,Escalated,Null,Null,Pending
+T00569,C0045,E0041,Access/Permission,Medium,2025-10-07 20:00,2025-10-08 09:06,Resolved,13.1,5,Breached
+T00570,C0055,E0150,Software Installation,High,2025-12-31 15:00,2026-01-01 02:48,Resolved,11.8,4,Breached
+T00571,C0156,E0068,Access/Permission,Low,2026-02-19 15:00,2026-02-20 09:48,Resolved,18.8,5,Met
+T00572,C0071,E0083,Feature Request,Low,2025-10-13 04:00,2025-10-15 03:18,Resolved,47.3,4,Breached
+T00573,C0098,E0045,Data Issue,High,2025-04-21 03:00,2025-04-21 18:42,Resolved,15.7,4,Breached
+T00574,C0005,E0080,Performance Issue,Low,2026-05-17 15:00,Null,In Progress,Null,Null,Pending
+T00575,C0039,E0067,Network Issue,Medium,2025-05-18 00:00,2025-05-18 06:42,Closed,6.7,3,Met
+T00576,C0144,E0112,Application Error,Low,2025-02-24 02:00,Null,In Progress,Null,Null,Pending
+T00577,C0044,E0080,Data Issue,Medium,2025-01-28 05:00,Null,Open,Null,Null,Pending
+T00578,C0131,E0099,Software Installation,Critical,2025-12-01 04:00,2025-12-01 09:54,Resolved,5.9,4,Breached
+T00579,C0012,E0011,Performance Issue,Medium,2025-04-09 02:00,Null,In Progress,Null,Null,Pending
+T00580,C0144,E0046,Feature Request,Medium,2026-05-20 14:00,Null,Open,Null,Null,Pending
+T00581,C0009,E0073,Network Issue,High,2025-10-28 21:00,2025-10-29 06:12,Closed,9.2,5,Breached
+T00582,C0004,E0042,Data Issue,Low,2026-05-18 16:00,2026-05-22 16:00,Resolved,96,4,Breached
+T00583,C0094,E0122,Performance Issue,High,2026-07-10 10:00,2026-07-10 17:12,Closed,7.2,3,Met
+T00584,C0167,E0105,Feature Request,High,2026-07-14 00:00,2026-07-14 11:36,Closed,11.6,5,Breached
+T00585,C0102,E0042,Login Issue,High,2026-03-17 03:00,2026-03-17 10:12,Resolved,7.2,4,Met
+T00586,C0010,E0080,Software Installation,High,2026-04-06 10:00,2026-04-06 18:18,Resolved,8.3,4,Breached
+T00587,C0081,E0099,Software Installation,Low,2026-03-30 14:00,2026-03-31 04:12,Closed,14.2,4,Met
+T00588,C0045,E0055,Login Issue,High,2025-02-03 05:00,Null,In Progress,Null,Null,Pending
+T00589,C0179,E0073,Feature Request,Medium,2025-11-07 22:00,Null,In Progress,Null,Null,Pending
+T00590,C0028,E0073,Database Issue,Medium,2026-05-19 13:00,2026-05-19 21:54,Closed,8.9,4,Met
+T00591,C0168,E0068,Database Issue,Medium,2025-11-16 22:00,2025-11-17 11:06,Resolved,13.1,3,Breached
+T00592,C0072,E0097,Software Installation,High,2026-05-15 03:00,Null,Escalated,Null,Null,Pending
+T00593,C0147,E0046,Access/Permission,High,2026-05-18 21:00,2026-05-18 23:54,Closed,2.9,4,Met
+T00594,C0099,E0011,Feature Request,Medium,2026-07-07 18:00,2026-07-08 07:00,Closed,13,5,Breached
+T00595,C0053,E0141,Data Issue,Medium,2026-05-03 17:00,2026-05-04 13:42,Closed,20.7,3,Breached
+T00596,C0106,E0006,Database Issue,Medium,2026-06-03 01:00,Null,Open,Null,Null,Pending
+T00597,C0166,E0050,Software Installation,Low,2025-09-27 15:00,2025-09-28 13:06,Resolved,22.1,4,Met
+T00598,C0048,E0112,Access/Permission,Medium,2026-01-22 19:00,2026-01-23 12:00,Resolved,17,3,Breached
+T00599,C0058,E0141,Security Issue,Low,2025-10-19 10:00,2025-10-21 04:42,Closed,42.7,4,Breached
+T00600,C0074,E0099,Login Issue,Medium,2025-01-29 18:00,2025-01-29 23:36,Closed,5.6,4,Met
+T00601,C0138,E0112,Login Issue,Medium,2025-05-12 11:00,2025-05-13 18:48,Resolved,31.8,3,Breached
+T00602,C0064,E0073,Security Issue,Medium,2026-08-21 00:00,2026-08-21 19:30,Closed,19.5,4,Breached
+T00603,C0105,E0062,Security Issue,High,2026-01-25 03:00,Null,Escalated,Null,Null,Pending
+T00604,C0066,E0131,Software Installation,High,2025-12-20 11:00,2025-12-20 17:18,Resolved,6.3,4,Met
+T00605,C0031,E0046,Software Installation,High,2025-12-26 01:00,2025-12-26 21:48,Resolved,20.8,4,Breached
+T00606,C0135,E0122,Network Issue,Medium,2025-09-11 07:00,Null,In Progress,Null,Null,Pending
+T00607,C0159,E0068,Performance Issue,High,2025-03-28 22:00,2025-03-29 06:48,Resolved,8.8,5,Breached
+T00608,C0072,E0050,Application Error,Medium,2025-11-09 03:00,2025-11-09 23:30,Resolved,20.5,4,Breached
+T00609,C0164,E0099,Security Issue,Medium,2025-06-23 00:00,2025-06-23 06:18,Closed,6.3,4,Met
+T00610,C0147,E0083,Feature Request,High,2025-11-30 01:00,2025-11-30 06:30,Closed,5.5,4,Met
+T00611,C0027,E0067,Data Issue,Critical,2026-03-09 18:00,2026-03-09 21:06,Resolved,3.1,3,Met
+T00612,C0021,E0122,Feature Request,High,2026-03-08 08:00,2026-03-08 13:06,Closed,5.1,3,Met
+T00613,C0154,E0080,Login Issue,High,2026-04-26 18:00,2026-04-27 03:42,Resolved,9.7,4,Breached
+T00614,C0104,E0041,Login Issue,Medium,2025-11-21 12:00,2025-11-24 16:48,Closed,76.8,4,Breached
+T00615,C0094,E0105,Access/Permission,Low,2026-02-04 10:00,Null,In Progress,Null,Null,Pending
+T00616,C0083,E0002,Access/Permission,Low,2025-04-11 15:00,2025-04-12 15:54,Resolved,24.9,5,Breached
+T00617,C0130,E0112,Application Error,Medium,2025-07-30 10:00,2025-07-31 05:48,Resolved,19.8,5,Breached
+T00618,C0062,E0011,Data Issue,High,2026-05-30 21:00,Null,In Progress,Null,Null,Pending
+T00619,C0111,E0112,Security Issue,Medium,2025-06-20 19:00,2025-06-21 05:54,Resolved,10.9,Null,Met
+T00620,C0109,E0067,Performance Issue,Medium,2026-01-08 13:00,2026-01-09 12:24,Closed,23.4,4,Breached
+T00621,C0071,E0148,Network Issue,High,2026-05-24 20:00,2026-05-25 19:30,Closed,23.5,4,Breached
+T00622,C0048,E0055,Application Error,High,2026-07-03 06:00,2026-07-03 14:12,Resolved,8.2,5,Breached
+T00623,C0027,E0055,Performance Issue,Medium,2025-09-29 01:00,Null,Open,Null,Null,Pending
+T00624,C0015,E0105,Performance Issue,Medium,2026-08-11 12:00,Null,Open,Null,Null,Pending
+T00625,C0006,E0031,Network Issue,High,2025-04-05 22:00,2025-04-06 02:24,Closed,4.4,3,Met
+T00626,C0113,E0055,Access/Permission,Medium,2025-04-08 18:00,2025-04-09 19:48,Resolved,25.8,4,Breached
+T00627,C0048,E0055,Security Issue,Low,2025-10-07 02:00,2025-10-07 22:54,Resolved,20.9,4,Met
+T00628,C0063,E0011,Access/Permission,High,2026-06-28 15:00,2026-06-28 21:18,Closed,6.3,5,Met
+T00629,C0151,E0062,Software Installation,High,2025-08-03 11:00,Null,Escalated,Null,Null,Pending
+T00630,C0078,E0141,Application Error,High,2025-11-06 16:00,Null,In Progress,Null,Null,Pending
+T00631,C0041,E0045,Performance Issue,Medium,2026-03-20 21:00,2026-03-21 22:54,Resolved,25.9,5,Breached
+T00632,C0134,E0041,Feature Request,Medium,2025-11-17 06:00,2025-11-17 18:24,Resolved,12.4,5,Breached
+T00633,C0163,E0002,Software Installation,Medium,2026-02-16 08:00,2026-02-16 15:30,Closed,7.5,4,Met
+T00634,C0078,E0080,Access/Permission,High,2026-06-12 14:00,2026-06-12 22:30,Closed,8.5,5,Breached
+T00635,C0153,E0006,Feature Request,Medium,2025-07-04 00:00,2025-07-04 18:36,Resolved,18.6,4,Breached
+T00636,C0057,E0045,Feature Request,Low,2025-07-11 18:00,2025-07-12 07:30,Closed,13.5,4,Met
+T00637,C0044,E0050,Data Issue,Critical,2025-08-07 21:00,2025-08-07 23:36,Resolved,2.6,5,Met
+T00638,C0154,E0105,Data Issue,High,2025-10-02 20:00,2025-10-03 02:42,Resolved,6.7,4,Met
+T00639,C0169,E0011,Feature Request,Low,2026-03-21 18:00,Null,Escalated,Null,Null,Pending
+T00640,C0139,E0068,Login Issue,High,2026-06-19 06:00,2026-06-19 20:06,Closed,14.1,4,Breached
+T00641,C0040,E0080,Security Issue,Medium,2026-04-19 04:00,2026-04-20 05:24,Resolved,25.4,3,Breached
+T00642,C0049,E0122,Network Issue,High,2025-06-04 23:00,2025-06-05 02:42,Closed,3.7,5,Met
+T00643,C0114,E0002,Performance Issue,High,2026-03-22 13:00,2026-03-22 19:42,Resolved,6.7,3,Met
+T00644,C0126,E0042,Security Issue,Low,2025-03-07 20:00,2025-03-08 05:42,Closed,9.7,3,Met
+T00645,C0162,E0080,Network Issue,Medium,2026-02-27 08:00,2026-02-27 16:42,Closed,8.7,4,Met
+T00646,C0172,E0011,Performance Issue,Medium,2025-06-14 08:00,2025-06-15 11:36,Closed,27.6,4,Breached
+T00647,C0043,E0148,Access/Permission,Medium,2025-08-30 12:00,2025-08-30 18:00,Closed,6,4,Met
+T00648,C0002,E0031,Network Issue,High,2025-04-27 04:00,2025-04-27 09:42,Closed,5.7,3,Met
+T00649,C0040,E0099,Network Issue,Medium,2025-01-29 07:00,2025-01-29 14:42,Resolved,7.7,4,Met
+T00650,C0080,E0099,Performance Issue,Medium,2026-04-21 15:00,Null,Open,Null,Null,Pending
+T00651,C0059,E0042,Feature Request,Medium,2026-03-23 13:00,2026-03-24 04:24,Resolved,15.4,4,Breached
+T00652,C0107,E0131,Login Issue,High,2025-07-26 05:00,2025-07-27 00:06,Closed,19.1,5,Breached
+T00653,C0090,E0112,Performance Issue,Low,2025-05-20 00:00,2025-05-20 10:30,Closed,10.5,5,Met
+T00654,C0089,E0042,Performance Issue,Medium,2025-10-12 21:00,2025-10-13 02:18,Closed,5.3,4,Met
+T00655,C0036,E0041,Feature Request,Critical,2025-06-30 20:00,Null,Escalated,Null,Null,Pending
+T00656,C0028,E0150,Login Issue,Medium,2026-05-13 00:00,Null,Open,Null,Null,Pending
+T00657,C0091,E0073,Login Issue,Low,2025-03-27 10:00,Null,In Progress,Null,Null,Pending
+T00658,C0107,E0068,Access/Permission,Low,2025-11-02 02:00,2025-11-02 12:36,Resolved,10.6,3,Met
+T00659,C0022,E0141,Software Installation,Medium,2026-01-08 21:00,2026-01-09 09:12,Closed,12.2,4,Breached
+T00660,C0002,E0067,Application Error,Low,2026-02-11 23:00,2026-02-12 15:18,Closed,16.3,4,Met
+T00661,C0102,E0131,Database Issue,Medium,2025-08-30 03:00,2025-08-30 11:00,Resolved,8,4,Met
+T00662,C0139,E0045,Access/Permission,High,2026-05-28 03:00,Null,Open,Null,Null,Pending
+T00663,C0014,E0097,Feature Request,Medium,2026-08-18 16:00,2026-08-18 22:18,Closed,6.3,3,Met
+T00664,C0036,E0045,Performance Issue,Low,2026-05-24 02:00,Null,In Progress,Null,Null,Pending
+T00665,C0034,E0031,Network Issue,Low,2025-05-06 10:00,2025-05-08 08:36,Resolved,46.6,4,Breached
+T00666,C0153,E0011,Security Issue,Medium,2026-08-22 23:00,Null,Open,Null,Null,Pending
+T00667,C0032,E0148,Software Installation,Low,2025-08-30 13:00,2025-08-31 09:36,Closed,20.6,3,Met
+T00668,C0138,E0045,Network Issue,Medium,2025-05-28 03:00,Null,Escalated,Null,Null,Pending
+T00669,C0084,E0046,Database Issue,High,2025-08-08 08:00,2025-08-08 21:24,Closed,13.4,3,Breached
+T00670,C0116,E0150,Data Issue,Critical,2026-02-23 08:00,2026-02-23 11:54,Resolved,3.9,4,Met
+T00671,C0149,E0002,Access/Permission,High,2025-02-27 15:00,Null,In Progress,Null,Null,Pending
+T00672,C0149,E0148,Feature Request,Medium,2026-01-19 22:00,2026-01-20 13:12,Resolved,15.2,4,Breached
+T00673,C0042,E0148,Application Error,High,2025-11-21 17:00,Null,Open,Null,Null,Pending
+T00674,C0082,E0131,Software Installation,Low,2026-05-02 21:00,2026-05-03 20:18,Resolved,23.3,5,Met
+T00675,C0176,E0099,Network Issue,Medium,2025-10-12 04:00,2025-10-12 15:30,Closed,11.5,4,Met
+T00676,C0121,E0042,Security Issue,High,2026-05-02 22:00,2026-05-03 12:42,Closed,14.7,3,Breached
+T00677,C0025,E0050,Security Issue,Low,2025-11-12 00:00,2025-11-12 17:24,Closed,17.4,5,Met
+T00678,C0104,E0050,Access/Permission,Medium,2025-02-05 23:00,2025-02-06 18:42,Resolved,19.7,3,Breached
+T00679,C0084,E0002,Login Issue,Medium,2025-09-03 08:00,Null,In Progress,Null,Null,Pending
+T00680,C0025,E0122,Feature Request,Low,2026-01-29 09:00,Null,Open,Null,Null,Pending
+T00681,C0126,E0046,Security Issue,Low,2025-05-05 17:00,2025-05-06 23:12,Resolved,30.2,5,Breached
+T00682,C0066,E0073,Network Issue,High,2026-03-30 12:00,2026-03-30 16:54,Resolved,4.9,3,Met
+T00683,C0045,E0062,Login Issue,Medium,2026-02-07 08:00,Null,Open,Null,Null,Pending
+T00684,C0094,E0083,Performance Issue,Low,2025-04-03 07:00,2025-04-04 15:54,Resolved,32.9,3,Breached
+T00685,C0048,E0105,Performance Issue,Medium,2025-08-04 05:00,2025-08-04 19:00,Closed,14,5,Breached
+T00686,C0077,E0131,Data Issue,Medium,2025-11-21 20:00,2025-11-22 03:12,Resolved,7.2,5,Met
+T00687,C0176,E0011,Software Installation,High,2025-02-04 08:00,2025-02-05 20:18,Resolved,36.3,3,Breached
+T00688,C0154,E0006,Application Error,High,2026-05-19 15:00,2026-05-20 23:30,Closed,32.5,4,Breached
+T00689,C0173,E0105,Software Installation,Critical,2025-12-07 22:00,2025-12-08 01:12,Resolved,3.2,4,Met
+T00690,C0120,E0062,Software Installation,Critical,2025-04-13 05:00,2025-04-13 07:00,Closed,2,3,Met
+T00691,C0178,E0148,Performance Issue,Low,2026-06-03 02:00,2026-06-04 01:48,Resolved,23.8,4,Met
+T00692,C0055,E0097,Security Issue,Low,2026-03-07 19:00,2026-03-09 00:48,Resolved,29.8,4,Breached
+T00693,C0015,E0099,Feature Request,High,2025-12-01 14:00,2025-12-01 17:24,Resolved,3.4,4,Met
+T00694,C0077,E0042,Login Issue,Low,2025-02-23 20:00,2025-02-25 21:54,Closed,49.9,4,Breached
+T00695,C0178,E0131,Database Issue,Medium,2026-03-31 20:00,2026-04-01 02:48,Closed,6.8,4,Met
+T00696,C0103,E0062,Database Issue,Medium,2025-01-04 12:00,2025-01-04 18:00,Resolved,6,4,Met
+T00697,C0006,E0083,Network Issue,Low,2025-11-09 10:00,2025-11-10 19:30,Resolved,33.5,4,Breached
+T00698,C0094,E0045,Access/Permission,High,2025-03-26 03:00,2025-03-27 12:54,Resolved,33.9,4,Breached
+T00699,C0038,E0099,Database Issue,Low,2025-09-13 16:00,2025-09-14 11:42,Resolved,19.7,5,Met
+T00700,C0132,E0131,Database Issue,Medium,2026-02-25 10:00,2026-02-26 00:24,Resolved,14.4,4,Breached
+T00701,C0111,E0073,Data Issue,Medium,2026-05-05 23:00,2026-05-06 21:06,Closed,22.1,4,Breached
+T00702,C0013,E0041,Database Issue,Low,2025-09-24 05:00,2025-09-24 20:18,Closed,15.3,5,Met
+T00703,C0017,E0068,Access/Permission,Medium,2025-12-02 09:00,2025-12-02 21:18,Resolved,12.3,5,Breached
+T00704,C0111,E0122,Network Issue,High,2025-03-28 13:00,Null,Open,Null,Null,Pending
+T00705,C0085,E0099,Security Issue,Medium,2025-07-06 12:00,2025-07-06 15:48,Closed,3.8,4,Met
+T00706,C0052,E0112,Software Installation,Medium,2026-08-08 07:00,2026-08-09 01:48,Resolved,18.8,5,Breached
+T00707,C0050,E0129,Login Issue,Medium,2025-01-24 17:00,Null,Open,Null,Null,Pending
+T00708,C0171,E0148,Access/Permission,High,2025-08-23 02:00,2025-08-23 07:36,Closed,5.6,4,Met
+T00709,C0137,E0129,Data Issue,Medium,2025-07-23 08:00,2025-07-23 15:12,Closed,7.2,4,Met
+T00710,C0165,E0068,Database Issue,Low,2025-02-20 12:00,Null,In Progress,Null,Null,Pending
+T00711,C0123,E0062,Access/Permission,Medium,2026-03-16 19:00,Null,In Progress,Null,Null,Pending
+T00712,C0014,E0099,Performance Issue,High,2025-06-02 02:00,Null,In Progress,Null,Null,Pending
+T00713,C0009,E0011,Security Issue,Medium,2025-06-24 18:00,2025-06-25 08:12,Resolved,14.2,3,Breached
+T00714,C0034,E0105,Application Error,Medium,2025-01-15 22:00,Null,Escalated,Null,Null,Pending
+T00715,C0143,E0011,Feature Request,Medium,2026-03-22 14:00,2026-03-22 19:48,Resolved,5.8,5,Met
+T00716,C0080,E0080,Data Issue,Medium,2025-05-02 07:00,Null,Escalated,Null,Null,Pending
+T00717,C0167,E0112,Network Issue,Medium,2025-07-15 08:00,2025-07-15 16:06,Closed,8.1,3,Met
+T00718,C0035,E0041,Performance Issue,Medium,2026-05-22 12:00,Null,Escalated,Null,Null,Pending
+T00719,C0013,E0131,Database Issue,Low,2026-03-18 06:00,2026-03-19 12:06,Resolved,30.1,4,Breached
+T00720,C0034,E0112,Access/Permission,Medium,2025-08-09 09:00,Null,Escalated,Null,Null,Pending
+T00721,C0168,E0148,Network Issue,Medium,2026-03-05 05:00,2026-03-06 12:48,Closed,31.8,4,Breached
+T00722,C0160,E0011,Software Installation,High,2025-05-30 00:00,Null,In Progress,Null,Null,Pending
+T00723,C0170,E0045,Performance Issue,Low,2025-09-26 07:00,2025-09-27 06:48,Resolved,23.8,4,Met
+T00724,C0179,E0073,Access/Permission,Medium,2026-04-07 07:00,Null,Escalated,Null,Null,Pending
+T00725,C0048,E0011,Security Issue,Medium,2026-08-20 21:00,2026-08-21 04:06,Resolved,7.1,3,Met
+T00726,C0168,E0112,Data Issue,Critical,2025-03-29 00:00,2025-03-29 04:06,Resolved,4.1,4,Breached
+T00727,C0001,E0055,Data Issue,Low,2025-05-17 10:00,2025-05-18 16:24,Resolved,30.4,3,Breached
+T00728,C0002,E0050,Software Installation,Medium,2025-08-06 22:00,2025-08-07 13:12,Resolved,15.2,4,Breached
+T00729,C0075,E0080,Software Installation,Medium,2026-03-10 23:00,Null,In Progress,Null,Null,Pending
+T00730,C0104,E0112,Access/Permission,Low,2025-09-20 02:00,2025-09-20 14:48,Closed,12.8,4,Met
+T00731,C0092,E0099,Application Error,Critical,2026-07-25 01:00,2026-07-25 05:30,Resolved,4.5,3,Breached
+T00732,C0155,E0122,Login Issue,High,2025-12-07 07:00,2025-12-07 12:30,Closed,5.5,5,Met
+T00733,C0180,E0002,Data Issue,Medium,2025-12-29 19:00,2025-12-30 06:18,Resolved,11.3,4,Met
+T00734,C0143,E0105,Access/Permission,High,2025-02-16 00:00,Null,Escalated,Null,Null,Pending
+T00735,C0118,E0073,Performance Issue,Medium,2026-06-01 19:00,Null,Escalated,Null,Null,Pending
+T00736,C0005,E0099,Software Installation,Critical,2025-11-06 12:00,Null,Escalated,Null,Null,Pending
+T00737,C0127,E0150,Security Issue,Medium,2025-05-16 17:00,2025-05-17 04:36,Resolved,11.6,5,Met
+T00738,C0103,E0129,Login Issue,Medium,2026-08-18 05:00,2026-08-18 14:12,Closed,9.2,4,Met
+T00739,C0108,E0055,Performance Issue,High,2025-06-23 16:00,Null,Escalated,Null,Null,Pending
+T00740,C0138,E0068,Data Issue,Medium,2025-12-14 14:00,2025-12-15 04:18,Resolved,14.3,4,Breached
+T00741,C0102,E0080,Database Issue,Medium,2025-04-02 10:00,2025-04-03 02:48,Closed,16.8,5,Breached
+T00742,C0156,E0080,Feature Request,Critical,2026-03-20 04:00,2026-03-20 10:24,Resolved,6.4,5,Breached
+T00743,C0092,E0068,Performance Issue,High,2025-04-30 10:00,2025-04-30 18:48,Resolved,8.8,4,Breached
+T00744,C0105,E0045,Login Issue,Low,2025-05-11 15:00,2025-05-14 11:54,Closed,68.9,3,Breached
+T00745,C0017,E0097,Performance Issue,Medium,2026-01-05 13:00,2026-01-05 23:00,Resolved,10,4,Met
+T00746,C0020,E0006,Performance Issue,Medium,2025-09-27 19:00,2025-09-27 23:42,Resolved,4.7,5,Met
+T00747,C0096,E0141,Performance Issue,High,2026-06-14 10:00,2026-06-15 04:24,Closed,18.4,4,Breached
+T00748,C0156,E0141,Software Installation,High,2025-06-18 10:00,2025-06-18 17:12,Resolved,7.2,5,Met
+T00749,C0028,E0002,Data Issue,Critical,2025-06-04 17:00,2025-06-05 15:12,Closed,22.2,5,Breached
+T00750,C0024,E0148,Data Issue,High,2025-02-24 06:00,Null,Escalated,Null,Null,Pending
+T00751,C0022,E0002,Database Issue,Critical,2025-02-25 07:00,Null,In Progress,Null,Null,Pending
+T00752,C0104,E0011,Database Issue,Medium,2025-02-06 15:00,2025-02-06 22:18,Closed,7.3,4,Met
+T00753,C0079,E0097,Performance Issue,Low,2025-06-17 22:00,Null,Escalated,Null,Null,Pending
+T00754,C0051,E0002,Data Issue,Medium,2026-03-23 03:00,Null,Escalated,Null,Null,Pending
+T00755,C0024,E0050,Data Issue,Medium,2025-02-11 14:00,2025-02-12 09:36,Closed,19.6,5,Breached
+T00756,C0158,E0080,Security Issue,High,2026-07-29 15:00,Null,Escalated,Null,Null,Pending
+T00757,C0017,E0097,Data Issue,Medium,2026-05-20 03:00,2026-05-20 11:54,Closed,8.9,4,Met
+T00758,C0042,E0041,Database Issue,Medium,2025-05-07 11:00,Null,Open,Null,Null,Pending
+T00759,C0050,E0046,Application Error,Medium,2025-07-28 09:00,Null,In Progress,Null,Null,Pending
+T00760,C0162,E0105,Database Issue,Medium,2025-06-22 23:00,2025-06-23 12:24,Resolved,13.4,5,Breached
+T00761,C0039,E0073,Feature Request,Medium,2025-10-07 18:00,Null,In Progress,Null,Null,Pending
+T00762,C0127,E0122,Access/Permission,Low,2025-08-06 18:00,2025-08-07 23:00,Closed,29,5,Breached
+T00763,C0126,E0122,Login Issue,Medium,2026-06-23 18:00,2026-06-23 21:54,Resolved,3.9,4,Met
+T00764,C0168,E0055,Database Issue,Critical,2026-03-03 02:00,2026-03-03 07:06,Resolved,5.1,3,Breached
+T00765,C0089,E0073,Network Issue,Low,2026-05-26 21:00,2026-05-28 02:18,Resolved,29.3,4,Breached
+T00766,C0164,E0050,Application Error,Medium,2025-12-03 00:00,Null,Escalated,Null,Null,Pending
+T00767,C0024,E0062,Performance Issue,Medium,2025-05-05 12:00,2025-05-05 22:36,Closed,10.6,3,Met
+T00768,C0058,E0002,Security Issue,Critical,2025-04-19 10:00,2025-04-19 13:48,Closed,3.8,4,Met
+T00769,C0046,E0002,Database Issue,Critical,2025-01-30 02:00,2025-01-30 05:00,Resolved,3,4,Met
+T00770,C0066,E0050,Data Issue,Critical,2026-05-07 14:00,Null,In Progress,Null,Null,Pending
+T00771,C0001,E0131,Performance Issue,High,2025-01-06 10:00,2025-01-06 16:54,Resolved,6.9,5,Met
+T00772,C0020,E0080,Login Issue,Low,2026-04-09 10:00,2026-04-09 23:00,Resolved,13,4,Met
+T00773,C0140,E0073,Access/Permission,Medium,2025-05-13 06:00,2025-05-13 17:48,Closed,11.8,4,Met
+T00774,C0134,E0031,Login Issue,Medium,2025-10-17 10:00,2025-10-18 06:30,Resolved,20.5,4,Breached
+T00775,C0064,E0041,Login Issue,Medium,2025-03-14 17:00,2025-03-15 03:06,Resolved,10.1,4,Met
+T00776,C0100,E0011,Access/Permission,Medium,2026-01-26 02:00,2026-01-26 16:54,Closed,14.9,4,Breached
+T00777,C0153,E0105,Software Installation,Medium,2025-09-19 05:00,Null,Open,Null,Null,Pending
+T00778,C0129,E0006,Network Issue,Medium,2026-02-13 02:00,2026-02-13 17:18,Resolved,15.3,5,Breached
+T00779,C0080,E0002,Login Issue,Medium,2025-08-02 05:00,Null,In Progress,Null,Null,Pending
+T00780,C0133,E0031,Software Installation,High,2026-02-17 09:00,2026-02-17 19:00,Closed,10,4,Breached
+T00781,C0099,E0055,Database Issue,Medium,2025-05-04 09:00,2025-05-04 16:42,Resolved,7.7,5,Met
+T00782,C0020,E0041,Data Issue,Medium,2026-03-19 23:00,2026-03-20 17:06,Closed,18.1,4,Breached
+T00783,C0117,E0046,Performance Issue,Medium,2025-05-15 11:00,2025-05-16 00:48,Closed,13.8,5,Breached
+T00784,C0158,E0041,Application Error,High,2026-01-12 16:00,Null,In Progress,Null,Null,Pending
+T00785,C0176,E0042,Network Issue,High,2026-05-17 14:00,2026-05-17 22:00,Closed,8,5,Met
+T00786,C0051,E0050,Software Installation,Medium,2026-05-03 08:00,2026-05-03 17:54,Closed,9.9,5,Met
+T00787,C0008,E0031,Access/Permission,High,2026-03-10 02:00,2026-03-10 08:42,Resolved,6.7,5,Met
+T00788,C0093,E0150,Software Installation,Medium,2026-01-13 19:00,Null,Open,Null,Null,Pending
+T00789,C0152,E0099,Database Issue,Medium,2026-03-21 20:00,Null,In Progress,Null,Null,Pending
+T00790,C0084,E0105,Software Installation,Medium,2025-04-06 01:00,Null,Open,Null,Null,Pending
+T00791,C0091,E0045,Feature Request,Medium,2025-12-16 14:00,2025-12-17 03:12,Closed,13.2,3,Breached
+T00792,C0091,E0002,Network Issue,Low,2025-06-08 15:00,2025-06-10 00:12,Closed,33.2,4,Breached
+T00793,C0044,E0062,Feature Request,High,2026-06-22 02:00,2026-06-22 07:48,Closed,5.8,5,Met
+T00794,C0103,E0046,Performance Issue,Medium,2026-04-25 13:00,Null,Escalated,Null,Null,Pending
+T00795,C0144,E0097,Application Error,Critical,2026-05-05 09:00,Null,Escalated,Null,Null,Pending
+T00796,C0048,E0150,Database Issue,High,2025-05-11 21:00,2025-05-12 02:24,Closed,5.4,4,Met
+T00797,C0170,E0112,Performance Issue,High,2025-09-12 16:00,2025-09-12 23:00,Resolved,7,4,Met
+T00798,C0001,E0083,Software Installation,High,2025-10-30 18:00,2025-10-30 21:00,Resolved,3,4,Met
+T00799,C0127,E0131,Login Issue,High,2026-07-19 02:00,Null,In Progress,Null,Null,Pending
+T00800,C0125,E0131,Login Issue,Medium,2026-06-10 03:00,2026-06-10 09:30,Resolved,6.5,5,Met
+T00801,C0132,E0097,Feature Request,Medium,2026-03-12 13:00,Null,Escalated,Null,Null,Pending
+T00802,C0013,E0112,Application Error,Medium,2026-04-21 21:00,2026-04-22 09:42,Resolved,12.7,4,Breached
+T00803,C0106,E0041,Access/Permission,High,2025-09-17 11:00,Null,In Progress,Null,Null,Pending
+T00804,C0069,E0002,Performance Issue,High,2026-08-23 02:00,2026-08-23 11:12,Resolved,9.2,5,Breached
+T00805,C0011,E0055,Feature Request,High,2025-01-17 03:00,Null,Escalated,Null,Null,Pending
+T00806,C0123,E0150,Data Issue,High,2025-07-03 05:00,2025-07-03 19:00,Resolved,14,4,Breached
+T00807,C0082,E0055,Software Installation,Low,2025-02-16 02:00,Null,In Progress,Null,Null,Pending
+T00808,C0083,E0099,Software Installation,Medium,2025-11-01 10:00,2025-11-01 15:42,Resolved,5.7,3,Met
+T00809,C0073,E0112,Access/Permission,High,2026-04-11 21:00,Null,In Progress,Null,Null,Pending
+T00810,C0050,E0062,Data Issue,High,2025-09-29 10:00,2025-09-29 19:00,Resolved,9,5,Breached
+T00811,C0090,E0083,Database Issue,Medium,2025-08-05 05:00,2025-08-05 20:24,Resolved,15.4,5,Breached
+T00812,C0169,E0150,Application Error,Medium,2025-09-23 21:00,2025-09-24 15:06,Resolved,18.1,3,Breached
+T00813,C0030,E0050,Application Error,High,2026-03-21 17:00,2026-03-22 02:42,Resolved,9.7,4,Breached
+T00814,C0178,E0068,Login Issue,Low,2025-01-06 12:00,Null,Escalated,Null,Null,Pending
+T00815,C0168,E0131,Application Error,Medium,2025-01-14 05:00,2025-01-14 15:42,Resolved,10.7,3,Met
+T00816,C0041,E0046,Data Issue,High,2026-04-17 22:00,Null,Open,Null,Null,Pending
+T00817,C0071,E0050,Software Installation,High,2026-05-14 09:00,Null,In Progress,Null,Null,Pending
+T00818,C0155,E0002,Access/Permission,High,2026-01-05 22:00,2026-01-06 09:30,Resolved,11.5,4,Breached
+T00819,C0071,E0083,Software Installation,High,2025-11-06 02:00,Null,Open,Null,Null,Pending
+T00820,C0112,E0097,Database Issue,Medium,2025-05-19 00:00,2025-05-19 04:42,Resolved,4.7,4,Met
+T00821,C0115,E0131,Network Issue,High,2025-04-25 00:00,Null,Open,Null,Null,Pending
+T00822,C0042,E0131,Network Issue,High,2025-01-28 06:00,2025-01-28 19:54,Resolved,13.9,4,Breached
+T00823,C0079,E0122,Data Issue,Low,2025-05-29 20:00,Null,Escalated,Null,Null,Pending
+T00824,C0096,E0050,Network Issue,Medium,2026-03-23 20:00,2026-03-24 14:54,Resolved,18.9,5,Breached
+T00825,C0065,E0045,Feature Request,Medium,2025-07-15 02:00,2025-07-15 06:18,Resolved,4.3,4,Met
+T00826,C0061,E0042,Performance Issue,Medium,2026-04-20 04:00,2026-04-20 23:54,Closed,19.9,3,Breached
+T00827,C0135,E0006,Data Issue,High,2026-03-09 00:00,Null,In Progress,Null,Null,Pending
+T00828,C0148,E0122,Application Error,Medium,2025-06-20 04:00,2025-06-20 17:00,Resolved,13,5,Breached
+T00829,C0082,E0011,Data Issue,Low,2026-05-12 15:00,2026-05-12 21:54,Resolved,6.9,3,Met
+T00830,C0084,E0105,Login Issue,High,2026-04-06 18:00,2026-04-07 12:36,Closed,18.6,5,Breached
+T00831,C0085,E0042,Network Issue,High,2025-07-26 09:00,2025-07-26 16:00,Resolved,7,4,Met
+T00832,C0064,E0099,Access/Permission,Medium,2026-02-06 01:00,2026-02-06 08:18,Closed,7.3,4,Met
+T00833,C0015,E0122,Security Issue,Low,2025-01-09 03:00,2025-01-09 17:54,Resolved,14.9,3,Met
+T00834,C0070,E0042,Software Installation,High,2026-03-02 15:00,2026-03-03 03:48,Closed,12.8,4,Breached
+T00835,C0093,E0046,Access/Permission,High,2026-07-22 09:00,Null,Open,Null,Null,Pending
+T00836,C0065,E0099,Login Issue,High,2026-05-15 12:00,2026-05-16 04:18,Closed,16.3,4,Breached
+T00837,C0007,E0097,Data Issue,Medium,2026-06-10 18:00,2026-06-11 04:36,Resolved,10.6,4,Met
+T00838,C0115,E0122,Access/Permission,Low,2026-05-15 07:00,Null,Escalated,Null,Null,Pending
+T00839,C0002,E0031,Login Issue,Medium,2026-06-25 00:00,2026-06-25 08:24,Closed,8.4,4,Met
+T00840,C0031,E0099,Software Installation,High,2026-08-14 10:00,2026-08-14 17:00,Resolved,7,3,Met
+T00841,C0081,E0112,Feature Request,Medium,2025-03-07 08:00,Null,In Progress,Null,Null,Pending
+T00842,C0167,E0097,Software Installation,High,2026-04-30 03:00,Null,In Progress,Null,Null,Pending
+T00843,C0137,E0073,Data Issue,High,2025-12-22 14:00,2025-12-22 18:48,Closed,4.8,4,Met
+T00844,C0050,E0150,Software Installation,Medium,2025-01-22 05:00,Null,Open,Null,Null,Pending
+T00845,C0166,E0131,Performance Issue,Low,2025-07-16 15:00,2025-07-17 01:54,Closed,10.9,5,Met
+T00846,C0166,E0046,Security Issue,Medium,2026-03-25 07:00,2026-03-25 15:12,Resolved,8.2,4,Met
+T00847,C0106,E0083,Feature Request,Medium,2025-08-13 18:00,2025-08-14 00:54,Closed,6.9,3,Met
+T00848,C0066,E0050,Security Issue,Medium,2026-04-25 04:00,2026-04-25 11:48,Closed,7.8,4,Met
+T00849,C0074,E0129,Performance Issue,Medium,2026-02-04 13:00,2026-02-05 03:54,Resolved,14.9,5,Breached
+T00850,C0105,E0068,Security Issue,High,2026-04-29 05:00,2026-04-29 14:54,Resolved,9.9,4,Breached
+T00851,C0066,E0099,Access/Permission,High,2025-08-01 09:00,2025-08-01 16:24,Closed,7.4,3,Met
+T00852,C0119,E0099,Application Error,Medium,2026-05-10 04:00,2026-05-10 12:42,Closed,8.7,4,Met
+T00853,C0021,E0097,Database Issue,Medium,2025-07-24 05:00,2025-07-24 15:54,Closed,10.9,3,Met
+T00854,C0132,E0050,Access/Permission,Medium,2026-05-19 03:00,2026-05-19 20:12,Closed,17.2,4,Breached
+T00855,C0110,E0002,Software Installation,Medium,2026-05-21 09:00,2026-05-21 22:06,Resolved,13.1,4,Breached
+T00856,C0072,E0068,Network Issue,Medium,2025-08-03 17:00,Null,Open,Null,Null,Pending
+T00857,C0128,E0150,Login Issue,Low,2025-01-19 11:00,2025-01-21 13:18,Resolved,50.3,4,Breached
+T00858,C0046,E0006,Performance Issue,Medium,2026-01-01 21:00,2026-01-02 05:06,Resolved,8.1,5,Met
+T00859,C0001,E0112,Database Issue,High,2025-06-28 16:00,2025-06-28 23:42,Resolved,7.7,4,Met
+T00860,C0089,E0148,Login Issue,High,2025-03-07 10:00,2025-03-07 21:36,Closed,11.6,4,Breached
+T00861,C0145,E0141,Software Installation,Medium,2025-04-27 19:00,2025-04-28 03:18,Resolved,8.3,5,Met
+T00862,C0043,E0068,Network Issue,High,2025-05-04 17:00,Null,Escalated,Null,Null,Pending
+T00863,C0097,E0002,Network Issue,Low,2026-05-14 08:00,2026-05-14 22:48,Closed,14.8,4,Met
+T00864,C0096,E0067,Security Issue,High,2025-12-30 01:00,2025-12-30 10:06,Resolved,9.1,4,Breached
+T00865,C0090,E0045,Feature Request,Low,2025-10-01 04:00,2025-10-01 10:54,Resolved,6.9,5,Met
+T00866,C0029,E0006,Feature Request,Medium,2025-04-17 22:00,2025-04-18 19:54,Resolved,21.9,5,Breached
+T00867,C0071,E0050,Login Issue,Low,2026-03-25 14:00,2026-03-26 11:12,Resolved,21.2,5,Met
+T00868,C0111,E0062,Application Error,Low,2025-04-19 19:00,Null,In Progress,Null,Null,Pending
+T00869,C0055,E0129,Access/Permission,High,2025-04-15 17:00,2025-04-16 00:42,Closed,7.7,4,Met
+T00870,C0115,E0150,Login Issue,Low,2026-06-04 03:00,2026-06-04 22:00,Closed,19,3,Met
+T00871,C0053,E0062,Database Issue,Critical,2025-05-01 06:00,2025-05-01 15:00,Resolved,9,4,Breached
+T00872,C0168,E0041,Security Issue,High,2025-06-10 23:00,Null,Escalated,Null,Null,Pending
+T00873,C0004,E0097,Performance Issue,Medium,2026-03-29 16:00,2026-03-29 21:06,Closed,5.1,4,Met
+T00874,C0066,E0067,Data Issue,Medium,2025-04-12 04:00,2025-04-12 13:12,Closed,9.2,5,Met
+T00875,C0015,E0141,Security Issue,Medium,2025-12-09 04:00,2025-12-09 19:00,Closed,15,3,Breached
+T00876,C0117,E0080,Application Error,Critical,2025-07-26 14:00,2025-07-26 20:12,Closed,6.2,5,Breached
+T00877,C0120,E0099,Software Installation,Medium,2025-01-07 07:00,2025-01-08 13:36,Closed,30.6,3,Breached
+T00878,C0112,E0148,Data Issue,Medium,2025-12-16 09:00,Null,Open,Null,Null,Pending
+T00879,C0102,E0055,Feature Request,High,2025-06-25 02:00,Null,Open,Null,Null,Pending
+T00880,C0009,E0112,Performance Issue,Critical,2026-01-17 22:00,Null,In Progress,Null,Null,Pending
+T00881,C0114,E0097,Software Installation,Medium,2026-01-05 20:00,2026-01-06 02:42,Resolved,6.7,3,Met
+T00882,C0118,E0080,Network Issue,Medium,2025-06-05 16:00,Null,Escalated,Null,Null,Pending
+T00883,C0086,E0045,Software Installation,Medium,2025-08-22 04:00,2025-08-22 11:54,Resolved,7.9,3,Met
+T00884,C0078,E0045,Software Installation,Low,2026-02-28 13:00,Null,Open,Null,Null,Pending
+T00885,C0089,E0083,Data Issue,Medium,2026-06-13 21:00,2026-06-14 10:18,Closed,13.3,4,Breached
+T00886,C0135,E0041,Security Issue,Low,2025-01-31 14:00,2025-02-01 19:12,Resolved,29.2,3,Breached
+T00887,C0044,E0031,Database Issue,Medium,2025-01-11 22:00,2025-01-12 05:42,Closed,7.7,5,Met
+T00888,C0016,E0046,Feature Request,High,2025-03-13 02:00,2025-03-13 05:24,Resolved,3.4,5,Met
+T00889,C0068,E0011,Security Issue,Medium,2025-11-19 12:00,2025-11-19 22:30,Resolved,10.5,3,Met
+T00890,C0170,E0006,Database Issue,High,2026-03-21 01:00,Null,In Progress,Null,Null,Pending
+T00891,C0047,E0002,Software Installation,High,2025-02-07 21:00,2025-02-08 09:18,Closed,12.3,4,Breached
+T00892,C0005,E0129,Database Issue,High,2026-08-12 01:00,2026-08-12 10:36,Closed,9.6,4,Breached
+T00893,C0046,E0148,Feature Request,Low,2025-10-30 13:00,Null,In Progress,Null,Null,Pending
+T00894,C0036,E0148,Software Installation,Low,2026-07-21 09:00,2026-07-22 07:24,Resolved,22.4,4,Met
+T00895,C0162,E0105,Security Issue,High,2025-12-19 00:00,2025-12-19 07:36,Resolved,7.6,3,Met
+T00896,C0013,E0067,Performance Issue,High,2026-06-25 19:00,2026-06-26 03:36,Closed,8.6,5,Breached
+T00897,C0066,E0055,Database Issue,Medium,2026-02-18 14:00,Null,In Progress,Null,Null,Pending
+T00898,C0113,E0112,Network Issue,Medium,2026-07-12 19:00,2026-07-13 05:42,Closed,10.7,4,Met
+T00899,C0133,E0083,Access/Permission,Low,2026-03-29 22:00,2026-03-31 21:42,Closed,47.7,3,Breached
+T00900,C0002,E0031,Security Issue,Critical,2026-02-19 06:00,2026-02-19 07:48,Resolved,1.8,5,Met
+T00901,C0112,E0062,Performance Issue,Medium,2025-03-28 01:00,2025-03-28 09:24,Resolved,8.4,5,Met
+T00902,C0100,E0131,Feature Request,Medium,2025-12-09 12:00,2025-12-10 07:30,Resolved,19.5,3,Breached
+T00903,C0021,E0006,Database Issue,Medium,2026-06-17 17:00,2026-06-18 00:00,Closed,7,4,Met
+T00904,C0164,E0055,Performance Issue,Medium,2025-08-07 02:00,2025-08-07 08:30,Closed,6.5,5,Met
+T00905,C0141,E0067,Feature Request,Medium,2026-07-20 09:00,2026-07-20 13:00,Closed,4,3,Met
+T00906,C0047,E0150,Feature Request,High,2025-12-15 20:00,Null,Escalated,Null,Null,Pending
+T00907,C0025,E0046,Database Issue,Critical,2025-01-24 00:00,2025-01-24 08:24,Resolved,8.4,5,Breached
+T00908,C0027,E0050,Feature Request,Medium,2025-09-22 07:00,2025-09-22 16:18,Closed,9.3,4,Met
+T00909,C0100,E0011,Performance Issue,Medium,2026-03-09 16:00,Null,In Progress,Null,Null,Pending
+T00910,C0087,E0141,Application Error,Critical,2025-03-03 11:00,2025-03-03 16:00,Resolved,5,5,Breached
+T00911,C0132,E0141,Performance Issue,High,2026-06-04 11:00,2026-06-04 18:06,Closed,7.1,3,Met
+T00912,C0141,E0122,Application Error,Medium,2025-02-18 20:00,Null,Escalated,Null,Null,Pending
+T00913,C0022,E0046,Application Error,Medium,2026-04-05 09:00,2026-04-06 10:06,Resolved,25.1,4,Breached
+T00914,C0083,E0083,Access/Permission,Low,2025-01-06 14:00,2025-01-07 09:36,Resolved,19.6,4,Met
+T00915,C0090,E0046,Security Issue,Medium,2025-08-30 23:00,2025-08-31 19:06,Closed,20.1,5,Breached
+T00916,C0175,E0067,Access/Permission,High,2026-08-03 22:00,2026-08-04 04:06,Resolved,6.1,4,Met
+T00917,C0063,E0122,Feature Request,Medium,2025-08-28 11:00,Null,In Progress,Null,Null,Pending
+T00918,C0090,E0097,Performance Issue,Medium,2025-10-19 21:00,2025-10-20 10:18,Closed,13.3,3,Breached
+T00919,C0059,E0002,Access/Permission,Critical,2025-05-24 22:00,2025-05-25 02:12,Resolved,4.2,5,Breached
+T00920,C0103,E0011,Software Installation,Medium,2026-06-17 23:00,2026-06-18 12:54,Resolved,13.9,3,Breached
+T00921,C0158,E0006,Network Issue,Medium,2025-04-18 10:00,2025-04-19 01:48,Resolved,15.8,4,Breached
+T00922,C0028,E0099,Feature Request,Medium,2026-08-20 06:00,2026-08-20 15:00,Resolved,9,5,Met
+T00923,C0107,E0122,Security Issue,Medium,2026-04-11 03:00,2026-04-11 13:24,Closed,10.4,4,Met
+T00924,C0063,E0055,Database Issue,High,2026-03-12 13:00,2026-03-12 17:42,Resolved,4.7,4,Met
+T00925,C0141,E0131,Application Error,High,2025-04-05 01:00,2025-04-05 07:06,Resolved,6.1,4,Met
+T00926,C0071,E0129,Software Installation,Medium,2025-05-14 15:00,2025-05-15 18:12,Resolved,27.2,3,Breached
+T00927,C0029,E0141,Network Issue,Critical,2026-04-02 02:00,2026-04-02 07:42,Resolved,5.7,3,Breached
+T00928,C0124,E0122,Security Issue,High,2026-06-23 12:00,2026-06-23 20:18,Resolved,8.3,5,Breached
+T00929,C0089,E0150,Access/Permission,Low,2026-07-27 16:00,2026-07-28 01:54,Closed,9.9,4,Met
+T00930,C0132,E0068,Software Installation,High,2025-09-28 18:00,2025-09-29 01:30,Closed,7.5,3,Met
+T00931,C0080,E0002,Data Issue,High,2026-03-10 14:00,Null,In Progress,Null,Null,Pending
+T00932,C0112,E0055,Data Issue,High,2026-03-03 05:00,2026-03-04 08:30,Resolved,27.5,5,Breached
+T00933,C0060,E0122,Database Issue,Medium,2026-06-02 04:00,Null,In Progress,Null,Null,Pending
+T00934,C0029,E0150,Data Issue,High,2026-04-14 04:00,2026-04-14 08:42,Resolved,4.7,5,Met
+T00935,C0032,E0129,Feature Request,Low,2026-06-26 03:00,2026-06-27 21:48,Closed,42.8,4,Breached
+T00936,C0034,E0067,Network Issue,Medium,2026-04-12 15:00,2026-04-13 04:24,Closed,13.4,4,Breached
+T00937,C0004,E0068,Login Issue,Medium,2025-06-10 17:00,2025-06-11 08:54,Closed,15.9,3,Breached
+T00938,C0090,E0073,Security Issue,Medium,2025-05-02 19:00,2025-05-03 14:12,Resolved,19.2,4,Breached
+T00939,C0048,E0131,Software Installation,Medium,2025-04-23 03:00,Null,Escalated,Null,Null,Pending
+T00940,C0180,E0031,Security Issue,Medium,2026-08-09 09:00,2026-08-09 22:48,Resolved,13.8,3,Breached
+T00941,C0106,E0006,Login Issue,Medium,2026-06-20 04:00,2026-06-21 02:54,Resolved,22.9,3,Breached
+T00942,C0016,E0041,Application Error,Medium,2026-01-16 09:00,2026-01-17 05:06,Resolved,20.1,5,Breached
+T00943,C0031,E0055,Security Issue,Medium,2025-11-07 09:00,2025-11-07 19:18,Closed,10.3,4,Met
+T00944,C0043,E0002,Data Issue,Low,2025-01-29 04:00,2025-01-30 09:30,Resolved,29.5,5,Breached
+T00945,C0083,E0050,Database Issue,Medium,2026-03-08 01:00,2026-03-08 08:00,Resolved,7,5,Met
+T00946,C0080,E0099,Performance Issue,Medium,2025-10-18 06:00,2025-10-18 11:48,Resolved,5.8,3,Met
+T00947,C0146,E0083,Database Issue,Critical,2026-05-16 00:00,Null,In Progress,Null,Null,Pending
+T00948,C0030,E0006,Application Error,Medium,2026-07-15 11:00,2026-07-15 16:06,Closed,5.1,3,Met
+T00949,C0047,E0112,Application Error,Medium,2025-02-15 13:00,Null,Escalated,Null,Null,Pending
+T00950,C0049,E0050,Data Issue,Critical,2026-08-10 09:00,Null,Open,Null,Null,Pending
+T00951,C0133,E0097,Access/Permission,Medium,2026-04-09 10:00,2026-04-09 16:06,Resolved,6.1,4,Met
+T00952,C0136,E0011,Software Installation,Medium,2026-05-02 23:00,Null,In Progress,Null,Null,Pending
+T00953,C0053,E0097,Access/Permission,High,2025-05-16 04:00,2025-05-16 15:48,Closed,11.8,3,Breached
+T00954,C0102,E0129,Feature Request,Medium,2026-04-17 14:00,2026-04-18 20:12,Closed,30.2,3,Breached
+T00955,C0067,E0006,Data Issue,High,2025-06-02 23:00,2025-06-03 02:24,Resolved,3.4,5,Met
+T00956,C0016,E0006,Security Issue,High,2025-04-02 19:00,2025-04-03 02:18,Resolved,7.3,4,Met
+T00957,C0100,E0150,Access/Permission,Low,2026-02-24 12:00,Null,Escalated,Null,Null,Pending
+T00958,C0071,E0011,Network Issue,High,2026-02-09 10:00,2026-02-09 17:24,Closed,7.4,3,Met
+T00959,C0033,E0097,Feature Request,High,2025-02-16 21:00,2025-02-17 03:12,Resolved,6.2,4,Met
+T00960,C0044,E0112,Data Issue,Medium,2025-10-12 20:00,Null,In Progress,Null,Null,Pending
+T00961,C0099,E0105,Application Error,Medium,2025-06-19 22:00,2025-06-20 09:12,Resolved,11.2,4,Met
+T00962,C0050,E0042,Login Issue,Low,2026-08-09 20:00,2026-08-13 13:36,Resolved,89.6,4,Breached
+T00963,C0067,E0099,Performance Issue,Medium,2026-07-29 20:00,2026-07-30 02:18,Closed,6.3,4,Met
+T00964,C0137,E0011,Application Error,Medium,2026-07-27 02:00,Null,Open,Null,Null,Pending
+T00965,C0031,E0080,Network Issue,Critical,2026-07-09 18:00,2026-07-09 20:42,Resolved,2.7,5,Met
+T00966,C0025,E0083,Login Issue,High,2026-08-07 16:00,2026-08-08 01:00,Resolved,9,4,Breached
+T00967,C0061,E0080,Network Issue,Low,2026-05-03 16:00,Null,Escalated,Null,Null,Pending
+T00968,C0012,E0045,Login Issue,Medium,2025-05-04 21:00,Null,Open,Null,Null,Pending
+T00969,C0121,E0055,Feature Request,Medium,2025-07-04 00:00,2025-07-04 07:42,Resolved,7.7,4,Met
+T00970,C0002,E0148,Performance Issue,Medium,2025-07-30 07:00,2025-07-30 21:24,Closed,14.4,5,Breached
+T00971,C0035,E0011,Access/Permission,Medium,2026-03-31 02:00,2026-04-02 01:18,Resolved,47.3,4,Breached
+T00972,C0046,E0083,Feature Request,Medium,2025-11-25 12:00,2025-11-25 21:54,Resolved,9.9,5,Met
+T00973,C0177,E0002,Access/Permission,Low,2025-02-16 15:00,2025-02-17 12:24,Closed,21.4,4,Met
+T00974,C0118,E0045,Login Issue,High,2025-12-15 13:00,Null,Escalated,Null,Null,Pending
+T00975,C0139,E0080,Database Issue,Medium,2026-03-01 00:00,Null,In Progress,Null,Null,Pending
+T00976,C0179,E0042,Feature Request,Low,2025-11-21 12:00,2025-11-22 04:54,Resolved,16.9,4,Met
+T00977,C0133,E0045,Performance Issue,Medium,2025-04-04 03:00,2025-04-05 13:36,Resolved,34.6,5,Breached
+T00978,C0156,E0050,Application Error,Medium,2026-07-09 05:00,Null,Escalated,Null,Null,Pending
+T00979,C0087,E0042,Performance Issue,Medium,2025-05-28 05:00,Null,Escalated,Null,Null,Pending
+T00980,C0067,E0122,Performance Issue,High,2025-04-02 04:00,2025-04-02 12:48,Closed,8.8,5,Breached
+T00981,C0001,E0050,Performance Issue,High,2026-02-22 21:00,2026-02-23 15:54,Resolved,18.9,4,Breached
+T00982,C0077,E0042,Database Issue,Medium,2025-03-02 19:00,2025-03-03 01:24,Resolved,6.4,5,Met
+T00983,C0120,E0031,Security Issue,Medium,2025-07-05 00:00,2025-07-05 12:24,Resolved,12.4,5,Breached
+T00984,C0075,E0031,Login Issue,Low,2025-11-02 12:00,2025-11-03 08:54,Closed,20.9,5,Met
+T00985,C0151,E0011,Application Error,Medium,2025-11-24 04:00,Null,Escalated,Null,Null,Pending
+T00986,C0095,E0083,Software Installation,Medium,2025-11-28 08:00,Null,In Progress,Null,Null,Pending
+T00987,C0131,E0041,Software Installation,Medium,2025-05-04 01:00,2025-05-04 09:06,Resolved,8.1,4,Met
+T00988,C0119,E0148,Network Issue,Low,2025-09-03 19:00,2025-09-05 11:36,Closed,40.6,4,Breached
+T00989,C0025,E0131,Access/Permission,Medium,2025-08-31 15:00,2025-08-31 23:24,Resolved,8.4,4,Met
+T00990,C0119,E0046,Feature Request,High,2026-06-01 12:00,2026-06-01 18:48,Closed,6.8,4,Met
+T00991,C0120,E0046,Application Error,Medium,2025-10-03 01:00,2025-10-03 21:42,Closed,20.7,4,Breached
+T00992,C0069,E0042,Security Issue,High,2026-04-21 17:00,2026-04-21 18:42,Resolved,1.7,5,Met
+T00993,C0167,E0148,Software Installation,High,2025-03-09 15:00,Null,Escalated,Null,Null,Pending
+T00994,C0137,E0080,Login Issue,Low,2026-02-22 20:00,2026-02-23 05:24,Closed,9.4,4,Met
+T00995,C0006,E0042,Network Issue,Medium,2025-01-20 08:00,2025-01-21 21:48,Closed,37.8,4,Breached
+T00996,C0136,E0055,Feature Request,Medium,2026-08-24 21:00,2026-08-25 02:30,Resolved,5.5,4,Met
+T00997,C0026,E0045,Application Error,High,2025-09-10 17:00,2025-09-10 21:18,Closed,4.3,5,Met
+T00998,C0045,E0073,Database Issue,Medium,2025-11-08 18:00,2025-11-09 06:00,Closed,12,5,Met
+T00999,C0119,E0131,Software Installation,High,2026-04-02 02:00,2026-04-02 07:36,Resolved,5.6,4,Met
+T01000,C0091,E0122,Feature Request,High,2025-07-28 04:00,2025-07-28 12:24,Resolved,8.4,4,Breached
+T01001,C0083,E0150,Security Issue,Medium,2026-07-08 05:00,2026-07-08 19:06,Closed,14.1,5,Breached
+T01002,C0144,E0112,Network Issue,High,2026-07-05 13:00,Null,In Progress,Null,Null,Pending
+T01003,C0031,E0083,Feature Request,Low,2026-04-08 01:00,Null,Escalated,Null,Null,Pending
+T01004,C0073,E0150,Login Issue,Medium,2026-04-21 19:00,2026-04-22 11:24,Closed,16.4,5,Breached
+T01005,C0023,E0105,Performance Issue,Medium,2025-06-21 00:00,2025-06-22 00:12,Closed,24.2,5,Breached
+T01006,C0170,E0031,Login Issue,High,2026-05-09 08:00,2026-05-09 12:30,Closed,4.5,5,Met
+T01007,C0131,E0067,Access/Permission,Low,2025-09-14 21:00,2025-09-17 05:00,Resolved,56,4,Breached
+T01008,C0136,E0080,Software Installation,Medium,2025-12-26 20:00,2025-12-27 04:30,Resolved,8.5,4,Met
+T01009,C0001,E0041,Network Issue,Medium,2026-08-23 16:00,2026-08-24 03:30,Closed,11.5,4,Met
+T01010,C0058,E0150,Performance Issue,High,2025-02-16 05:00,Null,Open,Null,Null,Pending
+T01011,C0045,E0006,Feature Request,Low,2026-07-31 02:00,2026-07-31 14:36,Resolved,12.6,4,Met
+T01012,C0118,E0112,Performance Issue,Critical,2025-04-02 12:00,2025-04-02 18:48,Closed,6.8,5,Breached
+T01013,C0058,E0050,Application Error,Medium,2025-05-24 23:00,2025-05-25 15:06,Resolved,16.1,5,Breached
+T01014,C0160,E0068,Feature Request,High,2025-10-14 13:00,2025-10-14 20:54,Closed,7.9,4,Met
+T01015,C0122,E0150,Network Issue,Medium,2026-06-01 10:00,2026-06-02 02:30,Closed,16.5,2,Breached
+T01016,C0147,E0097,Security Issue,Low,2025-09-25 22:00,2025-09-27 21:24,Resolved,47.4,3,Breached
+T01017,C0127,E0006,Data Issue,Medium,2025-10-07 07:00,2025-10-07 18:42,Resolved,11.7,2,Met
+T01018,C0072,E0083,Security Issue,High,2025-12-16 06:00,Null,Escalated,Null,Null,Pending
+T01019,C0106,E0011,Data Issue,Medium,2025-12-03 00:00,Null,Escalated,Null,Null,Pending
+T01020,C0022,E0073,Database Issue,High,2025-01-03 19:00,2025-01-03 22:36,Resolved,3.6,4,Met
+T01021,C0132,E0002,Data Issue,Medium,2025-01-05 00:00,2025-01-05 21:42,Resolved,21.7,4,Breached
+T01022,C0082,E0031,Database Issue,Medium,2026-02-28 17:00,2026-03-01 02:48,Resolved,9.8,4,Met
+T01023,C0084,E0122,Data Issue,Medium,2026-02-07 17:00,Null,In Progress,Null,Null,Pending
+T01024,C0011,E0122,Application Error,Low,2025-03-21 17:00,2025-03-22 14:24,Closed,21.4,4,Met
+T01025,C0150,E0122,Login Issue,Medium,2026-04-01 21:00,2026-04-02 02:24,Resolved,5.4,4,Met
+T01026,C0158,E0097,Application Error,Low,2025-12-28 12:00,Null,Open,Null,Null,Pending
+T01027,C0067,E0112,Access/Permission,Medium,2026-01-02 12:00,2026-01-03 10:00,Resolved,22,4,Breached
+T01028,C0042,E0055,Database Issue,Medium,2025-01-09 03:00,Null,Escalated,Null,Null,Pending
+T01029,C0143,E0080,Data Issue,Medium,2026-01-15 06:00,2026-01-15 17:24,Resolved,11.4,4,Met
+T01030,C0160,E0080,Data Issue,Medium,2025-01-10 07:00,2025-01-10 22:18,Closed,15.3,4,Breached
+T01031,C0165,E0150,Login Issue,Medium,2025-10-15 21:00,2025-10-16 06:42,Closed,9.7,5,Met
+T01032,C0116,E0141,Security Issue,High,2025-07-16 02:00,2025-07-16 05:00,Resolved,3,5,Met
+T01033,C0168,E0067,Access/Permission,High,2025-11-07 22:00,Null,Escalated,Null,Null,Pending
+T01034,C0028,E0067,Network Issue,Critical,2025-08-28 15:00,2025-08-28 23:24,Resolved,8.4,4,Breached
+T01035,C0162,E0045,Security Issue,High,2025-02-07 08:00,2025-02-07 12:36,Resolved,4.6,4,Met
+T01036,C0180,E0073,Data Issue,Medium,2025-08-03 00:00,2025-08-03 18:42,Resolved,18.7,5,Breached
+T01037,C0096,E0045,Network Issue,Low,2026-02-10 03:00,2026-02-11 04:48,Resolved,25.8,4,Breached
+T01038,C0016,E0112,Performance Issue,High,2026-08-06 16:00,2026-08-07 00:00,Closed,8,3,Met
+T01039,C0177,E0083,Data Issue,Medium,2025-06-24 17:00,2025-06-24 23:00,Resolved,6,5,Met
+T01040,C0088,E0011,Network Issue,Medium,2026-08-03 21:00,2026-08-04 01:12,Resolved,4.2,5,Met
+T01041,C0026,E0105,Access/Permission,High,2026-08-02 05:00,2026-08-02 15:30,Resolved,10.5,4,Breached
+T01042,C0163,E0148,Application Error,Medium,2025-05-12 23:00,2025-05-13 06:24,Resolved,7.4,4,Met
+T01043,C0131,E0042,Application Error,Low,2025-05-11 08:00,2025-05-11 16:06,Resolved,8.1,3,Met
+T01044,C0030,E0083,Access/Permission,High,2025-08-22 16:00,2025-08-23 04:54,Closed,12.9,5,Breached
+T01045,C0095,E0050,Performance Issue,High,2025-07-16 21:00,2025-07-17 04:18,Closed,7.3,5,Met
+T01046,C0035,E0141,Login Issue,Medium,2026-06-30 19:00,2026-07-01 04:12,Closed,9.2,4,Met
+T01047,C0118,E0148,Performance Issue,Low,2026-07-28 14:00,Null,In Progress,Null,Null,Pending
+T01048,C0116,E0050,Login Issue,Medium,2026-03-14 20:00,2026-03-15 20:36,Closed,24.6,4,Breached
+T01049,C0007,E0067,Login Issue,Medium,2025-11-27 13:00,Null,Escalated,Null,Null,Pending
+T01050,C0088,E0045,Software Installation,Medium,2025-10-08 03:00,Null,In Progress,Null,Null,Pending
+T01051,C0154,E0122,Feature Request,High,2026-04-23 15:00,Null,Open,Null,Null,Pending
+T01052,C0159,E0131,Security Issue,Medium,2026-06-14 01:00,2026-06-14 17:18,Resolved,16.3,3,Breached
+T01053,C0131,E0122,Network Issue,Medium,2025-02-18 08:00,2025-02-19 08:18,Resolved,24.3,5,Breached
+T01054,C0169,E0080,Software Installation,High,2026-06-30 14:00,2026-07-01 00:42,Resolved,10.7,4,Breached
+T01055,C0028,E0141,Security Issue,Medium,2025-01-06 12:00,2025-01-06 21:48,Resolved,9.8,5,Met
+T01056,C0118,E0055,Network Issue,Medium,2025-12-09 02:00,Null,In Progress,Null,Null,Pending
+T01057,C0112,E0097,Access/Permission,Low,2025-01-26 23:00,Null,Open,Null,Null,Pending
+T01058,C0147,E0122,Network Issue,High,2026-03-10 02:00,2026-03-10 04:42,Closed,2.7,5,Met
+T01059,C0152,E0083,Network Issue,Medium,2025-07-21 05:00,2025-07-21 13:18,Resolved,8.3,4,Met
+T01060,C0087,E0112,Security Issue,High,2025-11-15 02:00,2025-11-15 08:36,Closed,6.6,3,Met
+T01061,C0133,E0099,Application Error,High,2025-01-29 15:00,2025-01-30 00:42,Resolved,9.7,4,Breached
+T01062,C0030,E0122,Software Installation,Medium,2025-01-25 18:00,2025-01-27 06:24,Resolved,36.4,4,Breached
+T01063,C0132,E0148,Security Issue,Medium,2025-09-14 07:00,2025-09-14 17:36,Resolved,10.6,4,Met
+T01064,C0179,E0122,Application Error,High,2026-04-30 07:00,Null,In Progress,Null,Null,Pending
+T01065,C0136,E0062,Security Issue,Medium,2025-02-25 10:00,2025-02-26 18:30,Closed,32.5,4,Breached
+T01066,C0073,E0011,Feature Request,High,2025-08-31 02:00,2025-08-31 14:00,Resolved,12,4,Breached
+T01067,C0017,E0097,Access/Permission,Medium,2026-03-26 03:00,2026-03-26 08:54,Resolved,5.9,4,Met
+T01068,C0130,E0105,Data Issue,Medium,2026-08-16 03:00,Null,Open,Null,Null,Pending
+T01069,C0056,E0129,Application Error,Low,2025-03-04 01:00,2025-03-05 08:54,Resolved,31.9,5,Breached
+T01070,C0037,E0068,Software Installation,Medium,2025-11-17 22:00,Null,Escalated,Null,Null,Pending
+T01071,C0132,E0006,Application Error,Medium,2025-05-11 01:00,2025-05-12 02:00,Closed,25,3,Breached
+T01072,C0031,E0062,Data Issue,Medium,2025-02-26 09:00,2025-02-27 05:48,Resolved,20.8,4,Breached
+T01073,C0157,E0105,Access/Permission,Low,2026-03-19 02:00,Null,In Progress,Null,Null,Pending
+T01074,C0163,E0006,Application Error,High,2025-02-27 17:00,2025-02-28 06:54,Closed,13.9,4,Breached
+T01075,C0160,E0083,Login Issue,Medium,2025-10-29 12:00,Null,In Progress,Null,Null,Pending
+T01076,C0088,E0068,Software Installation,Critical,2025-04-09 19:00,Null,Escalated,Null,Null,Pending
+T01077,C0150,E0099,Software Installation,Medium,2025-08-27 19:00,2025-08-28 19:42,Closed,24.7,4,Breached
+T01078,C0159,E0006,Access/Permission,High,2025-01-11 14:00,2025-01-12 01:00,Closed,11,4,Breached
+T01079,C0015,E0122,Software Installation,High,2026-04-21 13:00,2026-04-21 20:24,Resolved,7.4,4,Met
+T01080,C0050,E0067,Access/Permission,Critical,2025-04-14 10:00,Null,In Progress,Null,Null,Pending
+T01081,C0136,E0046,Login Issue,Medium,2026-04-10 16:00,2026-04-10 19:42,Closed,3.7,4,Met
+T01082,C0133,E0067,Security Issue,High,2025-07-17 03:00,2025-07-17 18:12,Closed,15.2,3,Breached
+T01083,C0162,E0112,Application Error,Medium,2025-01-13 19:00,2025-01-14 01:36,Closed,6.6,5,Met
+T01084,C0147,E0046,Application Error,Medium,2025-07-18 18:00,2025-07-19 13:36,Resolved,19.6,4,Breached
+T01085,C0114,E0073,Database Issue,Medium,2026-06-06 08:00,Null,Open,Null,Null,Pending
+T01086,C0102,E0073,Security Issue,Medium,2026-03-08 15:00,2026-03-08 21:48,Closed,6.8,5,Met
+T01087,C0180,E0129,Access/Permission,Low,2026-04-01 05:00,2026-04-02 04:24,Resolved,23.4,5,Met
+T01088,C0072,E0099,Network Issue,Low,2025-05-21 01:00,2025-05-21 16:12,Resolved,15.2,4,Met
+T01089,C0050,E0050,Login Issue,Medium,2025-05-11 09:00,2025-05-11 16:12,Closed,7.2,4,Met
+T01090,C0070,E0050,Access/Permission,Medium,2026-03-23 16:00,2026-03-24 05:12,Resolved,13.2,4,Breached
+T01091,C0061,E0006,Security Issue,High,2025-11-15 18:00,2025-11-16 03:54,Resolved,9.9,4,Breached
+T01092,C0170,E0150,Feature Request,High,2025-05-30 04:00,2025-05-30 22:24,Resolved,18.4,4,Breached
+T01093,C0086,E0050,Data Issue,Medium,2025-11-13 19:00,2025-11-14 04:54,Closed,9.9,4,Met
+T01094,C0160,E0112,Security Issue,Low,2025-10-26 11:00,2025-10-27 08:30,Closed,21.5,5,Met
+T01095,C0014,E0131,Login Issue,Medium,2026-06-15 18:00,2026-06-15 22:12,Resolved,4.2,4,Met
+T01096,C0078,E0006,Database Issue,Low,2025-02-28 07:00,2025-02-28 21:00,Resolved,14,4,Met
+T01097,C0093,E0031,Feature Request,High,2026-07-27 01:00,2026-07-27 14:24,Resolved,13.4,3,Breached
+T01098,C0065,E0062,Software Installation,Medium,2025-12-19 06:00,Null,In Progress,Null,Null,Pending
+T01099,C0125,E0055,Network Issue,Medium,2025-07-26 02:00,2025-07-26 08:18,Resolved,6.3,5,Met
+T01100,C0030,E0129,Security Issue,Medium,2025-07-13 21:00,Null,In Progress,Null,Null,Pending
+T01101,C0126,E0105,Data Issue,High,2026-04-24 19:00,2026-04-25 02:42,Resolved,7.7,5,Met
+T01102,C0007,E0050,Security Issue,Medium,2026-08-16 18:00,2026-08-17 18:42,Resolved,24.7,3,Breached
+T01103,C0073,E0131,Security Issue,Medium,2025-11-03 13:00,2025-11-04 08:12,Closed,19.2,5,Breached
+T01104,C0097,E0097,Security Issue,Low,2025-06-16 03:00,Null,Escalated,Null,Null,Pending
+T01105,C0138,E0050,Data Issue,Medium,2025-02-13 15:00,2025-02-13 19:54,Resolved,4.9,5,Met
+T01106,C0056,E0073,Network Issue,High,2025-01-04 20:00,2025-01-05 00:24,Resolved,4.4,4,Met
+T01107,C0009,E0062,Network Issue,Low,2025-08-24 14:00,Null,Escalated,Null,Null,Pending
+T01108,C0034,E0067,Access/Permission,Medium,2025-08-07 07:00,2025-08-07 12:42,Resolved,5.7,5,Met
+T01109,C0156,E0129,Data Issue,Medium,2025-12-06 23:00,2025-12-07 08:00,Closed,9,5,Met
+T01110,C0167,E0105,Software Installation,Medium,2025-07-30 12:00,2025-07-30 15:48,Closed,3.8,4,Met
+T01111,C0066,E0129,Database Issue,Medium,2025-01-07 11:00,Null,Escalated,Null,Null,Pending
+T01112,C0059,E0046,Login Issue,Low,2025-03-17 11:00,2025-03-18 02:00,Resolved,15,5,Met
+T01113,C0150,E0073,Login Issue,Medium,2026-07-23 03:00,2026-07-23 20:06,Resolved,17.1,4,Breached
+T01114,C0001,E0073,Database Issue,Medium,2025-10-25 14:00,2025-10-26 10:24,Resolved,20.4,5,Breached
+T01115,C0125,E0150,Network Issue,Medium,2026-08-23 11:00,2026-08-24 00:12,Resolved,13.2,4,Breached
+T01116,C0153,E0150,Login Issue,Medium,2025-01-31 06:00,2025-02-01 05:54,Resolved,23.9,4,Breached
+T01117,C0039,E0041,Network Issue,Critical,2025-10-18 05:00,Null,Open,Null,Null,Pending
+T01118,C0042,E0046,Network Issue,High,2025-09-26 23:00,2025-09-27 04:12,Resolved,5.2,4,Met
+T01119,C0040,E0131,Database Issue,High,2025-12-14 17:00,Null,Escalated,Null,Null,Pending
+T01120,C0018,E0041,Network Issue,High,2025-07-02 06:00,Null,Escalated,Null,Null,Pending
+T01121,C0062,E0068,Login Issue,Medium,2025-06-30 08:00,2025-06-30 19:18,Closed,11.3,4,Met
+T01122,C0043,E0011,Application Error,High,2025-01-22 21:00,2025-01-23 05:12,Resolved,8.2,4,Breached
+T01123,C0047,E0055,Database Issue,Medium,2026-01-24 20:00,2026-01-25 03:24,Resolved,7.4,4,Met
+T01124,C0142,E0011,Application Error,Low,2025-12-13 06:00,2025-12-14 15:24,Resolved,33.4,4,Breached
+T01125,C0088,E0045,Performance Issue,Medium,2026-04-13 07:00,2026-04-13 16:06,Resolved,9.1,5,Met
+T01126,C0035,E0011,Security Issue,Medium,2026-01-17 21:00,Null,Escalated,Null,Null,Pending
+T01127,C0166,E0141,Database Issue,High,2026-06-24 19:00,Null,In Progress,Null,Null,Pending
+T01128,C0070,E0011,Software Installation,High,2025-03-08 03:00,2025-03-08 07:00,Resolved,4,5,Met
+T01129,C0176,E0122,Database Issue,Medium,2025-05-14 06:00,2025-05-14 19:42,Resolved,13.7,2,Breached
+T01130,C0072,E0073,Network Issue,High,2026-06-30 12:00,Null,Open,Null,Null,Pending
+T01131,C0023,E0141,Security Issue,Medium,2025-11-22 19:00,Null,Open,Null,Null,Pending
+T01132,C0066,E0042,Software Installation,Medium,2025-09-08 01:00,Null,Escalated,Null,Null,Pending
+T01133,C0150,E0041,Access/Permission,Low,2025-07-13 17:00,Null,Open,Null,Null,Pending
+T01134,C0083,E0141,Performance Issue,Low,2025-06-02 10:00,2025-06-03 22:24,Resolved,36.4,5,Breached
+T01135,C0007,E0067,Network Issue,High,2025-02-24 20:00,Null,Escalated,Null,Null,Pending
+T01136,C0087,E0073,Performance Issue,Medium,2025-05-10 16:00,2025-05-11 07:36,Resolved,15.6,4,Breached
+T01137,C0135,E0042,Access/Permission,Medium,2026-05-16 06:00,2026-05-17 07:36,Resolved,25.6,4,Breached
+T01138,C0029,E0046,Application Error,Low,2026-04-27 21:00,Null,Escalated,Null,Null,Pending
+T01139,C0095,E0131,Access/Permission,Low,2025-03-08 05:00,2025-03-09 11:48,Resolved,30.8,4,Breached
+T01140,C0160,E0097,Feature Request,Low,2026-02-02 20:00,2026-02-05 01:24,Resolved,53.4,5,Breached
+T01141,C0137,E0067,Feature Request,Medium,2026-01-19 15:00,2026-01-19 23:12,Closed,8.2,5,Met
+T01142,C0026,E0148,Feature Request,Medium,2026-04-21 05:00,2026-04-21 12:18,Resolved,7.3,4,Met
+T01143,C0098,E0129,Security Issue,Medium,2026-01-18 16:00,2026-01-18 18:54,Resolved,2.9,4,Met
+T01144,C0078,E0042,Data Issue,Medium,2026-05-22 15:00,2026-05-23 14:06,Closed,23.1,3,Breached
+T01145,C0128,E0006,Performance Issue,Medium,2026-08-19 12:00,2026-08-20 21:24,Resolved,33.4,3,Breached
+T01146,C0126,E0129,Access/Permission,Low,2025-02-07 06:00,2025-02-11 06:00,Closed,96,3,Breached
+T01147,C0116,E0031,Network Issue,High,2025-07-27 14:00,2025-07-28 04:30,Resolved,14.5,4,Breached
+T01148,C0033,E0073,Network Issue,Critical,2026-02-10 06:00,2026-02-10 16:18,Resolved,10.3,4,Breached
+T01149,C0126,E0002,Performance Issue,Medium,2026-03-12 12:00,2026-03-13 03:00,Resolved,15,3,Breached
+T01150,C0040,E0002,Access/Permission,High,2025-06-10 11:00,2025-06-10 18:42,Closed,7.7,4,Met
+T01151,C0099,E0080,Performance Issue,Medium,2026-07-18 02:00,Null,In Progress,Null,Null,Pending
+T01152,C0117,E0045,Database Issue,High,2025-03-28 09:00,Null,In Progress,Null,Null,Pending
+T01153,C0164,E0129,Data Issue,Medium,2026-06-16 11:00,2026-06-16 21:24,Resolved,10.4,5,Met
+T01154,C0080,E0046,Network Issue,High,2026-08-21 01:00,Null,Open,Null,Null,Pending
+T01155,C0079,E0099,Data Issue,Low,2026-06-09 19:00,2026-06-10 16:24,Closed,21.4,4,Met
+T01156,C0143,E0150,Security Issue,High,2026-03-13 14:00,2026-03-13 22:54,Closed,8.9,4,Breached
+T01157,C0166,E0042,Data Issue,Low,2026-03-19 13:00,2026-03-20 10:18,Closed,21.3,4,Met
+T01158,C0132,E0129,Security Issue,Low,2026-05-25 10:00,Null,Open,Null,Null,Pending
+T01159,C0029,E0131,Performance Issue,Medium,2026-01-27 00:00,2026-01-27 19:30,Resolved,19.5,4,Breached
+T01160,C0154,E0042,Database Issue,Medium,2026-03-29 07:00,2026-03-30 04:54,Closed,21.9,4,Breached
+T01161,C0124,E0041,Performance Issue,Medium,2025-03-19 11:00,2025-03-19 15:48,Resolved,4.8,4,Met
+T01162,C0097,E0083,Application Error,Medium,2025-10-29 16:00,2025-10-30 03:24,Resolved,11.4,4,Met
+T01163,C0148,E0141,Feature Request,High,2026-07-14 20:00,Null,Escalated,Null,Null,Pending
+T01164,C0103,E0011,Application Error,Medium,2025-10-11 07:00,2025-10-11 15:06,Resolved,8.1,4,Met
+T01165,C0074,E0031,Application Error,Medium,2025-05-02 02:00,2025-05-02 11:30,Resolved,9.5,4,Met
+T01166,C0163,E0041,Security Issue,Medium,2025-02-09 17:00,2025-02-10 04:36,Resolved,11.6,4,Met
+T01167,C0140,E0002,Network Issue,Medium,2025-12-08 06:00,Null,Escalated,Null,Null,Pending
+T01168,C0033,E0073,Security Issue,Medium,2025-09-14 09:00,2025-09-14 22:24,Resolved,13.4,3,Breached
+T01169,C0118,E0055,Performance Issue,Medium,2025-07-15 22:00,2025-07-16 02:24,Closed,4.4,3,Met
+T01170,C0018,E0067,Access/Permission,Low,2025-05-22 22:00,2025-05-23 18:12,Resolved,20.2,4,Met
+T01171,C0014,E0068,Feature Request,Low,2025-09-25 00:00,2025-09-25 15:48,Resolved,15.8,5,Met
+T01172,C0136,E0006,Performance Issue,Low,2025-10-16 11:00,Null,Escalated,Null,Null,Pending
+T01173,C0083,E0046,Software Installation,Low,2026-02-20 18:00,2026-02-21 12:12,Resolved,18.2,Null,Met
+T01174,C0070,E0097,Login Issue,Low,2026-04-29 20:00,Null,Escalated,Null,Null,Pending
+T01175,C0159,E0031,Feature Request,Low,2025-06-02 12:00,Null,Open,Null,Null,Pending
+T01176,C0060,E0073,Network Issue,Medium,2025-08-21 23:00,Null,Open,Null,Null,Pending
+T01177,C0144,E0141,Network Issue,High,2026-05-01 07:00,2026-05-01 19:48,Resolved,12.8,5,Breached
+T01178,C0120,E0041,Feature Request,High,2026-07-20 14:00,2026-07-21 07:18,Resolved,17.3,4,Breached
+T01179,C0003,E0141,Data Issue,Medium,2025-12-15 02:00,2025-12-15 16:18,Closed,14.3,4,Breached
+T01180,C0080,E0105,Security Issue,High,2025-07-12 13:00,Null,Escalated,Null,Null,Pending
+T01181,C0035,E0041,Software Installation,High,2025-08-03 14:00,Null,Escalated,Null,Null,Pending
+T01182,C0150,E0073,Data Issue,Medium,2026-07-26 00:00,2026-07-26 12:24,Closed,12.4,4,Breached
+T01183,C0024,E0129,Security Issue,Medium,2025-05-23 18:00,Null,Open,Null,Null,Pending
+T01184,C0056,E0062,Database Issue,Medium,2025-11-09 23:00,2025-11-10 09:54,Resolved,10.9,5,Met
+T01185,C0167,E0099,Login Issue,Medium,2026-05-27 21:00,Null,Escalated,Null,Null,Pending
+T01186,C0076,E0073,Security Issue,High,2025-12-14 07:00,2025-12-14 11:48,Closed,4.8,5,Met
+T01187,C0129,E0042,Software Installation,Low,2026-03-12 21:00,2026-03-15 20:24,Resolved,71.4,4,Breached
+T01188,C0016,E0141,Software Installation,Medium,2026-07-05 09:00,Null,In Progress,Null,Null,Pending
+T01189,C0119,E0141,Security Issue,Medium,2025-01-24 18:00,2025-01-25 02:12,Resolved,8.2,3,Met
+T01190,C0078,E0006,Login Issue,Medium,2025-05-23 04:00,2025-05-23 19:06,Resolved,15.1,5,Breached
+T01191,C0012,E0112,Security Issue,Medium,2026-08-05 20:00,Null,Open,Null,Null,Pending
+T01192,C0031,E0150,Access/Permission,High,2026-08-11 12:00,2026-08-11 16:30,Resolved,4.5,3,Met
+T01193,C0040,E0002,Software Installation,Medium,2025-07-29 12:00,2025-07-30 02:30,Resolved,14.5,5,Breached
+T01194,C0063,E0050,Application Error,Medium,2026-07-02 12:00,2026-07-02 17:54,Resolved,5.9,4,Met
+T01195,C0051,E0067,Network Issue,High,2026-05-02 03:00,2026-05-02 22:00,Closed,19,4,Breached
+T01196,C0059,E0105,Security Issue,High,2026-08-07 14:00,Null,In Progress,Null,Null,Pending
+T01197,C0074,E0131,Performance Issue,Medium,2025-04-06 05:00,2025-04-06 16:36,Closed,11.6,4,Met
+T01198,C0119,E0129,Application Error,Low,2026-07-21 05:00,Null,In Progress,Null,Null,Pending
+T01199,C0090,E0122,Login Issue,Medium,2026-05-16 00:00,2026-05-16 13:12,Closed,13.2,5,Breached
+T01200,C0144,E0045,Database Issue,Medium,2025-07-23 02:00,2025-07-23 12:36,Resolved,10.6,4,Met
+T01201,C0013,E0105,Software Installation,Medium,2025-10-18 06:00,2025-10-19 09:12,Resolved,27.2,4,Breached
+T01202,C0029,E0099,Network Issue,Low,2025-10-26 21:00,Null,In Progress,Null,Null,Pending
+T01203,C0109,E0031,Feature Request,Medium,2025-03-13 14:00,2025-03-13 23:06,Resolved,9.1,3,Met
+T01204,C0139,E0050,Login Issue,Medium,2026-01-13 16:00,2026-01-14 00:18,Resolved,8.3,3,Met
+T01205,C0004,E0099,Login Issue,Medium,2025-06-25 10:00,2025-06-25 19:54,Closed,9.9,5,Met
+T01206,C0080,E0002,Software Installation,Medium,2026-02-05 05:00,2026-02-05 23:00,Resolved,18,4,Breached
+T01207,C0175,E0148,Application Error,Medium,2025-05-13 17:00,Null,Escalated,Null,Null,Pending
+T01208,C0050,E0062,Software Installation,Critical,2026-05-05 23:00,2026-05-06 01:42,Resolved,2.7,5,Met
+T01209,C0152,E0129,Application Error,Medium,2026-02-03 06:00,2026-02-03 12:36,Resolved,6.6,4,Met
+T01210,C0007,E0112,Database Issue,Low,2025-07-30 09:00,2025-07-30 14:36,Resolved,5.6,2,Met
+T01211,C0047,E0129,Software Installation,High,2026-05-02 05:00,2026-05-03 00:24,Resolved,19.4,4,Breached
+T01212,C0076,E0055,Access/Permission,Medium,2026-08-12 09:00,2026-08-13 14:54,Closed,29.9,4,Breached
+T01213,C0054,E0068,Access/Permission,Low,2025-07-27 16:00,2025-07-29 02:06,Closed,34.1,4,Breached
+T01214,C0026,E0150,Data Issue,Medium,2025-10-10 06:00,2025-10-10 09:30,Resolved,3.5,3,Met
+T01215,C0142,E0050,Login Issue,High,2025-05-27 14:00,2025-05-27 21:24,Resolved,7.4,4,Met
+T01216,C0038,E0006,Application Error,Medium,2026-02-13 19:00,2026-02-14 07:42,Closed,12.7,4,Breached
+T01217,C0161,E0068,Network Issue,Medium,2026-06-23 10:00,2026-06-23 23:48,Resolved,13.8,3,Breached
+T01218,C0039,E0141,Access/Permission,High,2026-05-18 14:00,2026-05-19 03:24,Closed,13.4,4,Breached
+T01219,C0041,E0011,Data Issue,High,2026-08-13 01:00,2026-08-13 09:54,Resolved,8.9,4,Breached
+T01220,C0041,E0073,Application Error,Medium,2025-10-22 20:00,2025-10-23 13:54,Resolved,17.9,3,Breached
+T01221,C0142,E0141,Data Issue,Medium,2025-12-22 22:00,2025-12-23 13:36,Closed,15.6,3,Breached
+T01222,C0059,E0150,Performance Issue,Medium,2026-02-05 19:00,2026-02-06 14:00,Closed,19,5,Breached
+T01223,C0022,E0105,Database Issue,Medium,2026-03-02 07:00,2026-03-02 19:18,Resolved,12.3,5,Breached
+T01224,C0072,E0129,Database Issue,High,2026-03-19 14:00,2026-03-20 00:36,Resolved,10.6,4,Breached
+T01225,C0036,E0042,Software Installation,Low,2025-07-07 22:00,2025-07-09 17:12,Closed,43.2,4,Breached
+T01226,C0147,E0055,Access/Permission,High,2025-04-08 12:00,2025-04-08 21:00,Closed,9,3,Breached
+T01227,C0138,E0131,Login Issue,Medium,2025-09-03 05:00,2025-09-03 10:24,Closed,5.4,3,Met
+T01228,C0138,E0067,Performance Issue,Medium,2026-07-05 09:00,2026-07-06 15:54,Closed,30.9,4,Breached
+T01229,C0039,E0041,Application Error,Medium,2025-08-11 15:00,2025-08-11 23:30,Closed,8.5,4,Met
+T01230,C0089,E0073,Software Installation,Medium,2026-07-21 03:00,2026-07-21 11:00,Resolved,8,4,Met
+T01231,C0021,E0148,Security Issue,Medium,2025-03-20 03:00,Null,Escalated,Null,Null,Pending
+T01232,C0057,E0050,Feature Request,High,2025-11-30 13:00,2025-11-30 20:18,Resolved,7.3,3,Met
+T01233,C0145,E0002,Data Issue,Medium,2025-06-18 08:00,2025-06-19 03:18,Closed,19.3,3,Breached
+T01234,C0143,E0002,Network Issue,Medium,2026-06-03 01:00,Null,Escalated,Null,Null,Pending
+T01235,C0099,E0080,Data Issue,Medium,2025-01-28 02:00,2025-01-28 15:48,Resolved,13.8,4,Breached
+T01236,C0072,E0042,Data Issue,Medium,2026-01-26 10:00,2026-01-26 20:48,Resolved,10.8,4,Met
+T01237,C0084,E0045,Software Installation,High,2025-07-19 12:00,2025-07-19 23:30,Resolved,11.5,3,Breached
+T01238,C0123,E0068,Login Issue,Medium,2025-01-11 08:00,2025-01-11 19:06,Resolved,11.1,4,Met
+T01239,C0097,E0122,Application Error,Low,2025-05-20 10:00,2025-05-21 06:42,Resolved,20.7,3,Met
+T01240,C0096,E0067,Data Issue,Medium,2026-05-12 14:00,2026-05-12 21:30,Resolved,7.5,4,Met
+T01241,C0097,E0073,Application Error,High,2025-03-26 17:00,2025-03-27 00:18,Closed,7.3,4,Met
+T01242,C0141,E0067,Network Issue,Low,2026-03-25 04:00,Null,Open,Null,Null,Pending
+T01243,C0137,E0150,Data Issue,Medium,2025-10-13 05:00,Null,In Progress,Null,Null,Pending
+T01244,C0006,E0097,Database Issue,Low,2025-01-19 19:00,Null,In Progress,Null,Null,Pending
+T01245,C0147,E0073,Application Error,High,2025-07-01 09:00,2025-07-01 20:06,Closed,11.1,5,Breached
+T01246,C0138,E0080,Application Error,Medium,2026-07-02 23:00,2026-07-03 03:06,Closed,4.1,4,Met
+T01247,C0041,E0099,Software Installation,High,2025-06-22 02:00,2025-06-22 08:12,Closed,6.2,3,Met
+T01248,C0027,E0055,Login Issue,Medium,2025-10-07 04:00,2025-10-07 11:48,Resolved,7.8,3,Met
+T01249,C0003,E0042,Data Issue,Medium,2026-01-02 05:00,2026-01-02 19:00,Closed,14,5,Breached
+T01250,C0012,E0041,Network Issue,Medium,2025-02-05 21:00,2025-02-06 07:48,Closed,10.8,4,Met
+T01251,C0148,E0042,Feature Request,Low,2025-08-10 14:00,2025-08-11 16:18,Closed,26.3,3,Breached
+T01252,C0090,E0031,Login Issue,High,2026-06-20 20:00,2026-06-21 07:06,Resolved,11.1,5,Breached
+T01253,C0062,E0046,Application Error,Medium,2026-02-04 22:00,2026-02-05 10:48,Closed,12.8,4,Breached
+T01254,C0092,E0055,Performance Issue,Medium,2026-03-31 01:00,2026-04-01 06:36,Resolved,29.6,5,Breached
+T01255,C0162,E0041,Access/Permission,High,2025-01-05 01:00,2025-01-05 07:36,Resolved,6.6,3,Met
+T01256,C0126,E0105,Software Installation,Medium,2025-07-26 07:00,2025-07-26 20:00,Closed,13,5,Breached
+T01257,C0160,E0011,Security Issue,High,2025-09-02 06:00,Null,In Progress,Null,Null,Pending
+T01258,C0067,E0002,Application Error,Low,2025-01-17 13:00,2025-01-18 07:48,Resolved,18.8,5,Met
+T01259,C0026,E0148,Login Issue,High,2025-01-15 10:00,2025-01-15 13:54,Resolved,3.9,4,Met
+T01260,C0149,E0011,Network Issue,Medium,2025-03-06 07:00,2025-03-06 22:06,Resolved,15.1,4,Breached
+T01261,C0053,E0080,Application Error,Low,2025-06-21 23:00,2025-06-23 06:30,Closed,31.5,4,Breached
+T01262,C0093,E0105,Database Issue,Medium,2025-02-15 13:00,2025-02-16 17:30,Resolved,28.5,4,Breached
+T01263,C0132,E0122,Feature Request,Medium,2025-04-21 10:00,Null,Open,Null,Null,Pending
+T01264,C0026,E0083,Security Issue,High,2026-07-30 20:00,2026-07-31 10:18,Resolved,14.3,4,Breached
+T01265,C0094,E0002,Network Issue,Critical,2025-08-01 17:00,2025-08-01 19:12,Resolved,2.2,4,Met
+T01266,C0071,E0031,Software Installation,Medium,2026-03-15 03:00,2026-03-15 08:06,Resolved,5.1,Null,Met
+T01267,C0158,E0068,Network Issue,High,2025-08-07 03:00,2025-08-07 15:30,Closed,12.5,5,Breached
+T01268,C0009,E0148,Security Issue,Medium,2025-11-28 05:00,2025-11-28 15:54,Resolved,10.9,4,Met
+T01269,C0003,E0006,Login Issue,Medium,2026-02-16 20:00,2026-02-17 06:06,Closed,10.1,5,Met
+T01270,C0042,E0083,Security Issue,High,2025-01-13 12:00,2025-01-13 20:00,Closed,8,4,Met
+T01271,C0023,E0062,Network Issue,Medium,2026-04-15 07:00,2026-04-15 19:00,Closed,12,5,Met
+T01272,C0099,E0131,Application Error,Medium,2025-10-13 20:00,2025-10-14 03:36,Resolved,7.6,5,Met
+T01273,C0049,E0062,Access/Permission,High,2026-01-13 01:00,2026-01-13 09:18,Resolved,8.3,5,Breached
+T01274,C0007,E0006,Application Error,High,2025-08-12 13:00,Null,In Progress,Null,Null,Pending
+T01275,C0022,E0083,Performance Issue,Critical,2026-05-27 03:00,Null,In Progress,Null,Null,Pending
+T01276,C0037,E0105,Feature Request,Low,2026-08-06 05:00,Null,In Progress,Null,Null,Pending
+T01277,C0173,E0112,Performance Issue,Medium,2025-04-08 19:00,2025-04-09 02:24,Resolved,7.4,3,Met
+T01278,C0090,E0041,Security Issue,High,2026-02-02 21:00,2026-02-03 04:54,Resolved,7.9,5,Met
+T01279,C0004,E0080,Database Issue,Critical,2025-12-07 05:00,2025-12-07 06:18,Closed,1.3,3,Met
+T01280,C0155,E0006,Security Issue,Low,2026-05-09 02:00,2026-05-11 09:30,Resolved,55.5,4,Breached
+T01281,C0028,E0148,Security Issue,High,2025-01-19 19:00,2025-01-20 03:48,Resolved,8.8,4,Breached
+T01282,C0025,E0131,Access/Permission,Low,2026-04-05 12:00,Null,Open,Null,Null,Pending
+T01283,C0180,E0011,Feature Request,Medium,2025-08-27 16:00,2025-08-28 16:06,Resolved,24.1,5,Breached
+T01284,C0006,E0105,Access/Permission,Low,2025-01-14 07:00,2025-01-15 12:30,Resolved,29.5,4,Breached
+T01285,C0051,E0011,Login Issue,High,2025-05-08 09:00,2025-05-08 20:18,Closed,11.3,4,Breached
+T01286,C0142,E0055,Network Issue,Low,2026-03-15 07:00,2026-03-16 10:48,Closed,27.8,2,Breached
+T01287,C0117,E0046,Access/Permission,Medium,2025-03-23 01:00,2025-03-24 03:18,Closed,26.3,4,Breached
+T01288,C0062,E0105,Database Issue,Medium,2026-01-19 15:00,Null,Escalated,Null,Null,Pending
+T01289,C0131,E0122,Performance Issue,Medium,2025-07-26 04:00,2025-07-26 22:42,Closed,18.7,5,Breached
+T01290,C0137,E0131,Software Installation,Medium,2025-07-29 20:00,2025-07-30 06:48,Resolved,10.8,5,Met
+T01291,C0108,E0097,Login Issue,High,2025-09-01 23:00,2025-09-02 04:48,Closed,5.8,4,Met
+T01292,C0004,E0042,Access/Permission,High,2026-03-31 23:00,2026-04-01 05:00,Closed,6,4,Met
+T01293,C0103,E0105,Security Issue,Medium,2025-05-18 08:00,2025-05-18 21:42,Closed,13.7,4,Breached
+T01294,C0075,E0148,Security Issue,Low,2025-02-10 16:00,2025-02-11 07:00,Resolved,15,4,Met
+T01295,C0010,E0099,Software Installation,Medium,2025-10-23 00:00,2025-10-23 22:24,Closed,22.4,3,Breached
+T01296,C0021,E0131,Network Issue,Critical,2025-12-06 10:00,2025-12-07 00:36,Resolved,14.6,4,Breached
+T01297,C0022,E0046,Network Issue,Medium,2025-07-30 17:00,Null,In Progress,Null,Null,Pending
+T01298,C0061,E0131,Login Issue,Medium,2025-09-12 21:00,2025-09-13 10:48,Resolved,13.8,3,Breached
+T01299,C0001,E0150,Network Issue,Medium,2026-01-26 16:00,Null,In Progress,Null,Null,Pending
+T01300,C0101,E0131,Security Issue,High,2025-07-07 14:00,Null,Escalated,Null,Null,Pending
+T01301,C0054,E0031,Login Issue,Critical,2025-03-08 15:00,Null,Escalated,Null,Null,Pending
+T01302,C0136,E0031,Application Error,Medium,2025-07-17 01:00,Null,In Progress,Null,Null,Pending
+T01303,C0151,E0042,Database Issue,Low,2025-07-29 04:00,Null,Escalated,Null,Null,Pending
+T01304,C0029,E0006,Application Error,Medium,2025-06-27 18:00,2025-06-27 23:06,Resolved,5.1,4,Met
+T01305,C0176,E0073,Feature Request,High,2025-07-29 07:00,2025-07-29 13:00,Resolved,6,4,Met
+T01306,C0044,E0068,Feature Request,Critical,2025-03-22 13:00,Null,In Progress,Null,Null,Pending
+T01307,C0136,E0050,Data Issue,Medium,2025-11-15 05:00,Null,In Progress,Null,Null,Pending
+T01308,C0036,E0050,Network Issue,High,2025-09-08 13:00,Null,In Progress,Null,Null,Pending
+T01309,C0158,E0150,Database Issue,High,2025-09-12 09:00,2025-09-13 02:54,Resolved,17.9,4,Breached
+T01310,C0142,E0073,Performance Issue,High,2026-08-14 14:00,2026-08-14 21:18,Resolved,7.3,4,Met
+T01311,C0133,E0031,Network Issue,High,2025-10-06 15:00,Null,Escalated,Null,Null,Pending
+T01312,C0080,E0080,Application Error,High,2026-01-04 12:00,2026-01-04 18:18,Resolved,6.3,4,Met
+T01313,C0180,E0041,Software Installation,High,2025-06-21 15:00,2025-06-22 05:48,Resolved,14.8,5,Breached
+T01314,C0015,E0080,Data Issue,Low,2026-03-09 16:00,Null,Open,Null,Null,Pending
+T01315,C0065,E0080,Access/Permission,Medium,2026-03-20 04:00,2026-03-20 16:54,Resolved,12.9,5,Breached
+T01316,C0118,E0042,Data Issue,Medium,2025-01-21 12:00,Null,In Progress,Null,Null,Pending
+T01317,C0169,E0062,Software Installation,Critical,2025-03-27 09:00,2025-03-27 12:54,Closed,3.9,5,Met
+T01318,C0107,E0002,Access/Permission,Low,2026-07-05 04:00,2026-07-05 16:00,Resolved,12,4,Met
+T01319,C0044,E0150,Feature Request,Low,2025-06-29 08:00,2025-07-01 06:06,Closed,46.1,4,Breached
+T01320,C0170,E0055,Software Installation,Medium,2026-04-20 09:00,Null,Open,Null,Null,Pending
+T01321,C0057,E0129,Data Issue,Low,2025-10-18 12:00,Null,In Progress,Null,Null,Pending
+T01322,C0030,E0129,Feature Request,High,2026-05-08 02:00,2026-05-08 11:06,Closed,9.1,5,Breached
+T01323,C0118,E0002,Security Issue,Low,2025-05-20 22:00,2025-05-22 21:54,Resolved,47.9,4,Breached
+T01324,C0118,E0080,Data Issue,Medium,2025-07-20 04:00,2025-07-20 11:42,Resolved,7.7,4,Met
+T01325,C0152,E0131,Network Issue,High,2025-01-05 00:00,Null,In Progress,Null,Null,Pending
+T01326,C0138,E0148,Feature Request,Low,2026-01-19 15:00,2026-01-20 07:00,Resolved,16,4,Met
+T01327,C0158,E0099,Software Installation,High,2026-03-02 12:00,2026-03-02 20:30,Resolved,8.5,5,Breached
+T01328,C0138,E0046,Security Issue,High,2026-01-29 15:00,Null,In Progress,Null,Null,Pending
+T01329,C0050,E0068,Performance Issue,Medium,2025-03-14 13:00,Null,In Progress,Null,Null,Pending
+T01330,C0006,E0055,Login Issue,Medium,2025-05-08 12:00,Null,Escalated,Null,Null,Pending
+T01331,C0113,E0083,Access/Permission,Medium,2025-06-16 06:00,2025-06-16 12:48,Closed,6.8,4,Met
+T01332,C0021,E0062,Software Installation,High,2025-09-19 23:00,2025-09-21 03:30,Resolved,28.5,2,Breached
+T01333,C0026,E0042,Security Issue,Low,2026-06-06 22:00,2026-06-08 15:48,Resolved,41.8,4,Breached
+T01334,C0155,E0011,Data Issue,High,2026-01-13 22:00,2026-01-14 04:18,Resolved,6.3,5,Met
+T01335,C0052,E0046,Login Issue,Low,2026-01-30 13:00,2026-01-30 22:12,Resolved,9.2,4,Met
+T01336,C0105,E0067,Network Issue,Medium,2025-09-06 15:00,2025-09-06 20:48,Resolved,5.8,3,Met
+T01337,C0019,E0042,Login Issue,High,2026-01-06 20:00,2026-01-07 04:42,Resolved,8.7,4,Breached
+T01338,C0122,E0011,Login Issue,Medium,2025-06-01 08:00,Null,In Progress,Null,Null,Pending
+T01339,C0091,E0112,Access/Permission,Medium,2026-04-12 21:00,2026-04-13 08:30,Resolved,11.5,4,Met
+T01340,C0026,E0080,Database Issue,Medium,2025-09-18 07:00,2025-09-19 06:18,Closed,23.3,4,Breached
+T01341,C0125,E0148,Access/Permission,Medium,2026-08-16 21:00,2026-08-17 08:06,Resolved,11.1,4,Met
+T01342,C0123,E0097,Database Issue,Medium,2025-01-13 03:00,Null,In Progress,Null,Null,Pending
+T01343,C0165,E0073,Application Error,Medium,2026-01-29 12:00,2026-01-30 03:42,Closed,15.7,3,Breached
+T01344,C0020,E0002,Access/Permission,High,2025-03-24 16:00,2025-03-25 06:00,Resolved,14,4,Breached
+T01345,C0153,E0080,Network Issue,Medium,2026-03-10 05:00,2026-03-11 08:00,Closed,27,5,Breached
+T01346,C0102,E0097,Software Installation,Low,2025-09-16 22:00,Null,Open,Null,Null,Pending
+T01347,C0131,E0080,Performance Issue,High,2026-05-28 17:00,Null,Escalated,Null,Null,Pending
+T01348,C0163,E0055,Software Installation,Medium,2026-08-24 09:00,2026-08-24 14:30,Resolved,5.5,4,Met
+T01349,C0010,E0062,Software Installation,Medium,2025-04-02 03:00,Null,Escalated,Null,Null,Pending
+T01350,C0089,E0042,Access/Permission,Medium,2025-12-19 04:00,2025-12-19 11:00,Resolved,7,4,Met
+T01351,C0134,E0080,Performance Issue,Low,2025-08-03 23:00,Null,Escalated,Null,Null,Pending
+T01352,C0047,E0067,Software Installation,High,2025-11-12 00:00,2025-11-12 04:18,Resolved,4.3,5,Met
+T01353,C0020,E0131,Database Issue,High,2026-05-19 00:00,2026-05-19 06:30,Resolved,6.5,5,Met
+T01354,C0178,E0067,Application Error,Medium,2025-03-13 22:00,2025-03-14 14:12,Closed,16.2,4,Breached
+T01355,C0041,E0045,Software Installation,Low,2026-06-22 13:00,2026-06-23 15:18,Resolved,26.3,4,Breached
+T01356,C0060,E0073,Performance Issue,Low,2026-03-18 05:00,2026-03-20 09:18,Resolved,52.3,4,Breached
+T01357,C0113,E0148,Database Issue,High,2026-01-19 05:00,Null,In Progress,Null,Null,Pending
+T01358,C0150,E0045,Database Issue,Low,2025-07-22 15:00,2025-07-23 04:54,Resolved,13.9,3,Met
+T01359,C0175,E0141,Database Issue,High,2026-05-30 03:00,2026-05-30 08:18,Closed,5.3,4,Met
+T01360,C0027,E0097,Data Issue,Medium,2026-08-04 06:00,2026-08-04 11:00,Closed,5,4,Met
+T01361,C0063,E0080,Database Issue,Medium,2025-07-25 01:00,2025-07-25 12:54,Closed,11.9,4,Met
+T01362,C0172,E0129,Database Issue,Low,2025-07-16 08:00,2025-07-18 04:48,Resolved,44.8,4,Breached
+T01363,C0131,E0046,Software Installation,High,2026-03-28 20:00,Null,Escalated,Null,Null,Pending
+T01364,C0006,E0006,Access/Permission,Low,2025-04-22 20:00,2025-04-23 13:42,Resolved,17.7,Null,Met
+T01365,C0044,E0031,Database Issue,Medium,2025-03-23 09:00,2025-03-24 09:36,Closed,24.6,4,Breached
+T01366,C0064,E0105,Application Error,High,2026-01-22 03:00,2026-01-22 09:48,Resolved,6.8,4,Met
+T01367,C0057,E0141,Performance Issue,Critical,2025-03-07 10:00,2025-03-07 14:54,Resolved,4.9,4,Breached
+T01368,C0104,E0006,Login Issue,Medium,2026-08-23 07:00,2026-08-23 22:48,Closed,15.8,5,Breached
+T01369,C0030,E0055,Data Issue,Medium,2026-05-12 21:00,Null,Escalated,Null,Null,Pending
+T01370,C0151,E0122,Application Error,Medium,2025-01-10 01:00,2025-01-10 15:06,Closed,14.1,4,Breached
+T01371,C0112,E0046,Performance Issue,Medium,2025-01-08 21:00,Null,Open,Null,Null,Pending
+T01372,C0021,E0067,Access/Permission,Medium,2025-02-12 03:00,2025-02-13 05:30,Resolved,26.5,4,Breached
+T01373,C0171,E0141,Network Issue,Low,2026-06-19 00:00,2026-06-19 21:24,Resolved,21.4,5,Met
+T01374,C0070,E0129,Software Installation,Low,2026-06-17 08:00,Null,In Progress,Null,Null,Pending
+T01375,C0072,E0112,Data Issue,Medium,2026-04-30 10:00,2026-04-30 13:54,Resolved,3.9,3,Met
+T01376,C0020,E0150,Access/Permission,Medium,2026-03-16 10:00,2026-03-16 21:30,Closed,11.5,5,Met
+T01377,C0163,E0112,Security Issue,High,2025-12-18 10:00,2025-12-18 21:54,Closed,11.9,5,Breached
+T01378,C0093,E0141,Network Issue,Medium,2026-01-05 21:00,Null,In Progress,Null,Null,Pending
+T01379,C0148,E0148,Software Installation,Medium,2026-01-23 19:00,2026-01-24 21:18,Resolved,26.3,5,Breached
+T01380,C0179,E0131,Login Issue,Medium,2025-12-31 10:00,2025-12-31 22:54,Resolved,12.9,5,Breached
+T01381,C0008,E0099,Application Error,Low,2025-01-04 14:00,2025-01-05 05:00,Closed,15,5,Met
+T01382,C0157,E0045,Software Installation,Medium,2025-05-23 00:00,2025-05-23 11:54,Closed,11.9,4,Met
+T01383,C0093,E0068,Access/Permission,High,2025-05-06 16:00,Null,Escalated,Null,Null,Pending
+T01384,C0157,E0112,Performance Issue,Low,2025-09-12 11:00,2025-09-12 18:36,Closed,7.6,4,Met
+T01385,C0007,E0112,Data Issue,Medium,2026-05-02 16:00,Null,Escalated,Null,Null,Pending
+T01386,C0028,E0031,Software Installation,High,2025-07-12 00:00,2025-07-12 07:42,Closed,7.7,4,Met
+T01387,C0085,E0062,Security Issue,Medium,2025-01-18 20:00,2025-01-19 01:18,Resolved,5.3,4,Met
+T01388,C0078,E0050,Security Issue,Medium,2025-02-16 23:00,2025-02-17 09:12,Closed,10.2,5,Met
+T01389,C0051,E0080,Security Issue,Medium,2026-03-31 07:00,2026-03-31 20:48,Resolved,13.8,5,Breached
+T01390,C0172,E0002,Access/Permission,Medium,2026-05-12 12:00,2026-05-12 22:48,Resolved,10.8,5,Met
+T01391,C0164,E0002,Access/Permission,High,2025-03-25 11:00,2025-03-26 00:24,Closed,13.4,4,Breached
+T01392,C0035,E0112,Software Installation,Medium,2026-05-03 21:00,2026-05-04 23:54,Resolved,26.9,5,Breached
+T01393,C0031,E0042,Application Error,Low,2026-01-30 09:00,Null,Open,Null,Null,Pending
+T01394,C0028,E0045,Access/Permission,High,2025-07-19 22:00,2025-07-20 05:06,Resolved,7.1,3,Met
+T01395,C0011,E0131,Database Issue,Low,2026-06-17 18:00,Null,In Progress,Null,Null,Pending
+T01396,C0158,E0105,Feature Request,High,2025-02-02 04:00,2025-02-02 16:00,Resolved,12,3,Breached
+T01397,C0165,E0055,Data Issue,Medium,2025-03-31 09:00,2025-04-01 00:24,Closed,15.4,4,Breached
+T01398,C0018,E0150,Feature Request,Low,2026-04-24 05:00,Null,In Progress,Null,Null,Pending
+T01399,C0118,E0129,Data Issue,Low,2025-04-29 15:00,Null,Escalated,Null,Null,Pending
+T01400,C0091,E0006,Feature Request,Medium,2025-09-04 07:00,2025-09-05 02:30,Closed,19.5,3,Breached
+T01401,C0007,E0006,Network Issue,Medium,2025-06-24 21:00,2025-06-25 08:00,Resolved,11,5,Met
+T01402,C0081,E0068,Application Error,Medium,2025-04-19 13:00,2025-04-19 19:42,Closed,6.7,5,Met
+T01403,C0154,E0112,Login Issue,Medium,2025-06-14 10:00,2025-06-15 02:36,Resolved,16.6,4,Breached
+T01404,C0060,E0112,Software Installation,Low,2025-10-15 07:00,2025-10-16 22:00,Closed,39,4,Breached
+T01405,C0129,E0131,Performance Issue,High,2026-05-03 21:00,2026-05-04 01:06,Closed,4.1,4,Met
+T01406,C0074,E0042,Application Error,Medium,2025-05-20 17:00,2025-05-21 10:42,Closed,17.7,5,Breached
+T01407,C0030,E0122,Data Issue,Medium,2025-04-03 22:00,2025-04-05 04:00,Closed,30,4,Breached
+T01408,C0175,E0129,Security Issue,High,2025-08-18 18:00,2025-08-19 10:36,Resolved,16.6,4,Breached
+T01409,C0099,E0011,Access/Permission,Medium,2025-03-08 20:00,2025-03-09 17:00,Resolved,21,3,Breached
+T01410,C0106,E0150,Security Issue,Medium,2026-01-22 22:00,2026-01-23 16:42,Resolved,18.7,4,Breached
+T01411,C0128,E0073,Software Installation,Critical,2026-07-30 13:00,2026-07-31 01:24,Resolved,12.4,5,Breached
+T01412,C0036,E0148,Network Issue,High,2025-08-17 08:00,2025-08-17 22:30,Resolved,14.5,5,Breached
+T01413,C0056,E0011,Application Error,Low,2025-10-25 02:00,Null,Open,Null,Null,Pending
+T01414,C0135,E0041,Application Error,High,2025-04-02 10:00,2025-04-03 04:42,Resolved,18.7,4,Breached
+T01415,C0166,E0129,Access/Permission,Medium,2025-07-12 23:00,2025-07-13 06:30,Closed,7.5,3,Met
+T01416,C0176,E0080,Application Error,Medium,2026-08-10 11:00,2026-08-10 23:42,Closed,12.7,5,Breached
+T01417,C0133,E0050,Database Issue,Low,2025-11-17 12:00,2025-11-18 09:54,Closed,21.9,3,Met
+T01418,C0009,E0011,Access/Permission,Medium,2025-01-02 09:00,2025-01-02 21:12,Resolved,12.2,Null,Breached
+T01419,C0114,E0129,Login Issue,Medium,2026-07-03 06:00,Null,In Progress,Null,Null,Pending
+T01420,C0146,E0099,Software Installation,Low,2026-03-10 10:00,Null,In Progress,Null,Null,Pending
+T01421,C0135,E0129,Security Issue,Medium,2025-05-10 16:00,2025-05-12 11:06,Resolved,43.1,4,Breached
+T01422,C0042,E0068,Access/Permission,Low,2025-08-16 03:00,Null,In Progress,Null,Null,Pending
+T01423,C0139,E0105,Software Installation,Low,2025-01-10 17:00,Null,Escalated,Null,Null,Pending
+T01424,C0117,E0068,Data Issue,High,2025-11-20 04:00,2025-11-20 10:18,Closed,6.3,4,Met
+T01425,C0145,E0112,Performance Issue,High,2025-08-13 15:00,2025-08-13 23:30,Resolved,8.5,5,Breached
+T01426,C0117,E0150,Data Issue,Medium,2025-05-31 19:00,2025-06-01 09:42,Closed,14.7,4,Breached
+T01427,C0123,E0097,Performance Issue,Medium,2025-05-30 23:00,2025-05-31 10:00,Resolved,11,4,Met
+T01428,C0147,E0042,Login Issue,Medium,2025-11-24 09:00,2025-11-24 16:42,Resolved,7.7,3,Met
+T01429,C0162,E0148,Feature Request,High,2025-05-07 08:00,2025-05-07 17:48,Closed,9.8,5,Breached
+T01430,C0108,E0141,Access/Permission,Low,2026-05-05 20:00,2026-05-07 00:30,Resolved,28.5,3,Breached
+T01431,C0006,E0006,Network Issue,Low,2026-05-22 09:00,Null,Escalated,Null,Null,Pending
+T01432,C0124,E0042,Software Installation,High,2025-03-02 10:00,2025-03-02 22:24,Closed,12.4,4,Breached
+T01433,C0055,E0131,Database Issue,Critical,2025-08-04 23:00,2025-08-05 08:48,Resolved,9.8,2,Breached
+T01434,C0002,E0105,Network Issue,Medium,2025-02-23 05:00,Null,In Progress,Null,Null,Pending
+T01435,C0010,E0041,Data Issue,Medium,2026-02-06 09:00,2026-02-06 16:12,Resolved,7.2,3,Met
+T01436,C0021,E0050,Database Issue,High,2025-01-23 17:00,Null,Open,Null,Null,Pending
+T01437,C0109,E0046,Software Installation,Medium,2025-12-12 13:00,Null,In Progress,Null,Null,Pending
+T01438,C0070,E0050,Data Issue,Medium,2025-12-23 12:00,Null,Escalated,Null,Null,Pending
+T01439,C0074,E0122,Software Installation,Medium,2025-03-15 16:00,2025-03-16 00:12,Resolved,8.2,4,Met
+T01440,C0028,E0122,Performance Issue,Medium,2025-10-17 22:00,Null,Escalated,Null,Null,Pending
+T01441,C0151,E0011,Network Issue,Low,2026-07-16 12:00,2026-07-17 19:18,Resolved,31.3,4,Breached
+T01442,C0069,E0099,Application Error,Low,2025-05-15 10:00,Null,Open,Null,Null,Pending
+T01443,C0101,E0129,Access/Permission,Medium,2025-02-25 22:00,2025-02-26 02:54,Closed,4.9,4,Met
+T01444,C0099,E0083,Performance Issue,High,2026-04-14 20:00,2026-04-15 06:12,Resolved,10.2,5,Breached
+T01445,C0028,E0080,Database Issue,Medium,2026-08-15 04:00,2026-08-15 15:42,Resolved,11.7,4,Met
+T01446,C0142,E0105,Data Issue,Medium,2026-05-10 09:00,Null,Escalated,Null,Null,Pending
+T01447,C0061,E0055,Database Issue,Low,2025-08-03 06:00,2025-08-04 06:30,Resolved,24.5,3,Breached
+T01448,C0158,E0055,Network Issue,High,2025-01-10 11:00,Null,Escalated,Null,Null,Pending
+T01449,C0018,E0041,Access/Permission,Medium,2025-04-15 21:00,Null,Open,Null,Null,Pending
+T01450,C0113,E0050,Database Issue,High,2026-01-21 13:00,2026-01-22 00:36,Resolved,11.6,4,Breached
+T01451,C0170,E0141,Database Issue,Medium,2025-02-27 03:00,2025-02-28 13:00,Resolved,34,4,Breached
+T01452,C0128,E0073,Security Issue,Medium,2026-05-01 05:00,2026-05-01 21:24,Resolved,16.4,4,Breached
+T01453,C0106,E0080,Login Issue,High,2025-05-01 16:00,Null,In Progress,Null,Null,Pending
+T01454,C0093,E0080,Security Issue,Low,2026-03-21 04:00,2026-03-21 19:30,Resolved,15.5,4,Met
+T01455,C0089,E0112,Software Installation,Medium,2025-09-08 01:00,Null,In Progress,Null,Null,Pending
+T01456,C0107,E0131,Application Error,High,2025-09-04 12:00,Null,In Progress,Null,Null,Pending
+T01457,C0011,E0011,Data Issue,Critical,2025-11-06 22:00,2025-11-07 03:00,Closed,5,5,Breached
+T01458,C0102,E0129,Access/Permission,Medium,2025-06-26 20:00,2025-06-29 09:42,Resolved,61.7,Null,Breached
+T01459,C0109,E0141,Software Installation,Low,2025-04-02 14:00,2025-04-03 09:54,Resolved,19.9,5,Met
+T01460,C0122,E0050,Software Installation,Medium,2025-10-09 20:00,2025-10-10 21:06,Closed,25.1,5,Breached
+T01461,C0064,E0042,Data Issue,Critical,2026-01-12 00:00,Null,In Progress,Null,Null,Pending
+T01462,C0087,E0080,Application Error,Medium,2025-04-30 02:00,2025-04-30 22:36,Closed,20.6,5,Breached
+T01463,C0176,E0068,Application Error,Medium,2026-05-16 20:00,2026-05-17 04:30,Resolved,8.5,4,Met
+T01464,C0046,E0080,Feature Request,Medium,2025-08-19 00:00,2025-08-20 15:54,Resolved,39.9,5,Breached
+T01465,C0008,E0045,Access/Permission,Low,2026-08-10 18:00,2026-08-12 11:42,Closed,41.7,4,Breached
+T01466,C0177,E0141,Data Issue,Medium,2025-10-08 22:00,2025-10-09 03:30,Closed,5.5,5,Met
+T01467,C0129,E0097,Application Error,Medium,2025-07-05 12:00,Null,In Progress,Null,Null,Pending
+T01468,C0031,E0067,Data Issue,Medium,2026-03-21 09:00,2026-03-21 21:30,Closed,12.5,4,Breached
+T01469,C0049,E0006,Access/Permission,High,2025-05-09 03:00,Null,In Progress,Null,Null,Pending
+T01470,C0103,E0129,Security Issue,Low,2025-03-07 22:00,2025-03-09 04:18,Closed,30.3,5,Breached
+T01471,C0140,E0062,Feature Request,Medium,2025-07-09 12:00,2025-07-10 08:12,Closed,20.2,5,Breached
+T01472,C0081,E0011,Login Issue,Medium,2026-02-08 17:00,2026-02-08 23:36,Closed,6.6,4,Met
+T01473,C0119,E0006,Feature Request,High,2026-06-27 15:00,Null,In Progress,Null,Null,Pending
+T01474,C0029,E0042,Application Error,High,2026-06-16 18:00,2026-06-17 08:42,Resolved,14.7,4,Breached
+T01475,C0163,E0068,Feature Request,Medium,2025-05-08 06:00,2025-05-09 12:24,Resolved,30.4,5,Breached
+T01476,C0098,E0006,Application Error,Medium,2025-07-05 19:00,2025-07-06 01:30,Closed,6.5,3,Met
+T01477,C0175,E0129,Database Issue,High,2025-01-06 17:00,2025-01-07 09:36,Resolved,16.6,4,Breached
+T01478,C0171,E0148,Data Issue,Low,2025-11-18 03:00,Null,In Progress,Null,Null,Pending
+T01479,C0032,E0099,Login Issue,Medium,2025-05-12 18:00,2025-05-13 04:48,Resolved,10.8,4,Met
+T01480,C0156,E0045,Network Issue,Critical,2025-06-15 02:00,2025-06-15 05:24,Resolved,3.4,4,Met
+T01481,C0099,E0073,Feature Request,Low,2025-09-20 01:00,2025-09-21 07:24,Resolved,30.4,3,Breached
+T01482,C0154,E0011,Application Error,High,2025-05-08 16:00,2025-05-08 23:18,Closed,7.3,4,Met
+T01483,C0136,E0097,Performance Issue,Low,2026-01-08 17:00,Null,Open,Null,Null,Pending
+T01484,C0024,E0141,Database Issue,Medium,2026-03-10 21:00,2026-03-11 07:06,Closed,10.1,3,Met
+T01485,C0028,E0141,Login Issue,Medium,2025-09-12 09:00,2025-09-12 15:36,Resolved,6.6,5,Met
+T01486,C0076,E0055,Login Issue,Medium,2026-06-16 09:00,2026-06-16 20:36,Closed,11.6,5,Met
+T01487,C0152,E0042,Feature Request,Medium,2026-04-01 04:00,2026-04-01 21:48,Closed,17.8,5,Breached
+T01488,C0143,E0068,Access/Permission,Medium,2026-05-18 22:00,Null,Escalated,Null,Null,Pending
+T01489,C0094,E0050,Security Issue,High,2026-06-20 11:00,2026-06-21 00:06,Closed,13.1,5,Breached
+T01490,C0042,E0129,Access/Permission,Low,2026-07-06 16:00,2026-07-07 16:54,Resolved,24.9,5,Breached
+T01491,C0118,E0002,Network Issue,High,2025-04-12 21:00,Null,In Progress,Null,Null,Pending
+T01492,C0021,E0080,Login Issue,Critical,2025-08-31 01:00,2025-08-31 04:48,Closed,3.8,3,Met
+T01493,C0113,E0067,Network Issue,Medium,2025-05-26 09:00,Null,In Progress,Null,Null,Pending
+T01494,C0076,E0083,Network Issue,Medium,2025-05-18 19:00,Null,In Progress,Null,Null,Pending
+T01495,C0151,E0068,Feature Request,Low,2025-08-10 18:00,2025-08-11 11:36,Closed,17.6,5,Met
+T01496,C0117,E0046,Security Issue,Medium,2025-10-12 04:00,2025-10-12 11:24,Resolved,7.4,4,Met
+T01497,C0161,E0031,Access/Permission,Medium,2026-03-09 02:00,2026-03-09 09:06,Resolved,7.1,5,Met
+T01498,C0134,E0006,Feature Request,High,2025-09-19 08:00,2025-09-19 17:18,Closed,9.3,3,Breached
+T01499,C0055,E0068,Software Installation,Medium,2025-06-17 12:00,2025-06-18 02:42,Resolved,14.7,4,Breached
+T01500,C0061,E0150,Data Issue,Low,2025-03-27 08:00,2025-03-27 22:18,Resolved,14.3,4,Met
+T01501,C0089,E0129,Software Installation,Medium,2025-05-27 17:00,Null,Escalated,Null,Null,Pending
+T01502,C0140,E0141,Network Issue,High,2025-03-14 20:00,2025-03-14 23:54,Resolved,3.9,5,Met
+T01503,C0126,E0097,Performance Issue,High,2025-07-17 22:00,Null,Escalated,Null,Null,Pending
+T01504,C0047,E0067,Security Issue,Medium,2026-08-01 21:00,2026-08-03 00:42,Closed,27.7,3,Breached
+T01505,C0139,E0105,Feature Request,Medium,2025-06-17 13:00,Null,Escalated,Null,Null,Pending
+T01506,C0013,E0099,Database Issue,Medium,2025-11-20 13:00,Null,In Progress,Null,Null,Pending
+T01507,C0076,E0031,Software Installation,Low,2025-01-27 19:00,2025-01-29 19:36,Closed,48.6,3,Breached
+T01508,C0005,E0099,Network Issue,Medium,2025-03-21 08:00,2025-03-21 19:48,Resolved,11.8,5,Met
+T01509,C0143,E0042,Application Error,High,2026-06-29 03:00,2026-06-29 10:42,Closed,7.7,5,Met
+T01510,C0113,E0129,Feature Request,Medium,2026-02-21 02:00,2026-02-21 20:00,Resolved,18,3,Breached
+T01511,C0180,E0041,Security Issue,Low,2025-04-02 11:00,2025-04-03 03:12,Resolved,16.2,5,Met
+T01512,C0053,E0055,Security Issue,Medium,2025-10-07 04:00,2025-10-07 13:24,Resolved,9.4,4,Met
+T01513,C0019,E0062,Network Issue,Medium,2025-10-08 00:00,2025-10-09 05:18,Closed,29.3,4,Breached
+T01514,C0133,E0131,Application Error,Medium,2026-01-22 07:00,Null,In Progress,Null,Null,Pending
+T01515,C0059,E0041,Software Installation,Low,2025-04-18 03:00,Null,Escalated,Null,Null,Pending
+T01516,C0046,E0045,Database Issue,Medium,2026-06-24 23:00,2026-06-25 07:48,Closed,8.8,5,Met
+T01517,C0061,E0055,Performance Issue,Low,2026-05-17 03:00,2026-05-19 11:24,Closed,56.4,5,Breached
+T01518,C0178,E0073,Feature Request,High,2025-12-24 22:00,2025-12-25 07:06,Resolved,9.1,4,Breached
+T01519,C0081,E0006,Access/Permission,Medium,2025-10-16 17:00,2025-10-17 14:00,Closed,21,4,Breached
+T01520,C0135,E0073,Performance Issue,Critical,2025-04-12 01:00,2025-04-12 08:48,Resolved,7.8,4,Breached
+T01521,C0071,E0150,Database Issue,Critical,2025-11-22 12:00,2025-11-22 15:06,Resolved,3.1,5,Met
+T01522,C0101,E0148,Database Issue,Medium,2025-12-20 23:00,2025-12-21 18:18,Resolved,19.3,4,Breached
+T01523,C0062,E0131,Feature Request,Critical,2026-07-19 19:00,2026-07-19 23:12,Resolved,4.2,5,Breached
+T01524,C0006,E0073,Software Installation,Low,2026-05-04 18:00,2026-05-05 05:48,Closed,11.8,5,Met
+T01525,C0116,E0055,Database Issue,Medium,2025-09-23 00:00,2025-09-23 10:54,Closed,10.9,5,Met
+T01526,C0024,E0122,Feature Request,High,2025-06-09 21:00,Null,In Progress,Null,Null,Pending
+T01527,C0160,E0050,Database Issue,Medium,2025-05-27 12:00,Null,Open,Null,Null,Pending
+T01528,C0161,E0073,Access/Permission,Medium,2025-10-01 01:00,Null,Escalated,Null,Null,Pending
+T01529,C0124,E0067,Security Issue,High,2025-09-13 21:00,Null,Open,Null,Null,Pending
+T01530,C0111,E0062,Access/Permission,Medium,2026-03-05 22:00,2026-03-06 16:12,Resolved,18.2,5,Breached
+T01531,C0145,E0122,Data Issue,Low,2025-07-07 14:00,2025-07-08 15:30,Resolved,25.5,4,Breached
+T01532,C0041,E0122,Security Issue,Medium,2026-04-25 16:00,Null,Escalated,Null,Null,Pending
+T01533,C0059,E0062,Performance Issue,High,2025-10-10 13:00,2025-10-10 15:06,Closed,2.1,3,Met
+T01534,C0036,E0150,Feature Request,Medium,2025-08-23 09:00,2025-08-23 13:24,Closed,4.4,4,Met
+T01535,C0076,E0080,Application Error,Medium,2025-11-09 13:00,Null,In Progress,Null,Null,Pending
+T01536,C0031,E0150,Security Issue,Low,2025-04-03 20:00,Null,Escalated,Null,Null,Pending
+T01537,C0113,E0112,Application Error,Medium,2025-03-20 23:00,2025-03-21 09:18,Resolved,10.3,4,Met
+T01538,C0026,E0080,Network Issue,Low,2025-04-06 05:00,2025-04-08 07:06,Closed,50.1,3,Breached
+T01539,C0153,E0129,Access/Permission,Critical,2025-02-28 02:00,2025-02-28 07:54,Closed,5.9,4,Breached
+T01540,C0077,E0068,Performance Issue,Low,2026-07-22 15:00,2026-07-24 16:12,Resolved,49.2,5,Breached
+T01541,C0146,E0011,Login Issue,High,2026-03-11 21:00,2026-03-12 02:12,Resolved,5.2,4,Met
+T01542,C0024,E0050,Feature Request,Medium,2025-05-20 15:00,2025-05-21 10:18,Closed,19.3,4,Breached
+T01543,C0103,E0080,Data Issue,Medium,2026-06-12 21:00,Null,In Progress,Null,Null,Pending
+T01544,C0031,E0148,Feature Request,Medium,2025-05-08 12:00,2025-05-09 00:36,Resolved,12.6,4,Breached
+T01545,C0060,E0041,Login Issue,Critical,2025-07-14 23:00,Null,Open,Null,Null,Pending
+T01546,C0150,E0055,Login Issue,High,2026-03-12 22:00,2026-03-13 11:42,Closed,13.7,3,Breached
+T01547,C0146,E0067,Feature Request,High,2025-12-20 07:00,2025-12-20 16:54,Closed,9.9,5,Breached
+T01548,C0169,E0042,Feature Request,Low,2025-02-13 19:00,2025-02-16 01:54,Closed,54.9,4,Breached
+T01549,C0037,E0067,Data Issue,Medium,2025-06-22 21:00,Null,Escalated,Null,Null,Pending
+T01550,C0125,E0097,Feature Request,Low,2025-08-19 05:00,2025-08-19 13:54,Resolved,8.9,5,Met
+T01551,C0079,E0067,Application Error,High,2026-01-11 04:00,2026-01-11 08:54,Closed,4.9,3,Met
+T01552,C0058,E0099,Feature Request,Medium,2025-12-28 01:00,Null,In Progress,Null,Null,Pending
+T01553,C0157,E0062,Software Installation,High,2026-05-23 12:00,2026-05-23 17:30,Resolved,5.5,3,Met
+T01554,C0072,E0062,Database Issue,Low,2026-01-18 03:00,2026-01-20 19:24,Resolved,64.4,5,Breached
+T01555,C0035,E0073,Security Issue,Medium,2025-09-13 17:00,2025-09-14 00:06,Closed,7.1,4,Met
+T01556,C0004,E0105,Application Error,High,2025-10-25 09:00,Null,Escalated,Null,Null,Pending
+T01557,C0064,E0073,Data Issue,High,2025-10-28 08:00,2025-10-28 14:06,Resolved,6.1,5,Met
+T01558,C0031,E0083,Network Issue,Medium,2025-01-03 23:00,2025-01-04 11:30,Closed,12.5,4,Breached
+T01559,C0101,E0097,Access/Permission,Medium,2026-02-08 06:00,2026-02-08 21:18,Resolved,15.3,4,Breached
+T01560,C0046,E0150,Performance Issue,Low,2026-06-12 01:00,2026-06-13 11:48,Resolved,34.8,2,Breached
+T01561,C0034,E0141,Data Issue,High,2026-05-15 01:00,2026-05-15 05:42,Resolved,4.7,3,Met
+T01562,C0111,E0073,Security Issue,Medium,2025-01-07 19:00,Null,Escalated,Null,Null,Pending
+T01563,C0169,E0122,Data Issue,High,2025-12-03 09:00,2025-12-04 09:36,Resolved,24.6,4,Breached
+T01564,C0011,E0129,Security Issue,Medium,2025-04-20 00:00,2025-04-21 00:42,Resolved,24.7,4,Breached
+T01565,C0156,E0112,Security Issue,Medium,2025-07-10 12:00,2025-07-11 02:36,Closed,14.6,5,Breached
+T01566,C0132,E0150,Security Issue,Medium,2025-01-10 03:00,2025-01-10 16:12,Resolved,13.2,4,Breached
+T01567,C0126,E0045,Software Installation,Medium,2026-05-19 06:00,Null,Open,Null,Null,Pending
+T01568,C0114,E0068,Application Error,High,2026-06-26 16:00,2026-06-27 07:18,Resolved,15.3,4,Breached
+T01569,C0174,E0141,Database Issue,Medium,2026-02-25 03:00,2026-02-25 18:24,Closed,15.4,4,Breached
+T01570,C0051,E0041,Data Issue,Low,2025-01-08 04:00,Null,Open,Null,Null,Pending
+T01571,C0076,E0150,Performance Issue,Low,2025-08-20 15:00,Null,In Progress,Null,Null,Pending
+T01572,C0129,E0150,Software Installation,Critical,2026-01-19 09:00,2026-01-19 12:54,Resolved,3.9,3,Met
+T01573,C0001,E0083,Security Issue,Low,2026-03-15 05:00,Null,In Progress,Null,Null,Pending
+T01574,C0112,E0141,Feature Request,Medium,2025-10-03 03:00,2025-10-03 15:00,Closed,12,4,Met
+T01575,C0011,E0042,Data Issue,Medium,2026-03-26 05:00,2026-03-27 05:12,Resolved,24.2,3,Breached
+T01576,C0066,E0112,Database Issue,High,2025-12-29 23:00,2025-12-30 15:36,Resolved,16.6,5,Breached
+T01577,C0056,E0062,Software Installation,Low,2025-01-06 11:00,2025-01-07 13:00,Closed,26,4,Breached
+T01578,C0135,E0131,Network Issue,Medium,2025-04-24 06:00,2025-04-25 13:24,Closed,31.4,4,Breached
+T01579,C0106,E0055,Performance Issue,Medium,2025-02-11 04:00,2025-02-11 10:48,Resolved,6.8,5,Met
+T01580,C0092,E0099,Software Installation,Medium,2026-03-08 23:00,2026-03-09 11:18,Closed,12.3,5,Breached
+T01581,C0049,E0002,Security Issue,Medium,2025-02-02 05:00,2025-02-02 15:12,Resolved,10.2,5,Met
+T01582,C0147,E0099,Network Issue,Medium,2026-05-06 21:00,2026-05-08 11:00,Resolved,38,4,Breached
+T01583,C0136,E0105,Performance Issue,Medium,2025-05-02 13:00,Null,Escalated,Null,Null,Pending
+T01584,C0168,E0131,Data Issue,Critical,2026-07-18 15:00,Null,In Progress,Null,Null,Pending
+T01585,C0164,E0150,Database Issue,High,2025-11-29 12:00,Null,In Progress,Null,Null,Pending
+T01586,C0083,E0031,Feature Request,Medium,2026-02-03 04:00,2026-02-03 09:54,Closed,5.9,4,Met
+T01587,C0180,E0080,Application Error,Low,2025-04-21 00:00,2025-04-22 08:00,Closed,32,4,Breached
+T01588,C0098,E0045,Database Issue,High,2025-06-09 11:00,Null,Escalated,Null,Null,Pending
+T01589,C0153,E0050,Feature Request,Medium,2025-01-14 21:00,2025-01-15 20:06,Resolved,23.1,4,Breached
+T01590,C0063,E0050,Network Issue,High,2025-02-23 21:00,2025-02-24 04:42,Closed,7.7,4,Met
+T01591,C0087,E0083,Security Issue,Medium,2026-03-16 19:00,2026-03-17 14:42,Closed,19.7,4,Breached
+T01592,C0049,E0150,Login Issue,Medium,2026-03-21 15:00,2026-03-21 22:12,Closed,7.2,5,Met
+T01593,C0045,E0073,Performance Issue,Low,2025-10-16 15:00,2025-10-18 17:24,Resolved,50.4,4,Breached
+T01594,C0026,E0041,Application Error,Medium,2026-03-16 07:00,Null,Open,Null,Null,Pending
+T01595,C0071,E0141,Access/Permission,High,2025-06-06 23:00,2025-06-07 11:06,Resolved,12.1,5,Breached
+T01596,C0117,E0141,Feature Request,Low,2025-07-11 07:00,2025-07-13 16:48,Closed,57.8,4,Breached
+T01597,C0111,E0099,Performance Issue,Medium,2025-04-28 08:00,2025-04-28 16:06,Resolved,8.1,5,Met
+T01598,C0128,E0131,Network Issue,Medium,2026-03-16 06:00,Null,In Progress,Null,Null,Pending
+T01599,C0060,E0141,Data Issue,Critical,2025-04-16 22:00,Null,Escalated,Null,Null,Pending
+T01600,C0071,E0006,Feature Request,Medium,2025-07-05 06:00,2025-07-06 06:24,Closed,24.4,5,Breached
+T01601,C0136,E0150,Access/Permission,High,2025-06-02 07:00,2025-06-02 15:30,Resolved,8.5,5,Breached
+T01602,C0141,E0148,Application Error,Medium,2025-05-16 12:00,2025-05-16 18:06,Resolved,6.1,3,Met
+T01603,C0045,E0105,Login Issue,Critical,2025-10-08 06:00,2025-10-08 11:24,Closed,5.4,5,Breached
+T01604,C0173,E0062,Database Issue,High,2026-03-13 00:00,2026-03-13 11:06,Resolved,11.1,3,Breached
+T01605,C0097,E0080,Access/Permission,High,2025-07-24 02:00,2025-07-24 09:12,Resolved,7.2,4,Met
+T01606,C0016,E0068,Login Issue,High,2026-01-25 13:00,Null,In Progress,Null,Null,Pending
+T01607,C0167,E0080,Feature Request,Medium,2025-11-10 22:00,Null,In Progress,Null,Null,Pending
+T01608,C0040,E0148,Network Issue,Medium,2025-08-16 10:00,Null,Open,Null,Null,Pending
+T01609,C0131,E0031,Software Installation,Medium,2026-05-06 01:00,2026-05-06 17:48,Closed,16.8,3,Breached
+T01610,C0115,E0041,Feature Request,High,2026-03-14 20:00,2026-03-15 03:12,Resolved,7.2,4,Met
+T01611,C0050,E0083,Login Issue,Medium,2025-11-08 03:00,Null,In Progress,Null,Null,Pending
+T01612,C0114,E0062,Performance Issue,Medium,2026-01-08 08:00,2026-01-08 20:54,Resolved,12.9,4,Breached
+T01613,C0108,E0141,Security Issue,Medium,2026-03-05 07:00,2026-03-05 22:00,Closed,15,5,Breached
+T01614,C0059,E0105,Security Issue,Medium,2025-02-18 05:00,2025-02-19 06:24,Resolved,25.4,4,Breached
+T01615,C0028,E0129,Login Issue,Low,2025-01-01 01:00,2025-01-03 03:54,Resolved,50.9,3,Breached
+T01616,C0172,E0083,Security Issue,Critical,2025-08-06 09:00,2025-08-06 12:00,Closed,3,4,Met
+T01617,C0118,E0055,Data Issue,Medium,2025-10-14 19:00,Null,Escalated,Null,Null,Pending
+T01618,C0001,E0148,Application Error,Critical,2026-03-18 05:00,2026-03-18 16:42,Closed,11.7,4,Breached
+T01619,C0006,E0122,Performance Issue,Low,2026-05-19 11:00,2026-05-20 00:12,Closed,13.2,4,Met
+T01620,C0082,E0097,Security Issue,High,2025-11-08 03:00,2025-11-08 06:54,Resolved,3.9,4,Met
+T01621,C0153,E0006,Application Error,Medium,2025-01-14 21:00,2025-01-15 03:42,Resolved,6.7,4,Met
+T01622,C0180,E0105,Feature Request,Medium,2025-05-14 10:00,2025-05-15 04:48,Closed,18.8,5,Breached
+T01623,C0168,E0046,Security Issue,Low,2026-01-06 23:00,Null,Escalated,Null,Null,Pending
+T01624,C0107,E0046,Access/Permission,Critical,2026-06-26 19:00,2026-06-26 22:24,Closed,3.4,5,Met
+T01625,C0067,E0141,Security Issue,Low,2025-09-01 20:00,2025-09-02 13:06,Closed,17.1,4,Met
+T01626,C0059,E0046,Performance Issue,Medium,2025-08-04 18:00,2025-08-04 23:24,Resolved,5.4,5,Met
+T01627,C0164,E0062,Software Installation,High,2025-03-31 03:00,Null,Open,Null,Null,Pending
+T01628,C0034,E0080,Database Issue,Low,2025-05-04 01:00,2025-05-04 20:30,Closed,19.5,3,Met
+T01629,C0048,E0099,Access/Permission,Low,2025-07-15 06:00,2025-07-16 07:48,Closed,25.8,Null,Breached
+T01630,C0156,E0148,Data Issue,High,2025-04-12 02:00,Null,Open,Null,Null,Pending
+T01631,C0123,E0045,Feature Request,High,2025-12-18 09:00,2025-12-18 18:36,Closed,9.6,5,Breached
+T01632,C0144,E0042,Data Issue,Low,2025-07-26 17:00,2025-07-27 05:36,Closed,12.6,4,Met
+T01633,C0089,E0141,Database Issue,Medium,2025-02-14 04:00,Null,Escalated,Null,Null,Pending
+T01634,C0010,E0097,Network Issue,High,2026-03-05 17:00,2026-03-06 06:12,Closed,13.2,5,Breached
+T01635,C0064,E0055,Performance Issue,Medium,2026-07-28 11:00,2026-07-28 19:18,Resolved,8.3,4,Met
+T01636,C0111,E0105,Security Issue,Low,2026-04-05 20:00,2026-04-06 10:24,Closed,14.4,4,Met
+T01637,C0015,E0105,Application Error,Critical,2026-03-23 02:00,2026-03-23 05:00,Resolved,3,5,Met
+T01638,C0074,E0150,Data Issue,Low,2026-03-06 16:00,2026-03-07 10:12,Resolved,18.2,4,Met
+T01639,C0103,E0131,Feature Request,Low,2025-01-23 05:00,2025-01-23 20:18,Closed,15.3,5,Met
+T01640,C0106,E0055,Access/Permission,Medium,2025-10-08 22:00,Null,Open,Null,Null,Pending
+T01641,C0029,E0067,Database Issue,High,2025-10-24 01:00,2025-10-24 06:30,Resolved,5.5,4,Met
+T01642,C0169,E0068,Access/Permission,Medium,2025-03-04 22:00,2025-03-06 06:00,Resolved,32,4,Breached
+T01643,C0062,E0150,Network Issue,Low,2026-02-12 15:00,Null,Escalated,Null,Null,Pending
+T01644,C0057,E0068,Feature Request,Low,2026-06-10 02:00,Null,Escalated,Null,Null,Pending
+T01645,C0141,E0083,Database Issue,High,2026-03-25 16:00,Null,Escalated,Null,Null,Pending
+T01646,C0029,E0067,Software Installation,Medium,2026-07-30 12:00,Null,In Progress,Null,Null,Pending
+T01647,C0102,E0080,Software Installation,Low,2025-10-06 06:00,2025-10-06 18:06,Resolved,12.1,4,Met
+T01648,C0130,E0122,Database Issue,High,2025-01-04 05:00,2025-01-04 15:42,Closed,10.7,4,Breached
+T01649,C0155,E0031,Access/Permission,High,2025-08-12 18:00,2025-08-12 21:18,Closed,3.3,4,Met
+T01650,C0028,E0006,Login Issue,High,2026-06-10 14:00,Null,In Progress,Null,Null,Pending
+T01651,C0108,E0062,Feature Request,Medium,2026-06-22 08:00,Null,Open,Null,Null,Pending
+T01652,C0145,E0129,Performance Issue,Critical,2025-08-14 09:00,Null,Open,Null,Null,Pending
+T01653,C0038,E0042,Performance Issue,Low,2026-07-20 03:00,2026-07-21 08:06,Closed,29.1,4,Breached
+T01654,C0061,E0031,Database Issue,High,2025-08-18 01:00,Null,Escalated,Null,Null,Pending
+T01655,C0161,E0073,Feature Request,Medium,2025-09-01 09:00,2025-09-01 19:48,Closed,10.8,4,Met
+T01656,C0161,E0067,Login Issue,Medium,2025-06-01 08:00,2025-06-01 20:48,Closed,12.8,5,Breached
+T01657,C0042,E0031,Database Issue,Critical,2025-10-04 01:00,Null,Escalated,Null,Null,Pending
+T01658,C0082,E0011,Network Issue,Critical,2025-08-04 17:00,2025-08-05 02:12,Resolved,9.2,4,Breached
+T01659,C0067,E0041,Application Error,High,2025-01-02 20:00,2025-01-03 02:12,Closed,6.2,4,Met
+T01660,C0064,E0006,Security Issue,High,2026-01-13 10:00,2026-01-13 20:00,Closed,10,5,Breached
+T01661,C0061,E0112,Application Error,High,2026-07-17 08:00,Null,Open,Null,Null,Pending
+T01662,C0166,E0112,Database Issue,Medium,2026-02-23 19:00,2026-02-24 03:48,Closed,8.8,4,Met
+T01663,C0174,E0073,Performance Issue,Medium,2025-11-29 01:00,2025-11-29 14:00,Closed,13,5,Breached
+T01664,C0133,E0097,Login Issue,Medium,2025-12-31 07:00,2026-01-01 06:42,Closed,23.7,4,Breached
+T01665,C0160,E0148,Performance Issue,Critical,2025-06-30 08:00,Null,Escalated,Null,Null,Pending
+T01666,C0114,E0006,Login Issue,Medium,2026-07-05 21:00,2026-07-06 12:24,Closed,15.4,5,Breached
+T01667,C0069,E0097,Access/Permission,Medium,2025-04-19 23:00,2025-04-20 14:30,Closed,15.5,4,Breached
+T01668,C0118,E0031,Software Installation,High,2025-09-21 20:00,2025-09-22 06:54,Resolved,10.9,2,Breached
+T01669,C0055,E0150,Access/Permission,Medium,2026-07-19 06:00,2026-07-19 14:12,Resolved,8.2,3,Met
+T01670,C0113,E0068,Data Issue,Medium,2025-08-14 10:00,2025-08-14 18:42,Closed,8.7,4,Met
+T01671,C0126,E0045,Performance Issue,Low,2025-07-28 18:00,2025-07-29 02:24,Resolved,8.4,5,Met
+T01672,C0134,E0112,Software Installation,Low,2025-06-09 14:00,2025-06-11 14:54,Resolved,48.9,3,Breached
+T01673,C0082,E0083,Network Issue,Low,2026-03-21 11:00,2026-03-22 17:06,Closed,30.1,4,Breached
+T01674,C0016,E0131,Database Issue,Low,2026-05-06 02:00,2026-05-06 20:24,Resolved,18.4,5,Met
+T01675,C0071,E0002,Data Issue,High,2025-07-05 14:00,2025-07-05 21:24,Resolved,7.4,4,Met
+T01676,C0070,E0122,Database Issue,Medium,2025-06-30 06:00,2025-06-30 14:42,Closed,8.7,5,Met
+T01677,C0142,E0150,Access/Permission,Medium,2026-05-18 23:00,2026-05-19 04:00,Resolved,5,4,Met
+T01678,C0171,E0150,Database Issue,Medium,2025-10-16 00:00,2025-10-16 16:42,Resolved,16.7,4,Breached
+T01679,C0003,E0050,Performance Issue,High,2025-06-16 05:00,2025-06-16 13:42,Closed,8.7,5,Breached
+T01680,C0017,E0002,Software Installation,Medium,2025-07-12 02:00,2025-07-12 14:36,Closed,12.6,4,Breached
+T01681,C0158,E0068,Database Issue,Low,2025-03-15 13:00,2025-03-16 04:48,Closed,15.8,3,Met
+T01682,C0014,E0046,Network Issue,High,2026-04-11 20:00,2026-04-11 22:24,Resolved,2.4,4,Met
+T01683,C0036,E0011,Software Installation,Critical,2025-04-13 23:00,Null,Open,Null,Null,Pending
+T01684,C0093,E0062,Feature Request,High,2025-05-21 23:00,Null,Escalated,Null,Null,Pending
+T01685,C0163,E0150,Login Issue,High,2025-04-13 12:00,2025-04-14 00:00,Closed,12,3,Breached
+T01686,C0128,E0046,Software Installation,Medium,2025-01-22 03:00,2025-01-23 07:30,Resolved,28.5,5,Breached
+T01687,C0115,E0046,Login Issue,High,2025-02-14 04:00,Null,Escalated,Null,Null,Pending
+T01688,C0064,E0046,Network Issue,High,2025-03-27 08:00,2025-03-27 18:12,Closed,10.2,3,Breached
+T01689,C0006,E0112,Database Issue,Low,2025-01-14 00:00,Null,Open,Null,Null,Pending
+T01690,C0031,E0129,Application Error,Medium,2026-07-10 23:00,Null,In Progress,Null,Null,Pending
+T01691,C0117,E0073,Security Issue,Medium,2025-03-29 06:00,2025-03-29 19:36,Resolved,13.6,4,Breached
+T01692,C0122,E0150,Database Issue,Low,2026-05-07 18:00,Null,Open,Null,Null,Pending
+T01693,C0108,E0042,Data Issue,High,2025-06-17 09:00,2025-06-17 18:54,Resolved,9.9,5,Breached
+T01694,C0135,E0080,Security Issue,Medium,2026-05-06 04:00,2026-05-06 10:18,Closed,6.3,4,Met
+T01695,C0038,E0006,Network Issue,Medium,2025-02-27 17:00,2025-02-28 00:12,Resolved,7.2,5,Met
+T01696,C0039,E0041,Performance Issue,Medium,2026-07-11 03:00,2026-07-11 14:42,Resolved,11.7,4,Met
+T01697,C0067,E0129,Login Issue,Medium,2025-02-15 03:00,2025-02-15 13:00,Closed,10,4,Met
+T01698,C0153,E0150,Feature Request,Low,2025-10-31 03:00,2025-11-02 15:30,Resolved,60.5,4,Breached
+T01699,C0149,E0122,Feature Request,Medium,2026-03-02 04:00,2026-03-02 15:18,Closed,11.3,4,Met
+T01700,C0023,E0042,Login Issue,High,2025-08-18 00:00,2025-08-18 06:06,Resolved,6.1,4,Met
+T01701,C0020,E0062,Network Issue,High,2026-03-14 12:00,2026-03-14 16:54,Resolved,4.9,4,Met
+T01702,C0136,E0011,Database Issue,Medium,2025-12-28 20:00,2025-12-29 09:54,Closed,13.9,5,Breached
+T01703,C0170,E0141,Performance Issue,Low,2025-08-20 21:00,Null,Open,Null,Null,Pending
+T01704,C0177,E0148,Software Installation,Low,2025-04-26 15:00,2025-04-28 07:36,Closed,40.6,4,Breached
+T01705,C0003,E0002,Database Issue,Medium,2025-04-23 07:00,2025-04-23 20:36,Closed,13.6,4,Breached
+T01706,C0103,E0042,Application Error,High,2025-10-16 11:00,2025-10-16 14:42,Closed,3.7,5,Met
+T01707,C0048,E0067,Application Error,Medium,2025-12-08 03:00,2025-12-08 23:30,Closed,20.5,4,Breached
+T01708,C0119,E0148,Security Issue,Medium,2025-03-28 01:00,2025-03-28 17:24,Closed,16.4,4,Breached
+T01709,C0053,E0129,Access/Permission,High,2025-06-04 05:00,2025-06-04 10:36,Resolved,5.6,4,Met
+T01710,C0123,E0141,Software Installation,Medium,2026-06-28 10:00,Null,In Progress,Null,Null,Pending
+T01711,C0127,E0097,Access/Permission,Critical,2025-07-05 21:00,2025-07-05 23:00,Resolved,2,4,Met
+T01712,C0121,E0002,Software Installation,Low,2025-06-03 21:00,2025-06-04 13:36,Closed,16.6,4,Met
+T01713,C0119,E0150,Performance Issue,Low,2025-10-21 11:00,2025-10-25 11:00,Resolved,96,4,Breached
+T01714,C0147,E0062,Application Error,Medium,2025-10-05 15:00,2025-10-05 21:42,Resolved,6.7,5,Met
+T01715,C0153,E0045,Security Issue,Low,2025-09-29 22:00,2025-10-01 10:06,Closed,36.1,3,Breached
+T01716,C0124,E0122,Application Error,Critical,2025-01-03 04:00,2025-01-03 06:00,Closed,2,4,Met
+T01717,C0178,E0041,Database Issue,Medium,2025-11-24 04:00,2025-11-24 12:36,Resolved,8.6,4,Met
+T01718,C0099,E0129,Software Installation,Low,2026-04-03 23:00,Null,Escalated,Null,Null,Pending
+T01719,C0059,E0046,Data Issue,High,2025-03-10 03:00,2025-03-10 13:00,Resolved,10,4,Breached
+T01720,C0174,E0068,Access/Permission,Medium,2026-03-14 23:00,2026-03-15 06:12,Closed,7.2,5,Met
+T01721,C0068,E0067,Performance Issue,High,2025-05-29 02:00,2025-05-29 08:30,Closed,6.5,5,Met
+T01722,C0020,E0002,Security Issue,Medium,2025-05-11 05:00,2025-05-11 16:06,Resolved,11.1,4,Met
+T01723,C0127,E0141,Software Installation,Medium,2025-12-28 10:00,2025-12-28 15:06,Closed,5.1,5,Met
+T01724,C0057,E0122,Data Issue,High,2026-03-11 15:00,2026-03-12 06:36,Resolved,15.6,5,Breached
+T01725,C0147,E0062,Software Installation,High,2025-12-08 04:00,2025-12-08 10:30,Resolved,6.5,3,Met
+T01726,C0113,E0105,Network Issue,Low,2026-01-28 13:00,2026-01-30 06:00,Resolved,41,5,Breached
+T01727,C0117,E0099,Feature Request,Medium,2026-05-25 17:00,2026-05-25 23:48,Closed,6.8,5,Met
+T01728,C0032,E0046,Feature Request,Medium,2026-05-20 17:00,Null,In Progress,Null,Null,Pending
+T01729,C0097,E0006,Feature Request,Medium,2025-08-24 12:00,2025-08-24 13:06,Resolved,1.1,4,Met
+T01730,C0003,E0067,Application Error,Medium,2026-08-18 22:00,2026-08-19 10:48,Resolved,12.8,4,Breached
+T01731,C0154,E0112,Software Installation,Medium,2026-06-24 18:00,Null,Escalated,Null,Null,Pending
+T01732,C0150,E0099,Network Issue,Low,2025-03-31 07:00,2025-04-01 02:24,Closed,19.4,5,Met
+T01733,C0091,E0141,Security Issue,High,2025-01-03 06:00,Null,Open,Null,Null,Pending
+T01734,C0053,E0041,Login Issue,Medium,2026-01-07 17:00,2026-01-08 08:24,Resolved,15.4,4,Breached
+T01735,C0127,E0148,Data Issue,Critical,2025-05-17 03:00,Null,In Progress,Null,Null,Pending
+T01736,C0176,E0045,Login Issue,Medium,2025-12-24 11:00,Null,Escalated,Null,Null,Pending
+T01737,C0135,E0083,Database Issue,Medium,2025-10-29 14:00,2025-10-30 03:00,Resolved,13,5,Breached
+T01738,C0177,E0031,Database Issue,Low,2026-07-19 13:00,2026-07-20 04:24,Closed,15.4,3,Met
+T01739,C0010,E0073,Network Issue,Medium,2025-08-04 07:00,2025-08-04 18:36,Resolved,11.6,4,Met
+T01740,C0032,E0148,Login Issue,High,2025-05-22 03:00,2025-05-22 09:54,Resolved,6.9,4,Met
+T01741,C0061,E0148,Database Issue,Low,2026-01-22 23:00,2026-01-23 14:00,Closed,15,4,Met
+T01742,C0036,E0067,Login Issue,Medium,2026-03-11 11:00,Null,In Progress,Null,Null,Pending
+T01743,C0177,E0150,Login Issue,High,2025-04-19 21:00,2025-04-20 02:00,Resolved,5,4,Met
+T01744,C0036,E0073,Access/Permission,Low,2025-03-17 15:00,2025-03-19 13:30,Closed,46.5,5,Breached
+T01745,C0148,E0006,Access/Permission,Medium,2025-06-11 00:00,Null,Open,Null,Null,Pending
+T01746,C0139,E0062,Database Issue,Medium,2026-01-10 04:00,2026-01-11 06:30,Closed,26.5,3,Breached
+T01747,C0013,E0050,Application Error,Medium,2025-09-08 02:00,2025-09-08 08:42,Resolved,6.7,4,Met
+T01748,C0126,E0141,Login Issue,Low,2026-08-06 13:00,2026-08-07 05:54,Resolved,16.9,4,Met
+T01749,C0146,E0141,Database Issue,High,2025-07-06 15:00,2025-07-06 20:36,Closed,5.6,4,Met
+T01750,C0108,E0041,Database Issue,High,2026-06-25 22:00,2026-06-26 06:00,Closed,8,4,Met
+T01751,C0024,E0105,Performance Issue,Medium,2026-04-27 13:00,2026-04-27 19:42,Resolved,6.7,4,Met
+T01752,C0124,E0131,Security Issue,Medium,2026-03-31 20:00,2026-04-01 03:30,Resolved,7.5,5,Met
+T01753,C0083,E0073,Login Issue,Medium,2025-10-21 03:00,Null,In Progress,Null,Null,Pending
+T01754,C0113,E0148,Database Issue,Low,2025-03-03 20:00,2025-03-05 07:06,Resolved,35.1,3,Breached
+T01755,C0009,E0067,Login Issue,Medium,2025-06-27 16:00,2025-06-29 06:54,Closed,38.9,4,Breached
+T01756,C0157,E0050,Database Issue,Low,2025-01-12 12:00,Null,In Progress,Null,Null,Pending
+T01757,C0136,E0122,Software Installation,High,2026-04-11 17:00,2026-04-11 22:18,Closed,5.3,3,Met
+T01758,C0034,E0080,Performance Issue,Critical,2026-08-09 16:00,2026-08-09 21:42,Resolved,5.7,4,Breached
+T01759,C0039,E0045,Performance Issue,High,2025-08-21 13:00,2025-08-21 17:48,Resolved,4.8,5,Met
+T01760,C0038,E0141,Database Issue,Low,2025-10-06 02:00,2025-10-06 22:24,Closed,20.4,4,Met
+T01761,C0080,E0122,Feature Request,Medium,2026-01-22 04:00,2026-01-22 15:48,Closed,11.8,4,Met
+T01762,C0166,E0073,Network Issue,High,2026-02-15 19:00,Null,Open,Null,Null,Pending
+T01763,C0078,E0046,Login Issue,Medium,2025-08-13 12:00,2025-08-13 18:36,Resolved,6.6,4,Met
+T01764,C0166,E0062,Database Issue,High,2026-07-27 19:00,2026-07-28 11:42,Closed,16.7,5,Breached
+T01765,C0176,E0055,Application Error,Medium,2026-04-25 15:00,2026-04-26 04:36,Resolved,13.6,5,Breached
+T01766,C0179,E0099,Security Issue,Low,2026-02-19 12:00,2026-02-20 14:54,Closed,26.9,5,Breached
+T01767,C0169,E0046,Database Issue,High,2025-02-25 11:00,Null,In Progress,Null,Null,Pending
+T01768,C0089,E0011,Software Installation,High,2025-07-19 08:00,2025-07-19 11:12,Resolved,3.2,4,Met
+T01769,C0019,E0141,Application Error,Medium,2025-04-17 02:00,2025-04-17 07:12,Resolved,5.2,3,Met
+T01770,C0122,E0105,Security Issue,Low,2025-12-10 00:00,2025-12-10 14:00,Closed,14,4,Met
+T01771,C0029,E0148,Network Issue,Critical,2025-10-16 05:00,Null,In Progress,Null,Null,Pending
+T01772,C0039,E0068,Feature Request,Critical,2025-04-20 02:00,Null,In Progress,Null,Null,Pending
+T01773,C0123,E0148,Network Issue,Medium,2025-01-12 09:00,2025-01-13 14:18,Resolved,29.3,1,Breached
+T01774,C0129,E0083,Network Issue,Low,2026-07-19 06:00,2026-07-19 20:48,Closed,14.8,4,Met
+T01775,C0061,E0031,Login Issue,Medium,2025-09-04 08:00,2025-09-04 21:42,Resolved,13.7,4,Breached
+T01776,C0087,E0031,Application Error,Medium,2026-08-07 18:00,2026-08-07 21:18,Resolved,3.3,4,Met
+T01777,C0121,E0067,Login Issue,Medium,2026-08-01 15:00,2026-08-02 05:42,Resolved,14.7,4,Breached
+T01778,C0162,E0131,Login Issue,High,2025-02-19 10:00,2025-02-20 05:12,Resolved,19.2,5,Breached
+T01779,C0144,E0067,Application Error,High,2025-11-13 00:00,Null,Escalated,Null,Null,Pending
+T01780,C0021,E0122,Security Issue,Medium,2025-10-17 12:00,2025-10-18 11:18,Resolved,23.3,4,Breached
+T01781,C0174,E0148,Feature Request,High,2025-07-19 10:00,2025-07-19 16:00,Resolved,6,5,Met
+T01782,C0139,E0105,Software Installation,Low,2025-12-31 04:00,2026-01-01 18:48,Resolved,38.8,3,Breached
+T01783,C0073,E0006,Application Error,Medium,2025-12-06 13:00,2025-12-07 19:42,Closed,30.7,4,Breached
+T01784,C0151,E0148,Feature Request,Medium,2025-04-14 16:00,2025-04-15 10:48,Resolved,18.8,4,Breached
+T01785,C0179,E0129,Database Issue,Low,2025-01-25 18:00,2025-01-26 08:30,Closed,14.5,5,Met
+T01786,C0134,E0112,Software Installation,Medium,2026-05-04 18:00,2026-05-05 04:06,Closed,10.1,4,Met
+T01787,C0054,E0083,Login Issue,Critical,2025-10-25 05:00,Null,In Progress,Null,Null,Pending
+T01788,C0131,E0112,Database Issue,High,2026-04-20 02:00,Null,In Progress,Null,Null,Pending
+T01789,C0096,E0062,Application Error,Medium,2025-08-26 06:00,2025-08-26 18:18,Resolved,12.3,4,Breached
+T01790,C0157,E0112,Database Issue,High,2025-06-14 16:00,2025-06-15 03:42,Closed,11.7,5,Breached
+T01791,C0141,E0105,Feature Request,High,2026-06-20 10:00,2026-06-20 14:48,Resolved,4.8,4,Met
+T01792,C0009,E0105,Data Issue,High,2025-05-15 10:00,2025-05-15 11:42,Resolved,1.7,5,Met
+T01793,C0137,E0031,Performance Issue,Medium,2026-01-04 19:00,2026-01-05 16:00,Resolved,21,3,Breached
+T01794,C0140,E0141,Software Installation,Low,2025-02-10 22:00,Null,Open,Null,Null,Pending
+T01795,C0053,E0131,Software Installation,Medium,2025-09-02 06:00,2025-09-02 12:06,Closed,6.1,4,Met
+T01796,C0038,E0073,Access/Permission,Medium,2025-03-18 04:00,2025-03-18 17:06,Closed,13.1,4,Breached
+T01797,C0078,E0041,Access/Permission,Medium,2026-05-25 03:00,2026-05-25 10:18,Resolved,7.3,4,Met
+T01798,C0044,E0080,Login Issue,Medium,2025-05-27 09:00,2025-05-27 17:12,Resolved,8.2,4,Met
+T01799,C0046,E0042,Feature Request,Medium,2025-03-31 15:00,Null,Open,Null,Null,Pending
+T01800,C0022,E0068,Application Error,Critical,2026-04-11 10:00,Null,Open,Null,Null,Pending

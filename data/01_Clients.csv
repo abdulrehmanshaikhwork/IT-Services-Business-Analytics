@@ -1,0 +1,183 @@
+Client_ID,Client_Name,Industry,Client_Type,City,State,Country,Join_Date,Account_Manager_ID,Client_Status
+C0001,FusionWorks 1,Media,SME,Delhi,Delhi,India,2023-11-10,E0109,Active
+C0002,GreenLabs 2,Telecommunications,Startup,Bengaluru,Karnataka,India,2026-06-15,E0136,Active
+C0003,CloudDigital 3,Education,Enterprise,Indore,Madhya Pradesh,India,2026-04-28,E0076,Active
+C0004,OrbitSolutions 4,Unknown,SME,Delhi,Delhi,India,2024-07-25,E0119,Active
+C0005,FinDigital 5,Education,SME,Hyderabad,Telangana,India,2024-11-19,E0003,Inactive
+C0006,PrimeWorks 6,E-commerce,Startup,Noida,Uttar Pradesh,India,2024-03-10,E0101,Active
+C0007,BluePeakLabs 7,Retail,Enterprise,Indore,Madhya Pradesh,India,2026-05-05,E0146,Inactive
+C0008,GreenTech 8,Retail,SME,Surat,Gujarat,India,2025-11-24,E0072,Active
+C0009,ZenithDigital 9,Banking,Startup,Mumbai,Maharashtra,India,2025-09-27,E0136,Active
+C0010,ZenithWorks 10,Banking,Mid-Market,Indore,Madhya Pradesh,India,2025-10-02,E0119,Active
+C0011,BrightLabs 11,IT & Software,Mid-Market,Indore,Madhya Pradesh,India,2024-03-29,E0106,Active
+C0012,NexaEnterprises 12,Banking,Mid-Market,Kolkata,West Bengal,India,2025-08-27,E0136,Active
+C0013,ApexGroup 13,E-commerce,Enterprise,Ahmedabad,Gujarat,India,2024-11-08,E0101,Active
+C0014,NexaLabs 14,Education,Mid-Market,Kolkata,West Bengal,India,2024-05-29,E0074,Active
+C0015,VertexEnterprises 15,Telecommunications,Startup,Mumbai,Maharashtra,India,2023-09-02,E0147,Active
+C0016,PrimeIndustries 16,Telecommunications,Mid-Market,Ahmedabad,Gujarat,India,2024-03-19,E0147,Active
+C0017,ZenithGroup 17,Retail,Mid-Market,Noida,Uttar Pradesh,India,2026-05-07,E0085,Active
+C0018,NexaIndustries 18,Banking,Mid-Market,Mumbai,Maharashtra,India,2025-01-09,E0061,Active
+C0019,ZenithGroup 19,IT & Software,Enterprise,Chennai,Tamil Nadu,India,2023-09-17,E0076,Active
+C0020,GreenLabs 20,IT & Software,Mid-Market,Pune,Maharashtra,India,2023-09-16,E0139,Inactive
+C0021,BrightTech 21,Education,Mid-Market,Nagpur,Maharashtra,India,2026-03-21,E0085,Active
+C0022,CloudEnterprises 22,Education,SME,Noida,Uttar Pradesh,India,2024-01-13,E0017,Active
+C0023,BrightSolutions 23,Education,SME,Chennai,Tamil Nadu,India,2025-03-31,E0128,Active
+C0024,UrbanTech 24,Real Estate,Startup,Mumbai,Maharashtra,India,2023-11-07,E0059,Active
+C0025,NexaSolutions 25,Real Estate,Mid-Market,Indore,Madhya Pradesh,India,2024-05-23,E0052,Active
+C0026,FinIndustries 26,Unknown,Startup,Ahmedabad,Gujarat,India,2025-12-06,E0106,Active
+C0027,NexaDigital 27,Education,SME,Noida,Uttar Pradesh,India,2024-09-17,E0137,Active
+C0028,FinSolutions 28,IT & Software,SME,Vadodara,Gujarat,India,2024-03-01,E0139,Active
+C0029,UrbanSolutions 29,Retail,Startup,Hyderabad,Telangana,India,2023-11-18,E0074,Active
+C0030,BrightSystems 30,Logistics,Enterprise,Bengaluru,Karnataka,India,2023-01-06,E0109,Active
+C0031,FinWorks 31,Telecommunications,Mid-Market,Noida,Uttar Pradesh,India,2024-08-19,E0017,Active
+C0032,ZenithLabs 32,Retail,Enterprise,Hyderabad,Telangana,India,2025-07-18,E0051,Active
+C0033,FusionLabs 33,Banking,Mid-Market,Jaipur,Rajasthan,India,2026-07-04,E0137,Active
+C0034,ApexSolutions 34,Banking,Mid-Market,Jaipur,Rajasthan,India,2026-01-20,E0074,Active
+C0035,FusionLabs 35,Finance,SME,Jaipur,Rajasthan,India,2023-10-19,E0051,Active
+C0036,CoreLabs 36,Finance,Enterprise,pune,Maharashtra,India,2026-05-03,E0147,Active
+C0037,FusionLabs 37,Real Estate,Startup,Nagpur,Maharashtra,India,2025-06-18,E0052,Active
+C0038,NexaDigital 38,Telecommunications,Mid-Market,Noida,Uttar Pradesh,India,2024-07-11,E0134,Active
+C0039,CloudSolutions 39,Education,Mid-Market,Ahmedabad,Gujarat,India,2026-05-09,E0017,Active
+C0040,ZenithEnterprises 40,Manufacturing,Enterprise,Surat,Gujarat,India,2026-05-21,E0076,Active
+C0041,VertexTech 41,Healthcare,SME,Pune,Maharashtra,India,2024-07-05,E0137,Active
+C0042,CloudGroup 42,Finance,Enterprise,Pune,Maharashtra,India,2025-06-24,E0076,Active
+C0043,ApexWorks 43,Real Estate,SME,Bengaluru,Karnataka,India,2023-07-06,E0128,Active
+C0044,BluePeakEnterprises 44,Manufacturing,Enterprise,Delhi,Delhi,India,2023-08-03,E0061,Active
+C0045,ZenithWorks 45,Manufacturing,Enterprise,Delhi,Delhi,India,2024-08-13,E0145,Active
+C0046,NovaWorks 46,Logistics,Enterprise,Gurugram,Haryana,India,2023-06-30,E0088,Active
+C0047,BrightDigital 47,E-commerce,Enterprise,Chennai,Tamil Nadu,India,2025-11-19,E0003,Active
+C0048,CloudDigital 48,Logistics,Startup,Jaipur,Rajasthan,India,2023-04-22,E0072,Active
+C0049,FinWorks 49,E-commerce,Mid-Market,Ahmedabad,Gujarat,India,2026-07-04,E0119,Active
+C0050,VertexLabs 50,IT & Software,Enterprise,Indore,Madhya Pradesh,India,2026-01-29,E0059,Active
+C0051,CloudWorks 51,Retail,Startup,Surat,Gujarat,India,2023-09-06,E0003,Active
+C0052,CoreIndustries 52,Real Estate,Enterprise,Jaipur,Rajasthan,India,2023-11-21,E0085,Active
+C0053,GreenDigital 53,IT & Software,Enterprise,Ahmedabad,Gujarat,India,2023-07-10,E0074,Active
+C0054,CloudSolutions 54,Healthcare,SME,Nagpur,Maharashtra,India,2023-11-12,E0128,Active
+C0055,NexaGroup 55,Telecommunications,Startup,surat,Gujarat,India,2024-07-13,E0109,Active
+C0056,CloudIndustries 56,Education,Mid-Market,Nagpur,Maharashtra,India,2025-07-24,E0136,Active
+C0057,VertexGroup 57,Manufacturing,Mid-Market,Bengaluru,Karnataka,India,2023-10-07,E0051,Active
+C0058,BluePeakGroup 58,Manufacturing,Mid-Market,Chennai,Tamil Nadu,India,2024-07-01,E0003,Active
+C0059,NexaWorks 59,Telecommunications,Mid-Market,Chennai,Tamil Nadu,India,2023-11-01,E0119,Active
+C0060,BluePeakEnterprises 60,Education,Mid-Market,Ahmedabad,Gujarat,India,2026-02-04,E0136,Active
+C0061,FusionEnterprises 61,Education,Startup,Gurugram,Haryana,India,2024-01-22,E0146,Active
+C0062,ApexIndustries 62,Real Estate,Enterprise,Hyderabad,Telangana,India,2025-04-21,E0017,Active
+C0063,CloudDigital 63,Telecommunications,Mid-Market,Delhi,Delhi,India,2025-03-01,E0145,Active
+C0064,PrimeWorks 64,Media,SME,Indore,Madhya Pradesh,India,2023-03-17,E0059,Active
+C0065,BluePeakSolutions 65,Real Estate,Enterprise,Ahmedabad,Gujarat,India,2025-06-20,E0052,Active
+C0066,NovaSystems 66,Education,Mid-Market,Ahmedabad,Gujarat,India,2025-04-19,E0139,Active
+C0067,CloudLabs 67,Healthcare,Mid-Market,Bengaluru,Karnataka,India,2024-11-24,E0138,Active
+C0068,UrbanSolutions 68,Manufacturing,SME,Kolkata,West Bengal,India,2024-11-03,E0145,Inactive
+C0069,ApexEnterprises 69,Logistics,Mid-Market,Nagpur,Maharashtra,India,2026-07-07,E0146,Active
+C0070,OrbitGroup 70,Education,Mid-Market,Surat,Gujarat,India,2023-03-15,E0138,Active
+C0071,UrbanLabs 71,Banking,Startup,Mumbai,Maharashtra,India,2024-04-10,E0147,Active
+C0072,BrightSolutions 72,Manufacturing,SME,Mumbai,Maharashtra,India,2025-06-27,E0061,Active
+C0073,FusionTech 73,Retail,SME,Kolkata,West Bengal,India,2023-04-05,E0088,Active
+C0074,NexaEnterprises 74,IT & Software,SME,Indore,Madhya Pradesh,India,2025-02-06,E0109,Active
+C0075,GreenDigital 75,Banking,Enterprise,Bengaluru,Karnataka,India,2026-03-05,E0145,Active
+C0076,PrimeSystems 76,Finance,Startup,Indore,Madhya Pradesh,India,2023-06-11,E0138,Active
+C0077,FinIndustries 77,Manufacturing,SME,Nagpur,Maharashtra,India,2025-10-16,E0137,Active
+C0078,CloudLabs 78,Banking,SME,Bengaluru,Karnataka,India,2025-07-30,E0076,Active
+C0079,FusionWorks 79,IT & Software,Startup,Jaipur,Rajasthan,India,2024-08-12,E0145,Active
+C0080,BrightWorks 80,Finance,Mid-Market,Ahmedabad,Gujarat,India,2024-12-08,E0137,Active
+C0081,ApexLabs 81,Media,Enterprise,Chennai,Tamil Nadu,India,2025-07-24,E0085,Active
+C0082,OrbitWorks 82,Manufacturing,SME,Hyderabad,Telangana,India,2023-08-07,E0074,Active
+C0083,BluePeakLabs 83,Unknown,SME,Gurugram,Haryana,India,2024-08-27,E0003,Active
+C0084,ApexLabs 84,Media,Mid-Market,Nagpur,Maharashtra,India,2023-01-17,E0137,Active
+C0085,CoreTech 85,Media,Mid-Market,Nagpur,Maharashtra,India,2026-05-26,E0147,Active
+C0086,CoreIndustries 86,Retail,Mid-Market,Noida,Uttar Pradesh,India,2026-05-28,E0101,Active
+C0087,VertexLabs 87,Media,Mid-Market,Hyderabad,Telangana,India,2023-10-08,E0139,Active
+C0088,UrbanTech 88,Media,Startup,Mumbai,Maharashtra,India,2024-09-24,E0119,Active
+C0089,BluePeakSystems 89,Real Estate,Enterprise,Pune,Maharashtra,India,2023-07-04,E0085,Active
+C0090,ApexSystems 90,Telecommunications,Mid-Market,Delhi,Delhi,India,2024-02-16,E0059,Active
+C0091,FusionEnterprises 91,Logistics,Enterprise,Indore,Madhya Pradesh,India,2025-12-23,E0134,Active
+C0092,OrbitSystems 92,Retail,SME,Surat,Gujarat,India,2024-06-10,E0128,Active
+C0093,ZenithEnterprises 93,Retail,SME,Indore,Madhya Pradesh,India,2023-08-24,E0119,Active
+C0094,CoreIndustries 94,Finance,Enterprise,Mumbai,Maharashtra,India,2025-03-24,E0136,Active
+C0095,CoreDigital 95,Healthcare,Mid-Market,Delhi,Delhi,India,2023-01-29,E0076,Active
+C0096,CloudEnterprises 96,Healthcare,Mid-Market,Ahmedabad,Gujarat,India,2024-06-20,E0137,Active
+C0097,BluePeakSolutions 97,Media,SME,Gurugram,Haryana,India,2024-04-23,E0128,Active
+C0098,FusionGroup 98,Real Estate,SME,Pune,Maharashtra,India,2024-11-02,E0138,Active
+C0099,BrightWorks 99,Media,SME,Hyderabad,Telangana,India,2024-09-10,E0139,Active
+C0100,PrimeTech 100,Healthcare,Enterprise,gurugram,Haryana,India,2023-03-18,E0085,Inactive
+C0101,BrightIndustries 101,Healthcare,Enterprise,Noida,Uttar Pradesh,India,2026-01-05,E0059,Inactive
+C0102,BluePeakGroup 102,Education,Mid-Market,Gurugram,Haryana,India,2025-05-08,E0137,Active
+C0103,PrimeDigital 103,Telecommunications,Mid-Market,Kolkata,West Bengal,India,2023-07-22,E0128,Active
+C0104,NexaTech 104,Manufacturing,SME,Vadodara,Gujarat,India,2025-01-28,E0072,Active
+C0105,VertexEnterprises 105,Education,SME,Noida,Uttar Pradesh,India,2023-07-23,E0145,Active
+C0106,FusionEnterprises 106,Logistics,SME,Delhi,Delhi,India,2023-05-05,E0106,Active
+C0107,BrightWorks 107,Banking,Mid-Market,Chennai,Tamil Nadu,India,2023-07-07,E0145,Active
+C0108,UrbanTech 108,Media,Startup,Hyderabad,Telangana,India,2023-04-14,E0088,Inactive
+C0109,CoreIndustries 109,Finance,Enterprise,Hyderabad,Telangana,India,2023-05-21,E0136,Active
+C0110,VertexIndustries 110,Real Estate,Startup,Hyderabad,Telangana,India,2024-11-03,E0059,Active
+C0111,NovaLabs 111,Real Estate,SME,Indore,Madhya Pradesh,India,2023-10-24,E0059,Inactive
+C0112,CoreSystems 112,Retail,Enterprise,Ahmedabad,Gujarat,India,2023-08-14,E0145,Active
+C0113,PrimeTech 113,IT & Software,Mid-Market,nagpur,Maharashtra,India,2025-01-03,E0074,Inactive
+C0114,NovaSystems 114,E-commerce,Startup,Vadodara,Gujarat,India,2024-06-27,E0017,Inactive
+C0115,ApexGroup 115,Telecommunications,Mid-Market,Bengaluru,Karnataka,India,2023-08-21,E0147,Active
+C0116,CloudEnterprises 116,Education,SME,Mumbai,Maharashtra,India,2025-11-17,E0137,Active
+C0117,GreenIndustries 117,Education,SME,mumbai,Maharashtra,India,2026-06-13,E0017,Active
+C0118,GreenLabs 118,Media,SME,Kolkata,West Bengal,India,2025-07-27,E0139,Active
+C0119,CloudDigital 119,IT & Software,Enterprise,Pune,Maharashtra,India,2025-05-23,E0145,Active
+C0120,ZenithWorks 120,Education,SME,Mumbai,Maharashtra,India,2023-05-31,E0051,Active
+C0121,PrimeSolutions 121,Real Estate,SME,Delhi,Delhi,India,2023-09-16,E0076,Active
+C0122,FinGroup 122,Media,Mid-Market,Vadodara,Gujarat,India,2024-10-27,E0106,Active
+C0123,NexaWorks 123,Logistics,SME,Vadodara,Gujarat,India,2025-11-01,E0138,Active
+C0124,CoreSolutions 124,Healthcare,SME,Gurugram,Haryana,India,2026-02-03,E0147,Active
+C0125,ApexWorks 125,Banking,SME,Nagpur,Maharashtra,India,2024-04-12,E0109,Active
+C0126,ApexDigital 126,Education,Enterprise,Delhi,Delhi,India,2023-07-14,E0088,Active
+C0127,UrbanLabs 127,E-commerce,Enterprise,Gurugram,Haryana,India,2025-02-05,E0059,Active
+C0128,BrightSolutions 128,Education,Mid-Market,Jaipur,Rajasthan,India,2023-06-24,E0051,Inactive
+C0129,ZenithEnterprises 129,Healthcare,SME,Gurugram,Haryana,India,2023-09-24,E0136,Inactive
+C0130,GreenGroup 130,Real Estate,Mid-Market,Pune,Maharashtra,India,2024-11-06,E0145,Active
+C0131,BluePeakDigital 131,Manufacturing,Mid-Market,Mumbai,Maharashtra,India,2023-04-16,E0085,Active
+C0132,BluePeakSolutions 132,Retail,SME,Vadodara,Gujarat,India,2026-03-29,E0134,Active
+C0133,UrbanWorks 133,Finance,Startup,Hyderabad,Telangana,India,2024-04-04,E0052,Active
+C0134,BluePeakSolutions 134,Logistics,Mid-Market,Delhi,Delhi,India,2024-07-24,E0137,Active
+C0135,OrbitGroup 135,Manufacturing,SME,Hyderabad,Telangana,India,2026-06-27,E0138,Active
+C0136,GreenTech 136,Media,Enterprise,Jaipur,Rajasthan,India,2026-06-01,E0145,Active
+C0137,NexaTech 137,Telecommunications,Mid-Market,Nagpur,Maharashtra,India,2024-01-05,E0076,Active
+C0138,FusionEnterprises 138,Retail,Enterprise,Kolkata,West Bengal,India,2024-12-19,E0003,Active
+C0139,FinDigital 139,Finance,Enterprise,Bengaluru,Karnataka,India,2023-05-23,E0059,Inactive
+C0140,NovaSolutions 140,Media,Mid-Market,Kolkata,West Bengal,India,2025-12-22,E0072,Active
+C0141,CloudEnterprises 141,Manufacturing,SME,Gurugram,Haryana,India,2023-11-19,E0101,Active
+C0142,BluePeakSolutions 142,Telecommunications,Startup,Chennai,Tamil Nadu,India,2023-04-18,E0059,Active
+C0143,NovaSolutions 143,Real Estate,Enterprise,Bengaluru,Karnataka,India,2024-07-11,E0119,Active
+C0144,CloudWorks 144,Manufacturing,Startup,Jaipur,Rajasthan,India,2025-04-28,E0076,Inactive
+C0145,BrightEnterprises 145,Logistics,Mid-Market,Hyderabad,Telangana,India,2025-05-30,E0052,Active
+C0146,UrbanWorks 146,Media,Enterprise,Chennai,Tamil Nadu,India,2025-12-15,E0145,Inactive
+C0147,VertexDigital 147,IT & Software,Enterprise,Chennai,Tamil Nadu,India,2026-05-12,E0017,Inactive
+C0148,NexaIndustries 148,Banking,SME,Pune,Maharashtra,India,2023-10-09,E0076,Active
+C0149,BrightTech 149,E-commerce,Mid-Market,Chennai,Tamil Nadu,India,2025-10-15,E0147,Active
+C0150,PrimeDigital 150,Finance,Enterprise,Gurugram,Haryana,India,2025-12-26,E0146,Active
+C0151,GreenEnterprises 151,Logistics,Enterprise,Hyderabad,Telangana,India,2023-05-28,E0106,Active
+C0152,NovaDigital 152,Telecommunications,Mid-Market,Nagpur,Maharashtra,India,2023-02-08,E0119,Active
+C0153,OrbitEnterprises 153,Healthcare,Startup,Surat,Gujarat,India,2026-03-25,E0109,Active
+C0154,ZenithDigital 154,Manufacturing,Startup,Vadodara,Gujarat,India,2024-08-15,E0052,Inactive
+C0155,BluePeakSystems 155,IT & Software,Enterprise,Gurugram,Haryana,India,2026-06-19,E0119,Active
+C0156,FusionEnterprises 156,Telecommunications,SME,Nagpur,Maharashtra,India,2023-06-30,E0109,Active
+C0157,VertexDigital 157,Healthcare,Enterprise,Nagpur,Maharashtra,India,2026-04-21,E0106,Active
+C0158,ApexLabs 158,Healthcare,Enterprise,Ahmedabad,Gujarat,India,2024-11-26,E0074,Active
+C0159,BrightGroup 159,Finance,Mid-Market,Delhi,Delhi,India,2026-07-20,E0052,Active
+C0160,VertexEnterprises 160,Logistics,SME,Ahmedabad,Gujarat,India,2024-12-20,E0147,Active
+C0161,OrbitSystems 161,Media,Startup,Nagpur,Maharashtra,India,2024-04-28,E0052,Active
+C0162,VertexSystems 162,Retail,Enterprise,bengaluru,Karnataka,India,2026-05-18,E0059,Active
+C0163,BrightSystems 163,Media,Startup,Indore,Madhya Pradesh,India,2026-07-10,E0128,Active
+C0164,CoreWorks 164,Real Estate,SME,Noida,Uttar Pradesh,India,2026-03-02,E0139,Active
+C0165,BluePeakEnterprises 165,Real Estate,SME,Jaipur,Rajasthan,India,2023-11-06,E0119,Active
+C0166,CloudLabs 166,Education,Mid-Market,Mumbai,Maharashtra,India,2024-07-16,E0137,Active
+C0167,GreenSolutions 167,E-commerce,Mid-Market,Pune,Maharashtra,India,2024-09-27,E0119,Active
+C0168,NovaEnterprises 168,IT & Software,Mid-Market,Noida,Uttar Pradesh,India,2024-08-10,E0051,Active
+C0169,FinGroup 169,Healthcare,Enterprise,Jaipur,Rajasthan,India,2025-02-26,E0119,Active
+C0170,CoreTech 170,Logistics,Enterprise,Vadodara,Gujarat,India,2025-07-10,E0137,Active
+C0171,BluePeakWorks 171,Banking,Mid-Market,Jaipur,Rajasthan,India,2025-10-23,E0059,Active
+C0172,BrightEnterprises 172,Education,SME,Pune,Maharashtra,India,2023-06-22,E0134,Active
+C0173,NovaIndustries 173,Finance,Mid-Market,Jaipur,Rajasthan,India,2025-06-15,E0119,Active
+C0174,FinSystems 174,Logistics,SME,Ahmedabad,Gujarat,India,2025-01-15,E0101,Active
+C0175,ApexDigital 175,Retail,Startup,Surat,Gujarat,India,2024-11-23,E0145,Active
+C0176,CoreEnterprises 176,IT & Software,SME,Vadodara,Gujarat,India,2023-05-15,E0088,Active
+C0177,UrbanDigital 177,Logistics,Startup,Mumbai,Maharashtra,India,2024-08-04,E0076,Active
+C0178,FusionSystems 178,Unknown,SME,Kolkata,West Bengal,India,2024-11-13,E0051,Active
+C0179,PrimeEnterprises 179,Media,SME,Vadodara,Gujarat,India,2024-09-27,E0139,Active
+C0180,ApexSystems 180,Media,SME,Kolkata,West Bengal,India,2026-05-03,E0146,Active
+C0011,BrightLabs 11,IT & Software,Mid-Market,Indore,Madhya Pradesh,India,2024-03-29,E0106,Active
+C0056,CloudIndustries 56,Education,Mid-Market,Nagpur,Maharashtra,India,2025-07-24,E0136,Active
